@@ -80,3 +80,44 @@ timestamp,pid,process,current_kbps,avg_kbps,classification,resolved_host
 2026-03-30 10:15:01,23940,msedge.exe,1313.6,338.1,Video/Download (CDN),r.cloudfront.net
 2026-03-30 10:15:03,23940,msedge.exe,97.9,354.2,Video/Download (CDN),r.cloudfront.net
 2026-03-30 10:15:05,23940,msedge.exe,7.8,327.6,Video/Download (CDN),r.cloudfront.net
+2026-03-31 09:42:38,10704,code.exe,9.0,18.0,Web Browsing (Low traffic),0,
+2026-03-31 09:42:38,7212,msedge.exe,2.7,0.7,Web Browsing (Low traffic),0,
+2026-03-31 09:42:42,10704,code.exe,9.0,14.8,Web Browsing (Low traffic),0,
+2026-03-31 09:42:44,7212,msedge.exe,1.8,1.0,Dev/Download (GitHub),0,lb-140-82-114-26-iad.github.com
+2026-03-31 09:42:46,10704,code.exe,9.0,18.5,Web Browsing (Low traffic),0,
+2026-03-31 09:42:50,10704,code.exe,7.2,16.0,Web Browsing (Low traffic),0,
+2026-03-31 09:42:52,7212,msedge.exe,3797.9,380.5,Dev/Download (GitHub),0,lb-140-82-114-26-iad.github.com
+2026-03-31 09:42:54,7212,msedge.exe,3.6,438.9,Dev/Download (GitHub),0,lb-140-82-114-26-iad.github.com
+2026-03-31 09:42:56,7212,msedge.exe,9106.5,1643.6,Dev/Download (GitHub),0,lb-140-82-114-26-iad.github.com
+2026-03-31 09:42:58,7212,msedge.exe,7.8,1646.3,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-03-31 09:43:00,10704,code.exe,9.0,22.7,Light Web Browsing,0,
+2026-03-31 09:43:08,7212,msedge.exe,26.9,63.4,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-03-31 09:43:10,7212,msedge.exe,122.5,55.2,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-03-31 09:43:12,7212,msedge.exe,221.3,77.3,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-03-31 09:43:12,10704,code.exe,66.2,11.3,Web Browsing (Low traffic),0,
+2026-03-31 09:43:14,7212,msedge.exe,63.6,52.0,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-03-31 09:43:16,7212,msedge.exe,1166.4,179.9,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-03-31 09:43:16,10704,code.exe,68.0,13.4,Web Browsing (Low traffic),0,
+2026-03-31 09:43:18,7212,msedge.exe,186.4,224.5,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-03-31 09:43:18,10704,code.exe,105.4,24.0,Light Web Browsing,0,
+2026-03-31 09:43:20,10704,code.exe,174.7,51.0,Light Web Browsing,0,
+2026-03-31 09:43:20,7212,msedge.exe,171.7,257.9,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-03-31 09:43:20,11556,chrome.exe,1.8,0.5,Web Browsing (Low traffic),0,
+2026-03-31 09:43:22,5240,code.exe,21607.4,7344.0,Large File Download,0,
+2026-03-31 09:43:22,7212,msedge.exe,2345.7,479.3,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-03-31 09:43:22,11556,chrome.exe,1.8,0.7,Web Browsing (Low traffic),0,
+2026-03-31 09:43:24,7212,msedge.exe,174.1,538.5,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-03-31 09:43:24,10704,code.exe,7.2,49.1,Light Web Browsing,0,
+2026-03-31 09:43:26,7212,msedge.exe,152.1,438.8,Cloud/Download (AWS),75,compute-1.amazonaws.com
+2026-03-31 09:43:26,10704,code.exe,54.3,53.6,Light Web Browsing,0,
+2026-03-31 09:43:28,7212,msedge.exe,117.0,486.9,Cloud/Download (AWS),79,compute-1.amazonaws.com
+2026-03-31 09:43:30,7212,msedge.exe,7.4,452.5,Cloud/Download (AWS),98,compute-1.amazonaws.com
+2026-03-31 09:43:32,10704,code.exe,40.2,26.7,Light Web Browsing,0,
+2026-03-31 09:43:32,7212,msedge.exe,7.8,197.8,Cloud/Download (AWS),98,compute-1.amazonaws.com
+2026-03-31 09:43:40,5240,code.exe,16431.5,7877.3,Large File Download,0,
+2026-03-31 09:43:52,7212,msedge.exe,3807.0,380.9,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-03-31 09:43:52,1156,nvidia overlay.exe,1.7,0.3,Web Browsing (Low traffic),0,
+2026-03-31 09:43:54,7212,msedge.exe,3.6,426.2,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-03-31 09:43:56,10704,code.exe,9.0,6.6,Web Browsing (Low traffic),0,
+2026-03-31 09:44:00,10704,code.exe,7.2,11.3,Web Browsing (Low traffic),0,
+2026-03-31 09:44:02,1156,nvidia overlay.exe,11.3,1.1,Web Browsing (Low traffic),0,
