@@ -1,1 +1,0 @@
-timestamp,pid,process,app_class,severity,current_kbps,baseline_kbps,degraded_secs,reason

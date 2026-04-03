@@ -1,1 +1,0 @@
-timestamp,pid,process,app_class,severity,cause,confidence,secondary_cause,evidence,recommendation,rtt_ms,jitter_ms,rtt_baseline_ms,rtt_jump,rtt_sustained,retransmit_rate,dns_ms,wifi_pct,cpu_pct
