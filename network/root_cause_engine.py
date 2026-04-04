@@ -29,8 +29,15 @@ CAUSE_CONNECTION_DROP    = "Intermittent connection drop"
 CAUSE_UNKNOWN            = "Unknown — insufficient signal data"
 
 def _network_looks_healthy(snap: SignalSnapshot) -> bool:
-    return (not snap.rtt_jump and not snap.rtt_sustained_high and not snap.retransmit_high 
+    # rtt_ms == -1 means ping failed entirely — that is NOT healthy
+    if snap.rtt_ms < 0:
+        return False
+    return (not snap.rtt_jump and not snap.rtt_sustained_high and not snap.retransmit_high
             and not snap.dns_slow and not snap.wifi_weak and snap.rtt_ms < 150)
+
+def _ping_totally_failed(snap: SignalSnapshot) -> bool:
+    """Ping returned no data at all — heavy packet loss or complete block."""
+    return snap.rtt_ms < 0
 
 def _packet_loss_cause(snap: SignalSnapshot) -> tuple:
     evidence = [f"TCP retransmissions: {snap.retransmit_rate:.1f}/s (threshold 5/s)"]
@@ -48,6 +55,14 @@ def _packet_loss_cause(snap: SignalSnapshot) -> tuple:
 
 def _diagnose_gaming(snap: SignalSnapshot, alert: Alert) -> tuple:
     evidence = []
+    # Ping totally failed — heavy packet loss before RTT can even be measured
+    if _ping_totally_failed(snap):
+        evidence.append("Ping to target completely failed — severe packet loss or connection drop")
+        if snap.retransmit_high:
+            cause, conf, pkt_ev = _packet_loss_cause(snap)
+            return cause, conf, evidence + pkt_ev, "Use ethernet or contact ISP about packet loss"
+        cause, conf, pkt_ev = _packet_loss_cause(snap)
+        return cause, conf, evidence + pkt_ev, "Check Wi-Fi signal or contact ISP"
     if snap.jitter_ms > 20:
         evidence.append(f"High jitter: {snap.jitter_ms:.1f}ms (>20ms hurts gaming)")
         if snap.retransmit_high:
@@ -86,6 +101,10 @@ def _diagnose_gaming(snap: SignalSnapshot, alert: Alert) -> tuple:
 
 def _diagnose_video_streaming(snap: SignalSnapshot, alert: Alert) -> tuple:
     evidence = []
+    if _ping_totally_failed(snap):
+        evidence.append("Ping completely failed — severe packet loss causing video buffer to drain")
+        cause, conf, pkt_ev = _packet_loss_cause(snap)
+        return cause, conf, evidence + pkt_ev, "Switch to ethernet or move closer to router"
     if snap.retransmit_high:
         cause, conf, pkt_ev = _packet_loss_cause(snap)
         return cause, conf, pkt_ev + [f"Packet loss is draining the video buffer (severity {alert.severity})"], "Switch to ethernet or move closer to router"
@@ -113,6 +132,10 @@ def _diagnose_video_streaming(snap: SignalSnapshot, alert: Alert) -> tuple:
 
 def _diagnose_download(snap: SignalSnapshot, alert: Alert) -> tuple:
     evidence = []
+    if _ping_totally_failed(snap):
+        evidence.append("Ping completely failed — severe packet loss halting download")
+        cause, conf, pkt_ev = _packet_loss_cause(snap)
+        return cause, conf, evidence + pkt_ev, "Use ethernet for large downloads"
     if snap.retransmit_high:
         cause, conf, pkt_ev = _packet_loss_cause(snap)
         return cause, conf, pkt_ev + ["Packet loss is causing TCP to reduce its window size"], "Use ethernet for large downloads"
@@ -132,6 +155,10 @@ def _diagnose_download(snap: SignalSnapshot, alert: Alert) -> tuple:
 
 def _diagnose_default(snap: SignalSnapshot, alert: Alert) -> tuple:
     evidence = []
+    if _ping_totally_failed(snap):
+        evidence.append("Ping completely failed — severe packet loss or connection drop")
+        cause, conf, pkt_ev = _packet_loss_cause(snap)
+        return cause, conf, evidence + pkt_ev, "Check Wi-Fi signal or contact ISP"
     if snap.dns_slow:
         evidence.append(f"DNS: {snap.dns_ms:.0f}ms — slow DNS delays every new page load")
         return CAUSE_DNS_PROBLEM, 78, evidence, "Switch DNS to 8.8.8.8"
@@ -155,6 +182,7 @@ def _diagnose_default(snap: SignalSnapshot, alert: Alert) -> tuple:
 def _route_to_tree(app_class: str):
     ac = app_class.lower()
     if "gaming"    in ac: return _diagnose_gaming
+    if "conference" in ac: return _diagnose_default   # must come before "video"
     if "video"     in ac: return _diagnose_video_streaming
     if "download"  in ac: return _diagnose_download
     return _diagnose_default

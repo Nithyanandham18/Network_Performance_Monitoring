@@ -3743,3 +3743,2060 @@ timestamp,pid,process,current_kbps,avg_kbps,classification,resolved_host
 2026-04-03 23:29:21,11584,chrome.exe,2054.8,2347.9,Dev/Download (GitHub),21,lb-140-82-114-25-iad.github.com
 2026-04-03 23:29:21,5092,nortonsvc.exe,1282.2,7886.7,Large File Download,93,
 2026-04-03 23:29:21,5276,nlltoolssvc.exe,55.4,34.6,Light Web Browsing,0,
+2026-04-04 10:43:07,30632,msedge.exe,594.6,297.3,Active Web / Media,0,
+2026-04-04 10:43:07,31292,explorer.exe,108.2,54.1,Light Web Browsing,0,
+2026-04-04 10:43:07,15784,code.exe,59.6,29.8,Light Web Browsing,0,
+2026-04-04 10:43:09,36140,code.exe,426.2,189.3,Light Web Browsing,0,
+2026-04-04 10:43:09,31292,explorer.exe,108.2,54.1,Light Web Browsing,0,
+2026-04-04 10:43:11,31292,explorer.exe,108.2,54.1,Light Web Browsing,0,
+2026-04-04 10:43:11,30632,msedge.exe,5.4,100.0,Light Web Browsing,0,
+2026-04-04 10:43:13,31292,explorer.exe,108.2,54.1,Light Web Browsing,0,
+2026-04-04 10:43:13,30632,msedge.exe,2.7,75.3,Light Web Browsing,0,
+2026-04-04 10:43:16,36140,code.exe,3402.2,992.5,Active Web / Media,0,
+2026-04-04 10:43:16,31292,explorer.exe,144.1,60.3,Light Web Browsing,0,
+2026-04-04 10:43:18,31292,explorer.exe,109.1,60.4,Light Web Browsing,0,
+2026-04-04 10:43:20,30632,msedge.exe,530.9,79.4,Light Web Browsing,0,
+2026-04-04 10:43:20,31292,explorer.exe,41.1,61.6,Light Web Browsing,0,
+2026-04-04 10:43:22,30632,msedge.exe,89.6,100.7,Light Web Browsing,0,
+2026-04-04 10:43:22,31292,explorer.exe,75.6,60.5,Light Web Browsing,0,
+2026-04-04 10:43:24,30632,msedge.exe,1727.4,438.9,Video Streaming (Bursty),0,
+2026-04-04 10:43:24,31292,explorer.exe,49.5,54.7,Light Web Browsing,0,
+2026-04-04 10:43:24,15784,code.exe,7.2,9.7,Web Browsing (Low traffic),0,
+2026-04-04 10:43:26,30632,msedge.exe,746.0,572.4,Active Web / Media,0,
+2026-04-04 10:43:26,31292,explorer.exe,42.3,41.9,Light Web Browsing,63,
+2026-04-04 10:43:28,30632,msedge.exe,1494.6,956.0,Active Web / Media,0,
+2026-04-04 10:43:28,31292,explorer.exe,59.2,36.9,Light Web Browsing,44,
+2026-04-04 10:43:30,30632,msedge.exe,570.8,987.6,Active Web / Media,0,
+2026-04-04 10:43:32,30632,msedge.exe,1.8,939.0,Active Web / Media,0,
+2026-04-04 10:43:34,31292,explorer.exe,802.6,123.9,Light Web Browsing,0,
+2026-04-04 10:43:34,30632,msedge.exe,496.1,814.5,Active Web / Media,0,
+2026-04-04 10:43:36,30632,msedge.exe,82.6,595.4,Active Web / Media,0,
+2026-04-04 10:43:36,31292,explorer.exe,49.5,125.9,Light Web Browsing,0,
+2026-04-04 10:43:38,30632,msedge.exe,629.6,350.8,Active Web / Media,4,
+2026-04-04 10:43:38,31292,explorer.exe,74.7,219.1,Active Web / Media,0,
+2026-04-04 10:43:40,36140,code.exe,283.1,1925.1,Download / Rich Streaming,0,
+2026-04-04 10:43:40,30632,msedge.exe,190.4,173.3,Light Web Browsing,76,
+2026-04-04 10:43:40,31292,explorer.exe,41.1,217.3,Active Web / Media,0,
+2026-04-04 10:43:42,36140,code.exe,424.7,1591.9,Download / Rich Streaming,0,
+2026-04-04 10:43:42,30632,msedge.exe,165.4,202.4,Active Web / Media,77,
+2026-04-04 10:43:42,31292,explorer.exe,8.4,211.9,Active Web / Media,0,
+2026-04-04 10:43:44,36140,code.exe,283.1,1503.6,Download / Rich Streaming,0,
+2026-04-04 10:43:44,30632,msedge.exe,198.7,194.5,Light Web Browsing,71,
+2026-04-04 10:43:44,31292,explorer.exe,16.8,115.2,Light Web Browsing,0,
+2026-04-04 10:43:46,36140,code.exe,283.1,1517.8,Download / Rich Streaming,0,
+2026-04-04 10:43:46,30632,msedge.exe,171.5,251.6,Active Web / Media,73,
+2026-04-04 10:43:46,31292,explorer.exe,74.7,121.8,Light Web Browsing,0,
+2026-04-04 10:43:48,31292,explorer.exe,939.8,212.3,Active Web / Media,0,
+2026-04-04 10:43:48,36140,code.exe,424.7,1220.0,Active Web / Media,0,
+2026-04-04 10:43:48,30632,msedge.exe,392.2,227.3,Active Web / Media,28,
+2026-04-04 10:43:50,31292,explorer.exe,936.3,302.0,Active Web / Media,0,
+2026-04-04 10:43:50,30632,msedge.exe,525.2,530.3,Active Web / Media,0,
+2026-04-04 10:43:50,36140,code.exe,283.1,397.2,Active Web / Media,0,
+2026-04-04 10:43:52,36140,code.exe,1841.9,538.7,Active Web / Media,0,
+2026-04-04 10:43:52,30632,msedge.exe,1258.8,626.4,Active Web / Media,0,
+2026-04-04 10:43:52,31292,explorer.exe,4.5,302.4,Active Web / Media,98,
+2026-04-04 10:43:54,36140,code.exe,567.8,552.9,Active Web / Media,0,
+2026-04-04 10:43:54,30632,msedge.exe,302.3,713.9,Active Web / Media,55,
+2026-04-04 10:43:54,31292,explorer.exe,4.4,305.5,Active Web / Media,98,
+2026-04-04 10:43:56,30632,msedge.exe,4142.8,1181.5,Active Web / Media,0,
+2026-04-04 10:43:56,36140,code.exe,284.7,552.9,Active Web / Media,0,
+2026-04-04 10:43:56,31292,explorer.exe,66.3,310.0,Active Web / Media,80,
+2026-04-04 10:43:58,30632,msedge.exe,1997.7,1445.6,Active Web / Media,0,
+2026-04-04 10:43:58,36140,code.exe,284.7,552.9,Active Web / Media,55,
+2026-04-04 10:44:00,30632,msedge.exe,3127.2,2241.7,Download / Rich Streaming,0,
+2026-04-04 10:44:00,36140,code.exe,283.1,524.6,Active Web / Media,52,
+2026-04-04 10:44:00,31292,explorer.exe,111.1,125.8,Light Web Browsing,0,
+2026-04-04 10:44:02,30632,msedge.exe,2438.5,2475.3,Download / Rich Streaming,0,
+2026-04-04 10:44:02,31292,explorer.exe,967.3,219.3,Active Web / Media,0,
+2026-04-04 10:44:02,36140,code.exe,283.1,383.0,Active Web / Media,50,
+2026-04-04 10:44:04,30632,msedge.exe,3579.8,2960.0,Download / Rich Streaming,0,
+2026-04-04 10:44:04,36140,code.exe,424.7,368.8,Active Web / Media,14,
+2026-04-04 10:44:04,31292,explorer.exe,41.1,215.7,Active Web / Media,0,
+2026-04-04 10:44:06,30632,msedge.exe,2458.6,3197.2,Download / Rich Streaming,0,
+2026-04-04 10:44:06,36140,code.exe,709.0,851.4,Active Web / Media,0,
+2026-04-04 10:44:06,31292,explorer.exe,16.8,206.7,Active Web / Media,0,
+2026-04-04 10:44:08,30632,msedge.exe,2401.5,3461.0,Download / Rich Streaming,0,
+2026-04-04 10:44:08,31292,explorer.exe,41.1,219.4,Active Web / Media,0,
+2026-04-04 10:44:08,15784,code.exe,7.2,4.7,Web Browsing (Low traffic),0,
+2026-04-04 10:44:10,30632,msedge.exe,1039.9,2491.1,Download / Rich Streaming,50,
+2026-04-04 10:44:12,30632,msedge.exe,418.3,2134.9,Download / Rich Streaming,80,
+2026-04-04 10:44:12,31292,explorer.exe,57.9,32.9,Light Web Browsing,0,
+2026-04-04 10:44:12,15784,code.exe,47.5,14.3,Web Browsing (Low traffic),0,
+2026-04-04 10:44:16,30632,msedge.exe,1070.2,1100.6,Active Web / Media,0,
+2026-04-04 10:44:18,30632,msedge.exe,489.8,598.3,Active Web / Media,0,
+2026-04-04 10:44:18,31292,explorer.exe,77.0,28.0,Light Web Browsing,0,
+2026-04-04 10:44:20,31292,explorer.exe,41.1,25.8,Light Web Browsing,0,
+2026-04-04 10:44:20,37420,githubdesktop.exe,3.3,1.0,Web Browsing (Low traffic),0,
+2026-04-04 10:44:22,31292,explorer.exe,140.7,35.8,Light Web Browsing,0,
+2026-04-04 10:44:22,30632,msedge.exe,13.3,328.8,Active Web / Media,0,
+2026-04-04 10:44:24,30632,msedge.exe,998.2,387.8,Active Web / Media,0,
+2026-04-04 10:44:24,31292,explorer.exe,49.5,36.1,Light Web Browsing,0,
+2026-04-04 10:44:24,15784,code.exe,7.2,4.9,Web Browsing (Low traffic),0,
+2026-04-04 10:44:26,30632,msedge.exe,1831.1,508.4,Active Web / Media,0,
+2026-04-04 10:44:26,36140,code.exe,637.2,2003.4,Download / Rich Streaming,0,
+2026-04-04 10:44:26,31292,explorer.exe,83.0,48.0,Light Web Browsing,0,
+2026-04-04 10:44:28,30632,msedge.exe,2067.2,704.0,Active Web / Media,0,
+2026-04-04 10:44:28,36140,code.exe,778.9,2060.0,Download / Rich Streaming,0,
+2026-04-04 10:44:28,31292,explorer.exe,41.1,44.4,Light Web Browsing,0,
+2026-04-04 10:44:28,15784,code.exe,7.2,9.7,Web Browsing (Low traffic),0,
+2026-04-04 10:44:30,36140,code.exe,1939.9,2232.8,Download / Rich Streaming,0,
+2026-04-04 10:44:30,30632,msedge.exe,1095.3,858.9,Active Web / Media,0,
+2026-04-04 10:44:30,31292,explorer.exe,49.5,45.2,Light Web Browsing,0,
+2026-04-04 10:44:32,30632,msedge.exe,434.5,897.9,Active Web / Media,0,
+2026-04-04 10:44:32,36140,code.exe,396.5,2450.7,Download / Rich Streaming,0,
+2026-04-04 10:44:32,31292,explorer.exe,41.1,35.3,Light Web Browsing,0,
+2026-04-04 10:44:32,15784,code.exe,40.3,13.8,Web Browsing (Low traffic),0,
+2026-04-04 10:44:34,36140,code.exe,687.6,2036.8,Download / Rich Streaming,0,
+2026-04-04 10:44:34,30632,msedge.exe,189.8,915.9,Active Web / Media,0,
+2026-04-04 10:44:34,31292,explorer.exe,52.7,39.4,Light Web Browsing,0,
+2026-04-04 10:44:34,15784,code.exe,7.2,10.3,Web Browsing (Low traffic),0,
+2026-04-04 10:44:36,30632,msedge.exe,1133.7,883.7,Active Web / Media,0,
+2026-04-04 10:44:36,36140,code.exe,509.2,912.6,Active Web / Media,0,
+2026-04-04 10:44:36,31292,explorer.exe,42.7,36.2,Light Web Browsing,43,
+2026-04-04 10:44:38,30632,msedge.exe,523.0,733.9,Active Web / Media,0,
+2026-04-04 10:44:38,36140,code.exe,358.5,885.8,Active Web / Media,0,
+2026-04-04 10:44:38,31292,explorer.exe,108.8,47.3,Light Web Browsing,0,
+2026-04-04 10:44:40,36140,code.exe,355.8,843.3,Active Web / Media,0,
+2026-04-04 10:44:40,31292,explorer.exe,158.3,66.8,Light Web Browsing,0,
+2026-04-04 10:44:40,30632,msedge.exe,50.4,548.5,Active Web / Media,95,
+2026-04-04 10:44:42,36140,code.exe,354.4,485.4,Active Web / Media,0,
+2026-04-04 10:44:42,30632,msedge.exe,191.1,365.2,Active Web / Media,81,
+2026-04-04 10:44:42,31292,explorer.exe,41.1,72.0,Light Web Browsing,55,
+2026-04-04 10:44:42,3076,hp-one-agent-service.exe,7.1,151.2,Light Web Browsing,0,
+2026-04-04 10:44:44,36140,code.exe,366.5,463.3,Active Web / Media,55,
+2026-04-04 10:44:44,31292,explorer.exe,74.7,72.1,Light Web Browsing,0,
+2026-04-04 10:44:44,15784,code.exe,7.2,4.8,Web Browsing (Low traffic),0,
+2026-04-04 10:44:44,30632,msedge.exe,5.3,303.9,Active Web / Media,99,
+2026-04-04 10:44:46,36140,code.exe,1222.6,674.4,Active Web / Media,0,
+2026-04-04 10:44:46,31292,explorer.exe,49.5,67.6,Light Web Browsing,42,
+2026-04-04 10:44:46,37420,githubdesktop.exe,3.5,0.3,Web Browsing (Low traffic),0,
+2026-04-04 10:44:48,36140,code.exe,403.5,679.1,Active Web / Media,52,
+2026-04-04 10:44:48,31292,explorer.exe,57.9,54.0,Light Web Browsing,27,
+2026-04-04 10:44:48,15784,code.exe,47.5,9.6,Web Browsing (Low traffic),0,
+2026-04-04 10:44:50,36140,code.exe,354.0,679.1,Active Web / Media,56,
+2026-04-04 10:44:50,30632,msedge.exe,76.4,60.7,Light Web Browsing,0,
+2026-04-04 10:44:50,31292,explorer.exe,74.7,38.9,Light Web Browsing,0,
+2026-04-04 10:44:50,37420,githubdesktop.exe,5.1,1.5,Web Browsing (Low traffic),0,
+2026-04-04 10:44:52,36140,code.exe,2206.8,850.1,Active Web / Media,0,
+2026-04-04 10:44:52,31292,explorer.exe,49.5,33.7,Light Web Browsing,39,
+2026-04-04 10:44:54,30632,msedge.exe,1841.0,212.3,Active Web / Media,0,
+2026-04-04 10:44:54,36140,code.exe,283.1,843.0,Active Web / Media,71,
+2026-04-04 10:44:54,31292,explorer.exe,83.0,32.5,Light Web Browsing,0,
+2026-04-04 10:44:54,37420,githubdesktop.exe,6.9,2.2,Web Browsing (Low traffic),0,
+2026-04-04 10:44:56,36140,code.exe,426.2,691.0,Active Web / Media,52,
+2026-04-04 10:44:56,31292,explorer.exe,24.1,34.9,Light Web Browsing,72,
+2026-04-04 10:44:58,36140,code.exe,509.5,605.3,Active Web / Media,39,
+2026-04-04 10:44:58,31292,explorer.exe,88.6,56.4,Light Web Browsing,0,
+2026-04-04 10:44:58,30632,msedge.exe,66.4,232.5,Active Web / Media,0,
+2026-04-04 10:45:00,36140,code.exe,426.2,600.4,Active Web / Media,48,
+2026-04-04 10:45:00,30632,msedge.exe,177.4,294.6,Active Web / Media,0,
+2026-04-04 10:45:00,31292,explorer.exe,101.3,63.0,Light Web Browsing,0,
+2026-04-04 10:45:02,36140,code.exe,1675.1,732.3,Active Web / Media,0,
+2026-04-04 10:45:02,30632,msedge.exe,119.1,298.9,Active Web / Media,0,
+2026-04-04 10:45:02,31292,explorer.exe,41.1,60.5,Light Web Browsing,51,
+2026-04-04 10:45:02,15784,code.exe,41.1,4.1,Web Browsing (Low traffic),0,
+2026-04-04 10:45:02,37420,githubdesktop.exe,8.7,1.6,Dev/Download (GitHub),0,lb-140-82-114-25-iad.github.com
+2026-04-04 10:45:04,36140,code.exe,980.0,863.9,Active Web / Media,0,
+2026-04-04 10:45:04,31292,explorer.exe,25.2,60.0,Light Web Browsing,70,
+2026-04-04 10:45:04,30632,msedge.exe,15.0,308.9,Active Web / Media,0,
+2026-04-04 10:54:32,36140,code.exe,283.1,141.6,Light Web Browsing,0,
+2026-04-04 10:54:32,15784,code.exe,0.0,18.0,Web Browsing (Low traffic),0,
+2026-04-04 10:54:34,15784,code.exe,0.0,12.0,Web Browsing (Low traffic),0,
+2026-04-04 10:54:36,15784,code.exe,7.2,17.3,Web Browsing (Low traffic),0,
+2026-04-04 10:54:36,30632,msedge.exe,2.7,1.1,Web Browsing (Low traffic),0,
+2026-04-04 10:54:38,15784,code.exe,0.0,13.8,Web Browsing (Low traffic),0,
+2026-04-04 10:54:40,15784,code.exe,0.0,20.5,Light Web Browsing,0,
+2026-04-04 10:54:42,3076,hp-one-agent-service.exe,0.0,150.5,Light Web Browsing,0,
+2026-04-04 10:54:42,15784,code.exe,0.0,13.3,Web Browsing (Low traffic),0,
+2026-04-04 10:54:44,3076,hp-one-agent-service.exe,6.7,151.1,Light Web Browsing,0,
+2026-04-04 10:54:44,15784,code.exe,0.0,22.0,Light Web Browsing,0,
+2026-04-04 10:54:44,30632,msedge.exe,8.3,1.4,Web Browsing (Low traffic),0,
+2026-04-04 10:54:46,3076,hp-one-agent-service.exe,0.0,151.1,Light Web Browsing,0,
+2026-04-04 10:54:46,30632,msedge.exe,0.0,30.4,Light Web Browsing,0,
+2026-04-04 10:54:46,15784,code.exe,0.0,15.3,Web Browsing (Low traffic),0,
+2026-04-04 10:54:48,30632,msedge.exe,581.6,320.2,Video Streaming (Bursty),0,
+2026-04-04 10:54:48,3076,hp-one-agent-service.exe,0.0,151.1,Light Web Browsing,0,
+2026-04-04 10:54:48,15784,code.exe,0.0,22.0,Light Web Browsing,0,
+2026-04-04 10:54:50,30632,msedge.exe,866.1,462.6,Video Streaming (Bursty),0,
+2026-04-04 10:54:50,3076,hp-one-agent-service.exe,0.0,151.0,Light Web Browsing,0,
+2026-04-04 10:54:50,15784,code.exe,0.0,15.3,Web Browsing (Low traffic),19,
+2026-04-04 10:54:52,30632,msedge.exe,727.7,535.4,Active Web / Media,0,
+2026-04-04 10:54:52,15784,code.exe,59.3,21.3,Light Web Browsing,0,
+2026-04-04 10:54:54,30632,msedge.exe,48.0,610.0,Active Web / Media,0,
+2026-04-04 10:54:54,15784,code.exe,7.2,13.3,Web Browsing (Low traffic),34,
+2026-04-04 10:54:56,30632,msedge.exe,80.6,605.5,Active Web / Media,0,
+2026-04-04 10:54:56,15784,code.exe,1.8,19.2,Web Browsing (Low traffic),0,
+2026-04-04 10:54:58,30632,msedge.exe,1930.3,665.9,Active Web / Media,0,
+2026-04-04 10:54:58,15784,code.exe,0.0,12.6,Web Browsing (Low traffic),37,
+2026-04-04 10:55:00,30632,msedge.exe,11173.6,2897.3,Download / Rich Streaming,0,
+2026-04-04 10:55:00,15784,code.exe,7.2,19.9,Web Browsing (Low traffic),0,
+2026-04-04 10:55:02,30632,msedge.exe,20872.1,7456.3,Large File Download,0,
+2026-04-04 10:55:02,15784,code.exe,0.0,14.0,Web Browsing (Low traffic),27,
+2026-04-04 10:55:02,37420,githubdesktop.exe,0.0,7.1,Web Browsing (Low traffic),0,
+2026-04-04 10:55:04,30632,msedge.exe,2601.7,8978.3,Large File Download,0,
+2026-04-04 10:55:04,15784,code.exe,0.0,19.9,Web Browsing (Low traffic),0,
+2026-04-04 10:55:04,37420,githubdesktop.exe,0.0,6.4,Web Browsing (Low traffic),0,
+2026-04-04 10:55:06,30632,msedge.exe,2371.8,9189.5,Large File Download,0,
+2026-04-04 10:55:06,15784,code.exe,0.0,14.0,Web Browsing (Low traffic),28,
+2026-04-04 10:55:06,37420,githubdesktop.exe,0.0,6.4,Web Browsing (Low traffic),0,
+2026-04-04 10:55:08,30632,msedge.exe,608.5,8997.3,Large File Download,0,
+2026-04-04 10:55:08,15784,code.exe,0.0,20.6,Light Web Browsing,0,
+2026-04-04 10:55:08,37420,githubdesktop.exe,0.0,6.4,Web Browsing (Low traffic),0,
+2026-04-04 10:55:10,30632,msedge.exe,7533.4,7658.8,Large File Download,0,
+2026-04-04 10:55:10,15784,code.exe,0.0,13.3,Web Browsing (Low traffic),33,
+2026-04-04 10:55:10,37420,githubdesktop.exe,0.0,6.4,Web Browsing (Low traffic),0,
+2026-04-04 10:55:12,30632,msedge.exe,897.5,4717.8,Download / Rich Streaming,0,
+2026-04-04 10:55:12,15784,code.exe,0.0,18.0,Web Browsing (Low traffic),0,
+2026-04-04 10:55:14,30632,msedge.exe,0.0,3381.5,Video/Download (CDN),32,r.cloudfront.net
+2026-04-04 10:55:14,15784,code.exe,66.4,18.0,Web Browsing (Low traffic),0,
+2026-04-04 10:55:16,30632,msedge.exe,119.6,3566.8,Video/Download (CDN),24,r.cloudfront.net
+2026-04-04 10:55:16,15784,code.exe,0.0,18.0,Web Browsing (Low traffic),0,
+2026-04-04 10:55:18,30632,msedge.exe,1.8,3291.6,Video/Download (CDN),30,r.cloudfront.net
+2026-04-04 10:55:18,15784,code.exe,9.0,18.0,Web Browsing (Low traffic),0,
+2026-04-04 10:55:20,30632,msedge.exe,496.8,3033.2,Video/Download (CDN),35,r.cloudfront.net
+2026-04-04 10:55:20,15784,code.exe,0.0,22.7,Light Web Browsing,0,
+2026-04-04 10:55:22,30632,msedge.exe,849.8,720.7,Video/Download (CDN),85,r.cloudfront.net
+2026-04-04 10:55:22,15784,code.exe,7.2,24.8,Light Web Browsing,0,
+2026-04-04 10:55:22,36020,linkedin.exe,41.0,13.7,Web Browsing (Low traffic),0,
+2026-04-04 10:55:24,30632,msedge.exe,62.6,726.2,Video/Download (CDN),85,r.cloudfront.net
+2026-04-04 10:55:24,15784,code.exe,0.0,24.8,Light Web Browsing,0,
+2026-04-04 10:55:24,36020,linkedin.exe,0.0,8.2,Web Browsing (Low traffic),0,
+2026-04-04 10:55:26,30632,msedge.exe,0.0,280.8,Video/Download (CDN),94,r.cloudfront.net
+2026-04-04 10:55:26,15784,code.exe,0.0,24.8,Light Web Browsing,0,
+2026-04-04 10:55:26,36020,linkedin.exe,0.0,5.9,Web Browsing (Low traffic),0,
+2026-04-04 10:55:28,30632,msedge.exe,7.2,280.8,Video/Download (CDN),94,r.cloudfront.net
+2026-04-04 10:55:28,15784,code.exe,0.0,23.0,Light Web Browsing,0,
+2026-04-04 10:55:28,36020,linkedin.exe,0.0,4.6,Web Browsing (Low traffic),0,
+2026-04-04 10:55:30,30632,msedge.exe,1581.2,701.0,Video/Download (CDN),85,r.cloudfront.net
+2026-04-04 10:55:30,15784,code.exe,0.0,83.2,Light Web Browsing,0,
+2026-04-04 10:55:30,36020,linkedin.exe,0.0,4.1,Web Browsing (Low traffic),0,
+2026-04-04 10:55:32,30632,msedge.exe,2662.9,1748.5,Video/Download (CDN),61,r.cloudfront.net
+2026-04-04 10:55:32,15784,code.exe,57.5,92.5,Light Web Browsing,0,
+2026-04-04 10:55:34,30632,msedge.exe,1076.8,1767.2,Video/Download (CDN),58,r.cloudfront.net
+2026-04-04 10:55:34,15784,code.exe,38.1,89.7,Light Web Browsing,0,
+2026-04-04 10:55:36,30632,msedge.exe,124.3,1774.4,Video/Download (CDN),55,r.cloudfront.net
+2026-04-04 10:55:36,15784,code.exe,0.0,89.7,Light Web Browsing,0,
+2026-04-04 10:55:38,30632,msedge.exe,7.4,1775.7,Video/Download (CDN),52,r.cloudfront.net
+2026-04-04 10:55:38,15784,code.exe,0.0,84.8,Light Web Browsing,0,
+2026-04-04 10:55:40,30632,msedge.exe,234.6,1485.7,Video/Download (CDN),58,r.cloudfront.net
+2026-04-04 10:55:40,15784,code.exe,0.0,19.9,Web Browsing (Low traffic),69,
+2026-04-04 10:55:42,30632,msedge.exe,0.0,460.6,Video/Download (CDN),86,r.cloudfront.net
+2026-04-04 10:55:42,15784,code.exe,0.0,9.6,Web Browsing (Low traffic),84,
+2026-04-04 10:55:44,30632,msedge.exe,0.0,164.1,Video/Download (CDN),95,r.cloudfront.net
+2026-04-04 10:55:46,30632,msedge.exe,3.6,162.7,Video/Download (CDN),95,r.cloudfront.net
+2026-04-04 10:55:48,30632,msedge.exe,0.0,161.2,Video/Download (CDN),95,r.cloudfront.net
+2026-04-04 10:55:50,30632,msedge.exe,831.9,215.8,Video/Download (CDN),93,r.cloudfront.net
+2026-04-04 10:55:52,30632,msedge.exe,0.0,172.9,Video/Download (CDN),95,r.cloudfront.net
+2026-04-04 10:55:54,30632,msedge.exe,15.1,177.6,Video/Download (CDN),94,r.cloudfront.net
+2026-04-04 10:55:56,36140,code.exe,47844.0,16042.4,Large File Download,0,
+2026-04-04 10:55:56,30632,msedge.exe,194.5,196.1,Video/Download (CDN),94,r.cloudfront.net
+2026-04-04 10:55:58,36140,code.exe,284.7,9795.6,Large File Download,0,
+2026-04-04 10:55:58,30632,msedge.exe,4699.8,818.6,Video/Download (CDN),75,r.cloudfront.net
+2026-04-04 10:55:58,15784,code.exe,348.2,35.2,Light Web Browsing,0,
+2026-04-04 10:56:00,30632,msedge.exe,1429.5,1863.3,Video/Download (CDN),38,r.cloudfront.net
+2026-04-04 10:56:00,15784,code.exe,0.0,38.8,Light Web Browsing,0,
+2026-04-04 10:56:02,30632,msedge.exe,0.0,1796.9,Video/Download (CDN),38,r.cloudfront.net
+2026-04-04 10:56:02,15784,code.exe,7.2,50.2,Light Web Browsing,0,
+2026-04-04 10:56:04,30632,msedge.exe,112.4,1794.7,Video/Download (CDN),36,r.cloudfront.net
+2026-04-04 10:56:04,15784,code.exe,0.0,49.9,Light Web Browsing,0,
+2026-04-04 10:56:06,30632,msedge.exe,11.5,1766.2,Video/Download (CDN),35,r.cloudfront.net
+2026-04-04 10:56:06,15784,code.exe,0.0,53.9,Light Web Browsing,0,
+2026-04-04 10:56:08,30632,msedge.exe,0.0,1156.2,Video/Download (CDN),58,r.cloudfront.net
+2026-04-04 10:56:08,15784,code.exe,0.0,23.0,Light Web Browsing,0,
+2026-04-04 10:56:10,30632,msedge.exe,258.1,147.4,Video/Download (CDN),94,r.cloudfront.net
+2026-04-04 10:56:10,15784,code.exe,9.0,27.5,Light Web Browsing,0,
+2026-04-04 10:56:12,30632,msedge.exe,9.2,131.5,Video/Download (CDN),95,r.cloudfront.net
+2026-04-04 10:56:12,15784,code.exe,0.0,16.8,Web Browsing (Low traffic),0,
+2026-04-04 10:56:14,30632,msedge.exe,6.9,132.4,Video/Download (CDN),95,r.cloudfront.net
+2026-04-04 10:56:14,15784,code.exe,47.1,20.8,Light Web Browsing,0,
+2026-04-04 10:56:16,36140,code.exe,567.8,8503.5,Large File Download,0,
+2026-04-04 10:56:16,30632,msedge.exe,3.6,148.8,Video/Download (CDN),94,r.cloudfront.net
+2026-04-04 10:56:16,15784,code.exe,66.4,28.2,Light Web Browsing,30,
+2026-04-04 10:56:18,36140,code.exe,356.1,6732.0,Large File Download,0,
+2026-04-04 10:56:18,30632,msedge.exe,1.8,173.1,Video/Download (CDN),93,r.cloudfront.net
+2026-04-04 10:56:18,15784,code.exe,0.0,24.2,Light Web Browsing,40,
+2026-04-04 10:56:20,36140,code.exe,1067.6,6165.6,Large File Download,0,
+2026-04-04 10:56:20,30632,msedge.exe,105.3,173.6,Video/Download (CDN),93,r.cloudfront.net
+2026-04-04 10:56:20,15784,code.exe,0.0,22.9,Light Web Browsing,41,
+2026-04-04 10:56:22,36140,code.exe,354.6,6265.0,Large File Download,0,
+2026-04-04 10:56:22,30632,msedge.exe,424.3,219.8,Video/Download (CDN),91,r.cloudfront.net
+2026-04-04 10:56:22,15784,code.exe,0.0,22.7,Light Web Browsing,39,
+2026-04-04 10:56:24,36140,code.exe,354.6,1530.7,Download / Rich Streaming,0,
+2026-04-04 10:56:24,30632,msedge.exe,59.1,230.9,Video/Download (CDN),91,r.cloudfront.net
+2026-04-04 10:56:24,15784,code.exe,0.0,26.8,Light Web Browsing,22,
+2026-04-04 10:56:27,36140,code.exe,637.6,632.1,Active Web / Media,0,
+2026-04-04 10:56:27,30632,msedge.exe,3.6,447.8,Video/Download (CDN),82,r.cloudfront.net
+2026-04-04 10:56:27,15784,code.exe,0.0,22.1,Light Web Browsing,37,
+2026-04-04 10:56:29,36140,code.exe,354.4,603.9,Active Web / Media,0,
+2026-04-04 10:56:29,30632,msedge.exe,4.5,500.3,Video/Download (CDN),80,r.cloudfront.net
+2026-04-04 10:56:29,15784,code.exe,94.3,31.5,Light Web Browsing,0,
+2026-04-04 10:56:31,36140,code.exe,496.1,575.0,Active Web / Media,0,
+2026-04-04 10:56:31,30632,msedge.exe,322.1,533.1,Video/Download (CDN),79,r.cloudfront.net
+2026-04-04 10:56:31,15784,code.exe,0.0,25.6,Light Web Browsing,22,
+2026-04-04 10:56:33,30632,msedge.exe,771.8,538.0,Video/Download (CDN),79,r.cloudfront.net
+2026-04-04 10:56:33,15784,code.exe,0.0,31.5,Light Web Browsing,0,
+2026-04-04 10:56:35,30632,msedge.exe,3.6,463.7,Video/Download (CDN),82,r.cloudfront.net
+2026-04-04 10:56:35,15784,code.exe,0.0,22.7,Light Web Browsing,33,
+2026-04-04 10:56:37,30632,msedge.exe,1.8,214.2,Video/Download (CDN),91,r.cloudfront.net
+2026-04-04 10:56:37,15784,code.exe,66.4,22.7,Light Web Browsing,30,
+2026-04-04 10:56:39,30632,msedge.exe,11.8,124.7,Video/Download (CDN),95,r.cloudfront.net
+2026-04-04 10:56:39,15784,code.exe,0.0,22.7,Light Web Browsing,28,
+2026-04-04 10:56:41,30632,msedge.exe,1.8,113.2,Video/Download (CDN),95,r.cloudfront.net
+2026-04-04 10:56:41,15784,code.exe,7.2,19.9,Web Browsing (Low traffic),37,
+2026-04-04 10:56:43,36140,code.exe,283.1,1021.7,Active Web / Media,0,
+2026-04-04 10:56:43,30632,msedge.exe,5.4,81.0,Video/Download (CDN),97,r.cloudfront.net
+2026-04-04 10:56:43,15784,code.exe,0.0,13.3,Web Browsing (Low traffic),58,
+2026-04-04 10:56:45,36140,code.exe,354.4,1007.2,Active Web / Media,0,
+2026-04-04 10:56:45,30632,msedge.exe,70.7,79.6,Video/Download (CDN),97,r.cloudfront.net
+2026-04-04 10:56:45,15784,code.exe,0.0,38.4,Light Web Browsing,0,
+2026-04-04 10:56:47,36140,code.exe,496.3,993.0,Active Web / Media,0,
+2026-04-04 10:56:47,30632,msedge.exe,0.0,78.5,Video/Download (CDN),97,r.cloudfront.net
+2026-04-04 10:56:47,15784,code.exe,57.5,37.5,Light Web Browsing,0,
+2026-04-04 10:56:49,36140,code.exe,354.6,1007.2,Active Web / Media,0,
+2026-04-04 10:56:49,30632,msedge.exe,82.2,89.8,Video/Download (CDN),96,r.cloudfront.net
+2026-04-04 10:56:49,15784,code.exe,0.0,41.5,Light Web Browsing,0,
+2026-04-04 10:56:51,36140,code.exe,640.8,1007.4,Active Web / Media,0,
+2026-04-04 10:56:51,30632,msedge.exe,286.4,118.2,Video/Download (CDN),95,r.cloudfront.net
+2026-04-04 10:56:51,15784,code.exe,0.0,35.6,Light Web Browsing,0,
+2026-04-04 10:56:53,36140,code.exe,664.5,516.1,Active Web / Media,0,
+2026-04-04 10:56:53,30632,msedge.exe,0.0,118.2,Video/Download (CDN),95,r.cloudfront.net
+2026-04-04 10:56:53,15784,code.exe,0.0,34.9,Light Web Browsing,0,
+2026-04-04 10:56:55,36140,code.exe,381.4,535.5,Active Web / Media,0,
+2026-04-04 10:56:55,30632,msedge.exe,0.0,154.0,Video/Download (CDN),94,r.cloudfront.net
+2026-04-04 10:56:55,15784,code.exe,232.2,33.0,Light Web Browsing,0,
+2026-04-04 10:56:57,36140,code.exe,805.9,753.8,Active Web / Media,0,
+2026-04-04 10:56:57,30632,msedge.exe,1.8,147.8,Video/Download (CDN),94,r.cloudfront.net
+2026-04-04 10:56:57,15784,code.exe,0.0,34.4,Light Web Browsing,0,
+2026-04-04 10:56:59,36140,code.exe,953.2,853.2,Active Web / Media,0,
+2026-04-04 10:56:59,30632,msedge.exe,0.0,180.9,Video/Download (CDN),93,r.cloudfront.net
+2026-04-04 10:56:59,15784,code.exe,14.3,36.0,Light Web Browsing,0,
+2026-04-04 10:57:01,36140,code.exe,521.3,919.5,Active Web / Media,0,
+2026-04-04 10:57:01,30632,msedge.exe,300.5,175.4,Video/Download (CDN),93,r.cloudfront.net
+2026-04-04 10:57:01,15784,code.exe,0.0,36.3,Light Web Browsing,0,
+2026-04-04 10:57:03,36140,code.exe,1370.7,1061.1,Active Web / Media,0,
+2026-04-04 10:57:03,30632,msedge.exe,685.9,343.2,Video/Download (CDN),87,r.cloudfront.net
+2026-04-04 10:57:03,15784,code.exe,0.0,41.0,Light Web Browsing,0,
+2026-04-04 10:57:05,36140,code.exe,804.7,1117.7,Active Web / Media,0,
+2026-04-04 10:57:05,30632,msedge.exe,0.0,237.8,Video/Download (CDN),91,r.cloudfront.net
+2026-04-04 10:57:05,6516,mpdefendercoreservice.exe,2241.5,224.2,Active Web / Media,0,
+2026-04-04 10:57:05,15784,code.exe,0.0,24.4,Light Web Browsing,37,
+2026-04-04 10:57:07,36140,code.exe,958.0,1004.8,Active Web / Media,0,
+2026-04-04 10:57:07,30632,msedge.exe,242.0,261.2,Video/Download (CDN),90,r.cloudfront.net
+2026-04-04 10:57:07,6516,mpdefendercoreservice.exe,0.0,224.2,Active Web / Media,0,
+2026-04-04 10:57:07,15784,code.exe,0.0,23.0,Light Web Browsing,39,
+2026-04-04 10:57:09,36140,code.exe,959.5,968.9,Active Web / Media,0,
+2026-04-04 10:57:09,30632,msedge.exe,72.3,230.9,Video/Download (CDN),91,r.cloudfront.net
+2026-04-04 10:57:09,6516,mpdefendercoreservice.exe,0.0,224.2,Active Web / Media,0,
+2026-04-04 10:57:09,15784,code.exe,66.4,19.7,Web Browsing (Low traffic),47,
+2026-04-04 10:57:11,36140,code.exe,1244.0,1022.5,Active Web / Media,0,
+2026-04-04 10:57:11,30632,msedge.exe,570.6,287.2,Video/Download (CDN),89,r.cloudfront.net
+2026-04-04 10:57:11,6516,mpdefendercoreservice.exe,0.0,224.2,Active Web / Media,0,
+2026-04-04 10:57:11,15784,code.exe,0.0,18.0,Web Browsing (Low traffic),49,
+2026-04-04 10:57:13,36140,code.exe,420.0,1002.0,Active Web / Media,0,
+2026-04-04 10:57:13,6516,mpdefendercoreservice.exe,0.0,224.2,Active Web / Media,0,
+2026-04-04 10:57:13,30632,msedge.exe,0.0,169.4,Video/Download (CDN),93,r.cloudfront.net
+2026-04-04 10:57:13,15784,code.exe,9.0,22.0,Light Web Browsing,33,
+2026-04-04 10:57:15,36140,code.exe,418.8,903.9,Active Web / Media,10,
+2026-04-04 10:57:15,6516,mpdefendercoreservice.exe,0.0,224.2,Active Web / Media,0,
+2026-04-04 10:57:15,30632,msedge.exe,58.7,181.2,Video/Download (CDN),93,r.cloudfront.net
+2026-04-04 10:57:15,15784,code.exe,0.0,15.3,Web Browsing (Low traffic),54,
+2026-04-04 10:57:17,36140,code.exe,418.5,826.6,Active Web / Media,21,
+2026-04-04 10:57:17,30632,msedge.exe,69.6,189.5,Video/Download (CDN),92,r.cloudfront.net
+2026-04-04 10:57:17,15784,code.exe,108.0,32.1,Light Web Browsing,0,
+2026-04-04 10:57:19,36140,code.exe,418.5,747.1,Active Web / Media,29,
+2026-04-04 10:57:19,30632,msedge.exe,1.8,159.5,Video/Download (CDN),94,r.cloudfront.net
+2026-04-04 10:57:19,15784,code.exe,0.0,25.4,Light Web Browsing,12,
+2026-04-04 10:57:21,36140,code.exe,406.6,594.2,Active Web / Media,44,
+2026-04-04 10:57:21,30632,msedge.exe,3.6,132.2,Video/Download (CDN),95,r.cloudfront.net
+2026-04-04 10:57:21,15784,code.exe,0.0,36.9,Light Web Browsing,0,
+2026-04-04 10:57:23,36140,code.exe,406.6,570.8,Active Web / Media,44,
+2026-04-04 10:57:23,30632,msedge.exe,689.5,190.0,Video/Download (CDN),92,r.cloudfront.net
+2026-04-04 10:57:23,15784,code.exe,0.0,28.2,Light Web Browsing,0,
+2026-04-04 10:57:25,36140,code.exe,609.9,630.0,Active Web / Media,34,
+2026-04-04 10:57:25,30632,msedge.exe,572.6,169.5,Video/Download (CDN),93,r.cloudfront.net
+2026-04-04 10:57:25,15784,code.exe,268.5,55.1,Light Web Browsing,0,
+2026-04-04 10:57:27,36140,code.exe,691.2,628.8,Active Web / Media,32,
+2026-04-04 10:57:27,30632,msedge.exe,223.2,190.5,Video/Download (CDN),92,r.cloudfront.net
+2026-04-04 10:57:27,15784,code.exe,9.0,50.0,Light Web Browsing,0,
+2026-04-04 10:57:29,36140,code.exe,691.2,626.4,Active Web / Media,30,
+2026-04-04 10:57:29,30632,msedge.exe,28.7,304.6,Video/Download (CDN),88,r.cloudfront.net
+2026-04-04 10:57:29,15784,code.exe,47.1,44.0,Light Web Browsing,0,
+2026-04-04 10:57:31,36140,code.exe,408.1,625.3,Active Web / Media,28,
+2026-04-04 10:57:31,30632,msedge.exe,469.1,324.4,Video/Download (CDN),87,r.cloudfront.net
+2026-04-04 10:57:31,15784,code.exe,9.0,39.1,Light Web Browsing,0,
+2026-04-04 10:57:33,36140,code.exe,1259.5,703.0,Active Web / Media,13,
+2026-04-04 10:57:33,30632,msedge.exe,152.1,373.4,Video/Download (CDN),85,r.cloudfront.net
+2026-04-04 10:57:33,15784,code.exe,0.0,39.1,Light Web Browsing,0,
+2026-04-04 10:57:35,36140,code.exe,1258.1,825.1,Active Web / Media,0,
+2026-04-04 10:57:35,30632,msedge.exe,55.6,381.0,Video/Download (CDN),85,r.cloudfront.net
+2026-04-04 10:57:35,15784,code.exe,7.2,45.7,Light Web Browsing,0,
+2026-04-04 10:57:37,36140,code.exe,689.9,895.1,Active Web / Media,0,
+2026-04-04 10:57:37,30632,msedge.exe,400.0,344.1,Video/Download (CDN),86,r.cloudfront.net
+2026-04-04 10:57:37,15784,code.exe,7.2,29.5,Light Web Browsing,30,
+2026-04-04 10:57:39,36140,code.exe,972.9,956.4,Active Web / Media,0,
+2026-04-04 10:57:39,30632,msedge.exe,499.8,281.1,Video/Download (CDN),89,r.cloudfront.net
+2026-04-04 10:57:39,15784,code.exe,0.0,29.5,Light Web Browsing,28,
+2026-04-04 10:57:45,36140,code.exe,14570.1,7285.0,Large File Download,0,
+2026-04-04 10:57:45,30632,msedge.exe,56.8,28.4,Light Web Browsing,0,
+2026-04-04 10:57:47,36140,code.exe,1.5,5915.7,Active Web / Media,0,
+2026-04-04 10:57:47,30632,msedge.exe,419.7,139.3,Light Web Browsing,0,
+2026-04-04 10:57:47,15784,code.exe,84.2,21.0,Light Web Browsing,0,
+2026-04-04 10:57:49,36140,code.exe,461.6,4067.9,Download / Rich Streaming,0,
+2026-04-04 10:57:49,30632,msedge.exe,0.0,92.9,Video/Download (CDN),0,r.cloudfront.net
+2026-04-04 10:57:49,15784,code.exe,0.0,15.2,Web Browsing (Low traffic),0,
+2026-04-04 10:57:51,36140,code.exe,354.2,3175.1,Download / Rich Streaming,0,
+2026-04-04 10:57:51,30632,msedge.exe,1502.4,257.4,Video/Download (CDN),0,r.cloudfront.net
+2026-04-04 10:57:51,15784,code.exe,7.2,19.7,Web Browsing (Low traffic),0,
+2026-04-04 10:57:53,36140,code.exe,637.2,2667.7,Download / Rich Streaming,0,
+2026-04-04 10:57:53,30632,msedge.exe,0.0,244.1,Video/Download (CDN),0,r.cloudfront.net
+2026-04-04 10:57:53,15784,code.exe,0.0,15.8,Web Browsing (Low traffic),0,
+2026-04-04 10:57:55,36140,code.exe,354.1,1310.0,Active Web / Media,0,
+2026-04-04 10:57:55,30632,msedge.exe,0.0,318.8,Video/Download (CDN),0,r.cloudfront.net
+2026-04-04 10:57:55,15784,code.exe,7.2,22.5,Light Web Browsing,0,
+2026-04-04 10:57:57,36140,code.exe,354.5,500.0,Active Web / Media,0,
+2026-04-04 10:57:57,30632,msedge.exe,2.6,269.0,Video/Download (CDN),0,r.cloudfront.net
+2026-04-04 10:57:57,15784,code.exe,0.0,20.8,Light Web Browsing,0,
+2026-04-04 10:57:59,36140,code.exe,354.3,524.9,Active Web / Media,0,
+2026-04-04 10:57:59,30632,msedge.exe,32.5,315.9,Video/Download (CDN),0,r.cloudfront.net
+2026-04-04 10:57:59,15784,code.exe,0.0,20.0,Light Web Browsing,0,
+2026-04-04 10:58:01,36140,code.exe,354.4,524.9,Active Web / Media,0,
+2026-04-04 10:58:01,30632,msedge.exe,347.1,385.6,Video/Download (CDN),0,r.cloudfront.net
+2026-04-04 10:58:01,15784,code.exe,0.0,20.0,Light Web Browsing,0,
+2026-04-04 10:58:03,36140,code.exe,639.0,524.9,Active Web / Media,85,
+2026-04-04 10:58:03,30632,msedge.exe,278.7,375.3,Video/Download (CDN),0,r.cloudfront.net
+2026-04-04 10:58:03,15784,code.exe,0.0,20.0,Light Web Browsing,0,
+2026-04-04 10:58:05,36140,code.exe,497.5,496.6,Active Web / Media,86,
+2026-04-04 10:58:05,30632,msedge.exe,123.6,379.5,Video/Download (CDN),0,r.cloudfront.net
+2026-04-04 10:58:05,15784,code.exe,66.4,20.6,Light Web Browsing,0,
+2026-04-04 10:58:07,36140,code.exe,533.2,532.2,Active Web / Media,85,
+2026-04-04 10:58:07,30632,msedge.exe,0.0,379.5,Video/Download (CDN),0,r.cloudfront.net
+2026-04-04 10:58:07,15784,code.exe,0.0,13.3,Web Browsing (Low traffic),42,
+2026-04-04 10:58:09,36140,code.exe,354.1,532.1,Active Web / Media,85,
+2026-04-04 10:58:09,30632,msedge.exe,20.9,351.3,Video/Download (CDN),0,r.cloudfront.net
+2026-04-04 10:58:09,15784,code.exe,7.2,19.9,Web Browsing (Low traffic),0,
+2026-04-04 10:58:11,36140,code.exe,354.1,532.1,Active Web / Media,85,
+2026-04-04 10:58:11,30632,msedge.exe,298.9,193.1,Video/Download (CDN),42,r.cloudfront.net
+2026-04-04 10:58:11,15784,code.exe,0.0,13.3,Web Browsing (Low traffic),40,
+2026-04-04 10:58:13,36140,code.exe,354.0,532.0,Active Web / Media,85,
+2026-04-04 10:58:13,30632,msedge.exe,685.9,298.2,Video/Download (CDN),0,r.cloudfront.net
+2026-04-04 10:58:13,15784,code.exe,0.0,19.9,Web Browsing (Low traffic),0,
+2026-04-04 10:58:15,36140,code.exe,354.0,531.9,Active Web / Media,85,
+2026-04-04 10:58:15,30632,msedge.exe,114.6,225.1,Video/Download (CDN),28,r.cloudfront.net
+2026-04-04 10:58:15,15784,code.exe,0.0,13.3,Web Browsing (Low traffic),38,
+2026-04-04 10:58:17,36140,code.exe,354.0,496.4,Active Web / Media,86,
+2026-04-04 10:58:17,30632,msedge.exe,143.0,241.4,Video/Download (CDN),18,r.cloudfront.net
+2026-04-04 10:58:17,15784,code.exe,7.2,19.9,Web Browsing (Low traffic),0,
+2026-04-04 10:58:19,36140,code.exe,354.0,496.3,Active Web / Media,86,
+2026-04-04 10:58:19,30632,msedge.exe,3.6,249.9,Video/Download (CDN),12,r.cloudfront.net
+2026-04-04 10:58:19,15784,code.exe,0.0,13.3,Web Browsing (Low traffic),37,
+2026-04-04 10:58:21,36140,code.exe,638.8,496.3,Active Web / Media,86,
+2026-04-04 10:58:21,30632,msedge.exe,0.0,219.9,Video/Download (CDN),26,r.cloudfront.net
+2026-04-04 10:58:21,15784,code.exe,66.4,19.9,Web Browsing (Low traffic),0,
+2026-04-04 10:58:23,36140,code.exe,670.6,499.5,Active Web / Media,86,
+2026-04-04 10:58:23,30632,msedge.exe,0.0,120.8,Video/Download (CDN),61,r.cloudfront.net
+2026-04-04 10:58:23,15784,code.exe,0.0,13.3,Web Browsing (Low traffic),35,
+2026-04-04 10:58:25,36140,code.exe,669.1,505.6,Active Web / Media,86,
+2026-04-04 10:58:25,30632,msedge.exe,60.9,133.2,Video/Download (CDN),54,r.cloudfront.net
+2026-04-04 10:58:25,15784,code.exe,0.0,20.0,Light Web Browsing,0,
+2026-04-04 10:58:27,36140,code.exe,1235.1,568.3,Active Web / Media,84,
+2026-04-04 10:58:27,30632,msedge.exe,4.6,121.1,Video/Download (CDN),56,r.cloudfront.net
+2026-04-04 10:58:27,15784,code.exe,47.1,18.8,Web Browsing (Low traffic),0,
+2026-04-04 10:58:29,36140,code.exe,1376.9,787.6,Active Web / Media,78,
+2026-04-04 10:58:29,30632,msedge.exe,62.5,156.0,Video/Download (CDN),38,r.cloudfront.net
+2026-04-04 10:58:29,15784,code.exe,66.4,24.7,Light Web Browsing,0,
+2026-04-04 10:58:31,36140,code.exe,527.4,812.5,Active Web / Media,77,
+2026-04-04 10:58:31,30632,msedge.exe,250.7,180.5,Video/Download (CDN),22,r.cloudfront.net
+2026-04-04 10:58:31,15784,code.exe,0.0,22.9,Light Web Browsing,0,
+2026-04-04 10:58:33,36140,code.exe,556.0,917.3,Active Web / Media,74,
+2026-04-04 10:58:33,30632,msedge.exe,9.0,193.9,Video/Download (CDN),12,r.cloudfront.net
+2026-04-04 10:58:33,15784,code.exe,7.2,27.6,Light Web Browsing,0,
+2026-04-04 10:58:35,36140,code.exe,1183.5,1014.1,Active Web / Media,71,
+2026-04-04 10:58:35,30632,msedge.exe,3.6,181.9,Video/Download (CDN),19,r.cloudfront.net
+2026-04-04 10:58:35,15784,code.exe,266.4,53.4,Light Web Browsing,0,
+2026-04-04 10:58:37,36140,code.exe,617.8,1005.4,Active Web / Media,71,
+2026-04-04 10:58:37,30632,msedge.exe,1.8,180.8,Video/Download (CDN),18,r.cloudfront.net
+2026-04-04 10:58:37,15784,code.exe,0.0,48.7,Light Web Browsing,0,
+2026-04-04 10:58:39,36140,code.exe,836.4,840.1,Active Web / Media,76,
+2026-04-04 10:58:39,30632,msedge.exe,3.6,108.2,Video/Download (CDN),54,r.cloudfront.net
+2026-04-04 10:58:39,15784,code.exe,0.0,53.5,Light Web Browsing,0,
+2026-04-04 10:58:41,36140,code.exe,694.6,946.4,Active Web / Media,73,
+2026-04-04 10:58:41,30632,msedge.exe,91.6,105.1,Video/Download (CDN),53,r.cloudfront.net
+2026-04-04 10:58:41,15784,code.exe,0.0,48.8,Light Web Browsing,0,
+2026-04-04 10:58:43,36140,code.exe,553.0,920.7,Active Web / Media,74,
+2026-04-04 10:58:43,30632,msedge.exe,777.5,169.9,Video/Download (CDN),10,r.cloudfront.net
+2026-04-04 10:58:43,15784,code.exe,81.2,61.9,Light Web Browsing,0,
+2026-04-04 10:58:45,36140,code.exe,411.5,875.2,Active Web / Media,75,
+2026-04-04 10:58:45,30632,msedge.exe,0.0,101.6,Video/Download (CDN),52,r.cloudfront.net
+2026-04-04 10:58:45,15784,code.exe,0.0,34.1,Light Web Browsing,11,
+2026-04-04 10:58:47,36140,code.exe,837.7,867.5,Active Web / Media,75,
+2026-04-04 10:58:47,30632,msedge.exe,1.8,101.7,Video/Download (CDN),49,r.cloudfront.net
+2026-04-04 10:58:47,15784,code.exe,0.0,34.1,Light Web Browsing,10,
+2026-04-04 10:58:49,36140,code.exe,554.5,846.8,Active Web / Media,76,
+2026-04-04 10:58:49,30632,msedge.exe,290.3,131.1,Video/Download (CDN),28,r.cloudfront.net
+2026-04-04 10:58:49,15784,code.exe,66.4,29.2,Light Web Browsing,27,
+2026-04-04 10:58:51,36140,code.exe,413.0,712.9,Active Web / Media,80,
+2026-04-04 10:58:51,30632,msedge.exe,297.1,148.0,Video/Download (CDN),12,r.cloudfront.net
+2026-04-04 10:58:51,15784,code.exe,0.0,29.2,Light Web Browsing,25,
+2026-04-04 10:58:53,36140,code.exe,837.7,712.9,Active Web / Media,80,
+2026-04-04 10:58:53,30632,msedge.exe,685.9,207.3,Video/Download (CDN),0,r.cloudfront.net
+2026-04-04 10:58:53,15784,code.exe,7.2,24.2,Light Web Browsing,39,
+2026-04-04 10:58:53,37420,githubdesktop.exe,6.9,1.0,Web Browsing (Low traffic),0,
+2026-04-04 10:58:55,36140,code.exe,423.4,668.2,Active Web / Media,81,
+2026-04-04 10:58:55,30632,msedge.exe,0.0,129.1,Video/Download (CDN),30,r.cloudfront.net
+2026-04-04 10:58:55,15784,code.exe,7.2,18.0,Web Browsing (Low traffic),54,
+2026-04-04 10:58:55,37420,githubdesktop.exe,0.0,1.0,Web Browsing (Low traffic),0,
+2026-04-04 10:58:57,36140,code.exe,1414.5,812.2,Active Web / Media,77,
+2026-04-04 10:58:57,30632,msedge.exe,377.1,167.4,Video/Download (CDN),0,r.cloudfront.net
+2026-04-04 10:58:57,15784,code.exe,0.0,18.0,Web Browsing (Low traffic),51,
+2026-04-04 10:58:57,37420,githubdesktop.exe,0.0,1.0,Web Browsing (Low traffic),0,
+2026-04-04 10:58:59,36140,code.exe,423.6,842.9,Active Web / Media,76,
+2026-04-04 10:58:59,30632,msedge.exe,1.8,150.4,Video/Download (CDN),11,r.cloudfront.net
+2026-04-04 10:58:59,15784,code.exe,7.2,16.1,Web Browsing (Low traffic),54,
+2026-04-04 10:58:59,37420,githubdesktop.exe,0.0,1.0,Web Browsing (Low traffic),0,
+2026-04-04 10:59:01,36140,code.exe,423.5,845.3,Active Web / Media,76,
+2026-04-04 10:59:01,30632,msedge.exe,5.4,210.7,Video/Download (CDN),0,r.cloudfront.net
+2026-04-04 10:59:01,15784,code.exe,0.0,34.8,Light Web Browsing,0,
+2026-04-04 10:59:01,37420,githubdesktop.exe,0.0,1.7,Web Browsing (Low traffic),0,
+2026-04-04 10:59:03,36140,code.exe,1021.0,822.7,Active Web / Media,77,
+2026-04-04 10:59:03,30632,msedge.exe,698.8,212.6,Video/Download (CDN),0,r.cloudfront.net
+2026-04-04 10:59:03,15784,code.exe,79.7,38.1,Light Web Browsing,0,
+2026-04-04 10:59:05,36140,code.exe,584.6,943.1,Active Web / Media,73,
+2026-04-04 10:59:05,30632,msedge.exe,17.6,214.5,Video/Download (CDN),0,r.cloudfront.net
+2026-04-04 10:59:05,15784,code.exe,7.2,36.8,Light Web Browsing,0,
+2026-04-04 10:59:07,36140,code.exe,591.6,810.1,Active Web / Media,77,
+2026-04-04 10:59:07,30632,msedge.exe,5.4,176.8,Video/Download (CDN),0,r.cloudfront.net
+2026-04-04 10:59:07,15784,code.exe,14.3,46.3,Light Web Browsing,0,
+2026-04-04 10:59:09,36140,code.exe,442.8,785.6,Active Web / Media,78,
+2026-04-04 10:59:09,30632,msedge.exe,9.0,172.1,Light Web Browsing,5,
+2026-04-04 10:59:09,15784,code.exe,0.0,48.2,Light Web Browsing,0,
+2026-04-04 10:59:09,37420,githubdesktop.exe,0.0,1.4,Dev/Download (GitHub),0,lb-140-82-113-26-iad.github.com
+2026-04-04 10:59:11,36140,code.exe,963.2,811.1,Active Web / Media,77,
+2026-04-04 10:59:11,30632,msedge.exe,555.9,137.9,Light Web Browsing,31,
+2026-04-04 10:59:11,15784,code.exe,0.0,29.5,Light Web Browsing,23,
+2026-04-04 10:59:13,36140,code.exe,694.4,819.2,Active Web / Media,77,
+2026-04-04 10:59:13,30632,msedge.exe,1679.0,304.7,Active Web / Media,0,
+2026-04-04 10:59:13,15784,code.exe,66.4,36.1,Light Web Browsing,0,
+2026-04-04 10:59:15,36140,code.exe,665.9,668.2,Active Web / Media,81,
+2026-04-04 10:59:15,30632,msedge.exe,0.0,243.3,Active Web / Media,0,
+2026-04-04 10:59:15,15784,code.exe,0.0,23.5,Light Web Browsing,41,
+2026-04-04 10:59:17,36140,code.exe,442.8,650.1,Active Web / Media,82,
+2026-04-04 10:59:17,30632,msedge.exe,0.0,266.0,Active Web / Media,0,
+2026-04-04 10:59:17,15784,code.exe,7.2,21.4,Light Web Browsing,45,
+2026-04-04 10:59:19,36140,code.exe,442.8,635.2,Active Web / Media,82,
+2026-04-04 10:59:19,30632,msedge.exe,3.6,259.0,Active Web / Media,0,
+2026-04-04 10:59:19,15784,code.exe,0.0,13.3,Web Browsing (Low traffic),65,
+2026-04-04 10:59:21,36140,code.exe,867.8,654.1,Active Web / Media,81,
+2026-04-04 10:59:21,30632,msedge.exe,3.6,203.4,Active Web / Media,7,
+2026-04-04 10:59:21,15784,code.exe,0.0,18.0,Web Browsing (Low traffic),48,
+2026-04-04 10:59:21,37420,githubdesktop.exe,0.0,7.4,Dev/Download (GitHub),0,lb-140-82-113-26-iad.github.com
+2026-04-04 12:23:57,30632,msedge.exe,566.3,283.1,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:23:59,30632,msedge.exe,5.4,143.8,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:23:59,36296,code.exe,63.0,33.4,Light Web Browsing,0,
+2026-04-04 12:24:01,30632,msedge.exe,419.6,166.4,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:24:01,36296,code.exe,0.0,23.8,Light Web Browsing,0,
+2026-04-04 12:24:03,30632,msedge.exe,201.0,264.0,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:24:03,36296,code.exe,7.2,23.8,Light Web Browsing,0,
+2026-04-04 12:24:05,30632,msedge.exe,217.5,255.8,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:24:05,36296,code.exe,0.0,19.1,Web Browsing (Low traffic),0,
+2026-04-04 12:24:07,30632,msedge.exe,5.4,211.9,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:24:07,36296,code.exe,0.0,19.1,Web Browsing (Low traffic),0,
+2026-04-04 12:24:09,30632,msedge.exe,3.6,211.9,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:24:09,36296,code.exe,0.0,5.7,Web Browsing (Low traffic),0,
+2026-04-04 12:24:11,30632,msedge.exe,5.4,170.6,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:24:11,36296,code.exe,0.0,4.8,Web Browsing (Low traffic),0,
+2026-04-04 12:24:11,37420,githubdesktop.exe,5.1,2.0,Web Browsing (Low traffic),0,
+2026-04-04 12:24:13,30632,msedge.exe,3.6,60.1,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:24:13,37420,githubdesktop.exe,44.2,13.4,Web Browsing (Low traffic),0,
+2026-04-04 12:24:15,37420,githubdesktop.exe,73.3,39.3,Light Web Browsing,0,
+2026-04-04 12:24:15,30632,msedge.exe,5.4,16.4,Cloud/Download (AWS),93,compute-1.amazonaws.com
+2026-04-04 12:24:17,37420,githubdesktop.exe,0.0,39.6,Light Web Browsing,0,
+2026-04-04 12:24:17,30632,msedge.exe,3.6,4.7,Cloud/Download (AWS),98,compute-1.amazonaws.com
+2026-04-04 12:24:19,37420,githubdesktop.exe,0.0,39.6,Light Web Browsing,0,
+2026-04-04 12:24:19,30632,msedge.exe,3.6,4.7,Cloud/Download (AWS),98,compute-1.amazonaws.com
+2026-04-04 12:24:21,37420,githubdesktop.exe,0.0,37.8,Light Web Browsing,0,
+2026-04-04 12:24:21,30632,msedge.exe,3.6,4.5,Cloud/Download (AWS),98,compute-1.amazonaws.com
+2026-04-04 12:24:23,30632,msedge.exe,146.8,45.5,Cloud/Download (AWS),81,compute-1.amazonaws.com
+2026-04-04 12:24:23,37420,githubdesktop.exe,0.0,26.1,Light Web Browsing,0,
+2026-04-04 12:24:25,30632,msedge.exe,0.0,63.9,Cloud/Download (AWS),73,compute-1.amazonaws.com
+2026-04-04 12:24:27,30632,msedge.exe,0.0,63.3,Cloud/Download (AWS),73,compute-1.amazonaws.com
+2026-04-04 12:24:29,30632,msedge.exe,2.7,63.0,Cloud/Download (AWS),73,compute-1.amazonaws.com
+2026-04-04 12:24:31,30632,msedge.exe,1287.4,200.1,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:24:33,30632,msedge.exe,3.6,172.9,Cloud/Download (AWS),8,compute-1.amazonaws.com
+2026-04-04 12:24:35,30632,msedge.exe,619.1,209.4,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:24:37,30632,msedge.exe,0.0,209.4,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:24:39,30632,msedge.exe,40.4,217.9,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:24:41,30632,msedge.exe,5.4,102.2,Cloud/Download (AWS),55,compute-1.amazonaws.com
+2026-04-04 12:24:43,30632,msedge.exe,0.0,101.9,Cloud/Download (AWS),52,compute-1.amazonaws.com
+2026-04-04 12:24:45,30632,msedge.exe,0.0,31.4,Cloud/Download (AWS),85,compute-1.amazonaws.com
+2026-04-04 12:24:45,36296,code.exe,50.0,5.0,Web Browsing (Low traffic),0,
+2026-04-04 12:24:47,30632,msedge.exe,0.0,31.4,Cloud/Download (AWS),85,compute-1.amazonaws.com
+2026-04-04 12:24:47,36296,code.exe,0.0,5.0,Web Browsing (Low traffic),0,
+2026-04-04 12:24:49,30632,msedge.exe,0.0,22.3,Cloud/Download (AWS),89,compute-1.amazonaws.com
+2026-04-04 12:24:49,36296,code.exe,0.0,5.0,Web Browsing (Low traffic),0,
+2026-04-04 12:24:51,36296,code.exe,0.0,5.0,Web Browsing (Low traffic),0,
+2026-04-04 12:24:53,36296,code.exe,0.0,5.0,Web Browsing (Low traffic),0,
+2026-04-04 12:24:55,36296,code.exe,41.0,9.1,Web Browsing (Low traffic),0,
+2026-04-04 12:24:57,36296,code.exe,0.0,4.1,Web Browsing (Low traffic),0,
+2026-04-04 12:24:59,36296,code.exe,0.0,4.1,Web Browsing (Low traffic),0,
+2026-04-04 12:25:01,30632,msedge.exe,8.3,80.0,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:25:01,36296,code.exe,0.0,4.1,Web Browsing (Low traffic),0,
+2026-04-04 12:25:03,30632,msedge.exe,0.0,178.3,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:25:03,36296,code.exe,0.0,4.1,Web Browsing (Low traffic),0,
+2026-04-04 12:25:05,30632,msedge.exe,0.0,178.3,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:25:07,30632,msedge.exe,0.0,178.3,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:25:09,30632,msedge.exe,97.5,188.1,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:25:11,30632,msedge.exe,0.0,116.1,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:25:13,30632,msedge.exe,5.4,18.3,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:25:15,30632,msedge.exe,0.0,18.3,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:25:17,30632,msedge.exe,0.0,18.3,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:25:19,30632,msedge.exe,0.0,18.3,Cloud/Download (AWS),86,compute-1.amazonaws.com
+2026-04-04 12:25:33,30632,msedge.exe,0.0,1.2,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:25:33,14980,nvidia overlay.exe,0.0,1.1,Web Browsing (Low traffic),0,
+2026-04-04 12:25:35,30632,msedge.exe,0.0,1.2,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:25:35,14980,nvidia overlay.exe,0.0,1.1,Web Browsing (Low traffic),0,
+2026-04-04 12:25:37,30632,msedge.exe,0.0,1.2,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:25:37,14980,nvidia overlay.exe,0.0,1.1,Web Browsing (Low traffic),0,
+2026-04-04 12:25:39,30632,msedge.exe,2.7,15.6,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:25:39,14980,nvidia overlay.exe,0.0,1.1,Web Browsing (Low traffic),0,
+2026-04-04 12:25:41,30632,msedge.exe,0.0,14.7,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:25:41,14980,nvidia overlay.exe,0.0,1.1,Web Browsing (Low traffic),0,
+2026-04-04 12:25:43,30632,msedge.exe,0.0,14.4,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:25:45,30632,msedge.exe,0.0,14.4,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:25:45,36296,code.exe,7.2,4.9,Web Browsing (Low traffic),0,
+2026-04-04 12:25:47,30632,msedge.exe,0.0,14.4,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:25:47,36296,code.exe,0.0,4.9,Web Browsing (Low traffic),0,
+2026-04-04 12:25:49,36296,code.exe,0.0,4.9,Web Browsing (Low traffic),0,
+2026-04-04 12:25:51,36296,code.exe,0.0,4.9,Web Browsing (Low traffic),0,
+2026-04-04 12:25:53,36296,code.exe,0.0,4.9,Web Browsing (Low traffic),0,
+2026-04-04 12:26:09,30632,msedge.exe,0.0,72.7,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:26:11,30632,msedge.exe,0.0,170.9,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:26:13,30632,msedge.exe,0.0,170.9,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:26:15,30632,msedge.exe,0.0,170.9,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:26:17,30632,msedge.exe,0.0,170.9,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:26:20,30632,msedge.exe,0.0,98.4,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:26:40,30632,msedge.exe,65.0,15.7,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:26:42,30632,msedge.exe,0.0,15.7,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:26:42,14980,nvidia overlay.exe,17.8,1.9,Web Browsing (Low traffic),0,
+2026-04-04 12:26:44,30632,msedge.exe,5.4,15.9,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:26:44,14980,nvidia overlay.exe,0.0,1.9,Web Browsing (Low traffic),0,
+2026-04-04 12:26:46,30632,msedge.exe,0.0,15.9,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:26:46,36296,code.exe,7.2,4.8,Web Browsing (Low traffic),0,
+2026-04-04 12:26:46,14980,nvidia overlay.exe,0.0,1.9,Web Browsing (Low traffic),0,
+2026-04-04 12:26:48,30632,msedge.exe,0.0,15.9,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:26:48,36296,code.exe,0.0,4.8,Web Browsing (Low traffic),0,
+2026-04-04 12:26:48,14980,nvidia overlay.exe,0.0,1.9,Web Browsing (Low traffic),0,
+2026-04-04 12:26:50,30632,msedge.exe,0.0,7.0,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:26:50,36296,code.exe,0.0,4.8,Web Browsing (Low traffic),0,
+2026-04-04 12:26:50,14980,nvidia overlay.exe,0.0,1.9,Web Browsing (Low traffic),0,
+2026-04-04 12:26:52,36296,code.exe,0.0,4.8,Web Browsing (Low traffic),0,
+2026-04-04 12:26:52,14980,nvidia overlay.exe,0.0,1.8,Web Browsing (Low traffic),0,
+2026-04-04 12:26:54,36296,code.exe,0.0,4.8,Web Browsing (Low traffic),0,
+2026-04-04 12:27:10,30632,msedge.exe,0.0,72.6,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:27:12,30632,msedge.exe,0.0,170.9,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:27:14,30632,msedge.exe,0.0,170.9,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:27:16,30632,msedge.exe,0.0,170.9,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:27:18,30632,msedge.exe,0.0,170.9,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:27:20,30632,msedge.exe,0.0,98.4,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:27:24,6516,mpdefendercoreservice.exe,2241.5,224.2,Active Web / Media,0,
+2026-04-04 12:27:26,6516,mpdefendercoreservice.exe,0.0,224.2,Active Web / Media,0,
+2026-04-04 12:27:28,6516,mpdefendercoreservice.exe,0.0,224.2,Active Web / Media,0,
+2026-04-04 12:27:30,6516,mpdefendercoreservice.exe,0.0,224.2,Active Web / Media,0,
+2026-04-04 12:27:32,6516,mpdefendercoreservice.exe,0.0,224.2,Active Web / Media,0,
+2026-04-04 12:27:34,30632,msedge.exe,0.0,1.1,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:27:36,30632,msedge.exe,0.0,1.1,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:27:38,30632,msedge.exe,0.0,1.1,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:27:40,30632,msedge.exe,65.0,16.2,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:27:42,30632,msedge.exe,0.0,16.2,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:27:44,30632,msedge.exe,0.0,15.7,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:27:46,30632,msedge.exe,0.0,15.7,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:27:46,36296,code.exe,0.0,4.8,Web Browsing (Low traffic),0,
+2026-04-04 12:27:48,30632,msedge.exe,0.0,15.7,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:27:48,36296,code.exe,0.0,4.8,Web Browsing (Low traffic),0,
+2026-04-04 12:27:50,36296,code.exe,71.4,12.0,Web Browsing (Low traffic),0,
+2026-04-04 12:27:50,30632,msedge.exe,0.0,6.5,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:27:52,36296,code.exe,0.0,33.2,Light Web Browsing,0,
+2026-04-04 12:27:54,36296,code.exe,24.1,45.9,Light Web Browsing,0,
+2026-04-04 12:27:56,36296,code.exe,0.0,41.0,Light Web Browsing,0,
+2026-04-04 12:27:58,36296,code.exe,0.0,41.0,Light Web Browsing,0,
+2026-04-04 12:28:00,36296,code.exe,0.0,33.9,Light Web Browsing,0,
+2026-04-04 12:28:02,36296,code.exe,0.0,12.7,Web Browsing (Low traffic),0,
+2026-04-04 12:28:10,30632,msedge.exe,0.0,72.6,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:28:12,30632,msedge.exe,0.0,72.6,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:28:14,30632,msedge.exe,5.4,73.1,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:28:16,30632,msedge.exe,0.0,73.1,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:28:18,30632,msedge.exe,0.0,73.1,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:28:28,22872,svchost.exe,8803.6,4401.8,Active Web / Media,0,
+2026-04-04 12:28:30,22872,svchost.exe,655.4,2364.7,Video Streaming (Bursty),0,
+2026-04-04 12:28:32,22872,svchost.exe,0.0,1891.8,Video Streaming (Bursty),0,
+2026-04-04 12:28:34,22872,svchost.exe,0.0,1351.3,Video Streaming (Bursty),0,
+2026-04-04 12:28:36,22872,svchost.exe,0.0,1051.0,Video Streaming (Bursty),0,
+2026-04-04 12:28:38,22872,svchost.exe,0.0,945.9,Video Streaming (Bursty),0,
+2026-04-04 12:28:38,30632,msedge.exe,93.5,9.7,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:28:40,22872,svchost.exe,0.0,65.5,Light Web Browsing,0,
+2026-04-04 12:28:40,30632,msedge.exe,5.4,10.5,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:28:42,30632,msedge.exe,0.0,10.5,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:28:44,30632,msedge.exe,0.0,10.2,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:28:44,36296,code.exe,42.0,4.2,Web Browsing (Low traffic),0,
+2026-04-04 12:28:46,30632,msedge.exe,0.0,10.2,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:28:46,36296,code.exe,7.2,4.9,Web Browsing (Low traffic),0,
+2026-04-04 12:28:48,30632,msedge.exe,0.0,10.2,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:28:48,36296,code.exe,0.0,4.9,Web Browsing (Low traffic),0,
+2026-04-04 12:28:50,36296,code.exe,0.0,4.9,Web Browsing (Low traffic),0,
+2026-04-04 12:28:52,22872,svchost.exe,20119.6,2012.0,Video Streaming (Bursty),0,
+2026-04-04 12:28:52,36296,code.exe,0.0,4.9,Web Browsing (Low traffic),0,
+2026-04-04 12:28:54,22872,svchost.exe,98.3,2021.8,Video Streaming (Bursty),0,
+2026-04-04 12:28:54,36296,code.exe,0.0,4.9,Web Browsing (Low traffic),0,
+2026-04-04 12:28:59,6432,svchost.exe,296.6,148.3,Light Web Browsing,0,
+2026-04-04 12:29:09,30632,msedge.exe,201.0,20.6,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:29:11,30632,msedge.exe,0.0,20.1,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:29:13,6432,svchost.exe,230.7,175.8,Light Web Browsing,0,
+2026-04-04 12:29:13,30632,msedge.exe,0.0,20.1,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:29:15,6432,svchost.exe,296.6,206.0,Active Web / Media,0,
+2026-04-04 12:29:15,30632,msedge.exe,0.0,20.1,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:29:17,30632,msedge.exe,0.0,20.1,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:29:19,30632,msedge.exe,0.0,20.1,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:29:33,6432,svchost.exe,527.4,270.3,Active Web / Media,0,
+2026-04-04 12:29:35,6432,svchost.exe,230.7,263.7,Active Web / Media,0,
+2026-04-04 12:29:37,10604,svchost.exe,406.1,203.0,Active Web / Media,0,
+2026-04-04 12:29:39,10604,svchost.exe,416.9,269.8,Active Web / Media,0,
+2026-04-04 12:29:39,30632,msedge.exe,148.1,15.4,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:29:41,30632,msedge.exe,0.0,15.7,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:29:43,30632,msedge.exe,0.0,15.3,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:29:45,22872,svchost.exe,4411.0,2462.9,Video Streaming (Bursty),0,
+2026-04-04 12:29:45,30632,msedge.exe,0.0,15.3,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:29:47,22872,svchost.exe,262.1,2489.1,Video Streaming (Bursty),0,
+2026-04-04 12:29:47,30632,msedge.exe,0.0,15.9,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:29:47,36296,code.exe,0.0,4.8,Web Browsing (Low traffic),0,
+2026-04-04 12:29:49,22872,svchost.exe,0.0,2489.1,Video Streaming (Bursty),0,
+2026-04-04 12:29:49,30632,msedge.exe,3.5,16.1,Dev/Download (GitHub),0,lb-140-82-113-25-iad.github.com
+2026-04-04 12:29:49,36296,code.exe,0.0,4.8,Web Browsing (Low traffic),0,
+2026-04-04 12:29:51,22872,svchost.exe,0.0,2489.1,Video Streaming (Bursty),0,
+2026-04-04 12:29:51,30632,msedge.exe,173.3,18.7,Dev/Download (GitHub),0,lb-140-82-112-26-iad.github.com
+2026-04-04 12:29:51,36296,code.exe,0.0,4.8,Web Browsing (Low traffic),0,
+2026-04-04 12:29:53,22872,svchost.exe,0.0,477.1,Video Streaming (Bursty),0,
+2026-04-04 12:29:53,30632,msedge.exe,474.8,73.7,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:29:53,36296,code.exe,47.5,9.6,Web Browsing (Low traffic),0,
+2026-04-04 12:29:55,30632,msedge.exe,209.3,142.4,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:29:55,22872,svchost.exe,0.0,26.2,Light Web Browsing,0,
+2026-04-04 12:29:55,36296,code.exe,0.0,9.6,Web Browsing (Low traffic),0,
+2026-04-04 12:29:57,30632,msedge.exe,608.6,203.5,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:29:57,36296,code.exe,0.0,4.7,Web Browsing (Low traffic),0,
+2026-04-04 12:29:59,30632,msedge.exe,102.3,363.1,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:29:59,36296,code.exe,0.0,4.7,Web Browsing (Low traffic),0,
+2026-04-04 12:30:01,30632,msedge.exe,0.0,362.7,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:30:01,36296,code.exe,0.0,9.6,Web Browsing (Low traffic),0,
+2026-04-04 12:30:03,30632,msedge.exe,0.0,337.8,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:30:03,22872,svchost.exe,3055.9,305.6,Video Streaming (Bursty),0,
+2026-04-04 12:30:03,36296,code.exe,0.0,9.6,Web Browsing (Low traffic),0,
+2026-04-04 12:30:05,6432,svchost.exe,527.4,301.3,Active Web / Media,0,
+2026-04-04 12:30:05,30632,msedge.exe,0.0,242.6,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:30:05,36296,code.exe,0.0,4.8,Web Browsing (Low traffic),0,
+2026-04-04 12:30:07,30632,msedge.exe,0.0,220.9,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:30:07,36296,code.exe,0.0,4.8,Web Browsing (Low traffic),0,
+2026-04-04 12:30:09,30632,msedge.exe,0.0,135.3,Cloud/Download (AWS),29,compute-1.amazonaws.com
+2026-04-04 12:30:09,36296,code.exe,0.0,4.8,Web Browsing (Low traffic),0,
+2026-04-04 12:30:11,30632,msedge.exe,0.0,125.1,Cloud/Download (AWS),33,compute-1.amazonaws.com
+2026-04-04 12:30:13,30632,msedge.exe,0.0,125.1,Cloud/Download (AWS),31,compute-1.amazonaws.com
+2026-04-04 12:30:15,30632,msedge.exe,197.4,225.7,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:30:17,30632,msedge.exe,2.7,235.1,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:30:19,30632,msedge.exe,0.0,110.1,Cloud/Download (AWS),46,compute-1.amazonaws.com
+2026-04-04 12:30:21,30632,msedge.exe,8.8,110.9,Cloud/Download (AWS),42,compute-1.amazonaws.com
+2026-04-04 12:30:23,30632,msedge.exe,0.0,110.9,Cloud/Download (AWS),40,compute-1.amazonaws.com
+2026-04-04 12:30:25,30632,msedge.exe,50.6,47.9,Cloud/Download (AWS),74,compute-1.amazonaws.com
+2026-04-04 12:30:27,30632,msedge.exe,1873.9,214.5,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:30:29,30632,msedge.exe,0.0,214.2,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:30:31,30632,msedge.exe,0.0,213.9,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:30:33,30632,msedge.exe,3.6,214.2,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:30:35,30632,msedge.exe,0.0,196.3,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:30:39,30632,msedge.exe,2.7,15.5,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:30:41,30632,msedge.exe,0.0,15.0,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:30:43,30632,msedge.exe,0.0,15.0,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:30:45,30632,msedge.exe,725.8,87.2,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:30:47,30632,msedge.exe,0.0,87.3,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:30:49,30632,msedge.exe,0.0,72.9,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:30:51,30632,msedge.exe,8.3,73.5,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:30:53,30632,msedge.exe,0.0,73.5,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:31:21,30632,msedge.exe,992.0,99.7,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:31:23,30632,msedge.exe,0.0,99.7,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:31:25,30632,msedge.exe,0.0,99.7,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:31:27,30632,msedge.exe,0.0,99.2,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:31:29,30632,msedge.exe,80.4,118.3,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:31:31,30632,msedge.exe,0.0,19.1,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:31:33,30632,msedge.exe,0.0,19.5,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:31:35,30632,msedge.exe,0.0,19.5,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:31:37,30632,msedge.exe,2.7,19.8,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:31:39,30632,msedge.exe,88.8,17.5,Cloud/Download (AWS),78,compute-1.amazonaws.com
+2026-04-04 12:31:41,30632,msedge.exe,0.0,16.0,Cloud/Download (AWS),80,compute-1.amazonaws.com
+2026-04-04 12:31:43,30632,msedge.exe,0.0,15.7,Cloud/Download (AWS),81,compute-1.amazonaws.com
+2026-04-04 12:31:45,30632,msedge.exe,0.0,15.7,Cloud/Download (AWS),81,compute-1.amazonaws.com
+2026-04-04 12:31:47,30632,msedge.exe,0.0,15.7,Cloud/Download (AWS),81,compute-1.amazonaws.com
+2026-04-04 12:31:49,30632,msedge.exe,0.0,6.6,Cloud/Download (AWS),92,compute-1.amazonaws.com
+2026-04-04 12:32:08,30632,msedge.exe,817.3,163.4,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:32:10,30632,msedge.exe,0.0,163.4,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:32:12,30632,msedge.exe,91.5,182.1,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:32:14,30632,msedge.exe,0.0,182.1,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:32:16,34300,backgroundtaskhost.exe,2664.3,2447.4,Active Web / Media,0,
+2026-04-04 12:32:16,30632,msedge.exe,0.0,182.1,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:32:18,34300,backgroundtaskhost.exe,0.0,1902.7,Active Web / Media,0,
+2026-04-04 12:32:18,30632,msedge.exe,915.6,202.4,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:32:20,33192,msedgewebview2.exe,12870.3,6435.2,Large File Download,0,
+2026-04-04 12:32:20,13652,widgets.exe,6455.7,4995.8,Active Web / Media,0,
+2026-04-04 12:32:20,34300,backgroundtaskhost.exe,0.0,1359.1,Video Streaming (Bursty),0,
+2026-04-04 12:32:20,30632,msedge.exe,91.5,150.1,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:32:22,33192,msedgewebview2.exe,0.0,3701.4,Video Streaming (Bursty),0,
+2026-04-04 12:32:22,13652,widgets.exe,0.0,2997.5,Video Streaming (Bursty),0,
+2026-04-04 12:32:22,34300,backgroundtaskhost.exe,0.0,1057.0,Video Streaming (Bursty),0,
+2026-04-04 12:32:22,30632,msedge.exe,1092.0,240.2,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:32:24,33192,msedgewebview2.exe,0.0,2467.6,Video Streaming (Bursty),0,
+2026-04-04 12:32:24,13652,widgets.exe,0.0,2141.1,Video Streaming (Bursty),0,
+2026-04-04 12:32:24,34300,backgroundtaskhost.exe,0.0,951.3,Video Streaming (Bursty),0,
+2026-04-04 12:32:24,30632,msedge.exe,0.0,250.0,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:32:26,33192,msedgewebview2.exe,0.0,1850.7,Video Streaming (Bursty),0,
+2026-04-04 12:32:26,13652,widgets.exe,0.0,1665.3,Video Streaming (Bursty),0,
+2026-04-04 12:32:26,30632,msedge.exe,45.1,254.5,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:32:26,34300,backgroundtaskhost.exe,0.0,217.1,Active Web / Media,0,
+2026-04-04 12:32:28,13652,widgets.exe,0.0,1498.7,Video Streaming (Bursty),0,
+2026-04-04 12:32:28,33192,msedgewebview2.exe,0.0,1480.5,Video Streaming (Bursty),0,
+2026-04-04 12:32:28,30632,msedge.exe,2.7,167.0,Cloud/Download (AWS),24,compute-1.amazonaws.com
+2026-04-04 12:32:30,33192,msedgewebview2.exe,15.0,1482.1,Video Streaming (Bursty),0,
+2026-04-04 12:32:30,13652,widgets.exe,42.1,649.8,Video Streaming (Bursty),0,
+2026-04-04 12:32:30,30632,msedge.exe,0.0,146.8,Dev/Download (GitHub),34,lb-140-82-112-26-iad.github.com
+2026-04-04 12:32:32,30632,msedge.exe,0.0,137.4,Dev/Download (GitHub),37,lb-140-82-112-26-iad.github.com
+2026-04-04 12:32:32,13652,widgets.exe,0.0,4.2,Web Browsing (Low traffic),0,
+2026-04-04 12:32:32,33192,msedgewebview2.exe,0.0,1.6,Web Browsing (Low traffic),0,
+2026-04-04 12:32:34,30632,msedge.exe,2.4,19.0,Dev/Download (GitHub),91,lb-140-82-112-26-iad.github.com
+2026-04-04 12:32:34,13652,widgets.exe,0.0,4.2,Web Browsing (Low traffic),0,
+2026-04-04 12:32:34,33192,msedgewebview2.exe,0.0,1.6,Web Browsing (Low traffic),0,
+2026-04-04 12:32:36,30632,msedge.exe,0.0,19.0,Dev/Download (GitHub),91,lb-140-82-112-26-iad.github.com
+2026-04-04 12:32:36,13652,widgets.exe,0.0,4.2,Web Browsing (Low traffic),0,
+2026-04-04 12:32:36,33192,msedgewebview2.exe,0.0,1.6,Web Browsing (Low traffic),0,
+2026-04-04 12:32:38,13652,widgets.exe,0.0,4.2,Web Browsing (Low traffic),99,
+2026-04-04 12:32:38,33192,msedgewebview2.exe,0.0,1.6,Web Browsing (Low traffic),99,
+2026-04-04 12:32:40,30632,msedge.exe,203.7,29.8,Dev/Download (GitHub),0,lb-140-82-112-26-iad.github.com
+2026-04-04 12:32:42,30632,msedge.exe,0.0,30.4,Dev/Download (GitHub),0,lb-140-82-112-26-iad.github.com
+2026-04-04 12:32:44,30632,msedge.exe,0.0,29.8,Dev/Download (GitHub),0,lb-140-82-112-26-iad.github.com
+2026-04-04 12:32:46,30632,msedge.exe,5.4,30.3,Dev/Download (GitHub),0,lb-140-82-112-26-iad.github.com
+2026-04-04 12:32:48,30632,msedge.exe,0.0,30.3,Dev/Download (GitHub),0,lb-140-82-112-26-iad.github.com
+2026-04-04 12:32:48,33192,msedgewebview2.exe,135.4,13.5,Web Browsing (Low traffic),0,
+2026-04-04 12:32:50,33192,msedgewebview2.exe,332.2,46.8,Light Web Browsing,0,
+2026-04-04 12:32:50,30632,msedge.exe,0.0,21.4,Dev/Download (GitHub),0,lb-140-82-112-26-iad.github.com
+2026-04-04 12:32:50,36296,code.exe,71.4,7.1,Web Browsing (Low traffic),0,
+2026-04-04 12:32:52,33192,msedgewebview2.exe,0.0,46.8,Light Web Browsing,0,
+2026-04-04 12:32:52,36296,code.exe,0.0,40.1,Light Web Browsing,0,
+2026-04-04 12:32:52,30632,msedge.exe,0.0,28.1,Dev/Download (GitHub),0,lb-140-82-112-26-iad.github.com
+2026-04-04 12:32:54,33192,msedgewebview2.exe,0.0,46.8,Light Web Browsing,0,
+2026-04-04 12:32:54,36296,code.exe,0.0,40.1,Light Web Browsing,0,
+2026-04-04 12:32:54,30632,msedge.exe,96.8,38.0,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:32:56,36296,code.exe,20.6,52.8,Light Web Browsing,0,
+2026-04-04 12:32:56,33192,msedgewebview2.exe,0.0,46.8,Light Web Browsing,0,
+2026-04-04 12:32:56,30632,msedge.exe,0.0,38.7,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:32:58,30632,msedge.exe,0.0,109.7,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:32:58,36296,code.exe,0.0,52.8,Light Web Browsing,0,
+2026-04-04 12:32:58,33192,msedgewebview2.exe,0.0,46.8,Light Web Browsing,0,
+2026-04-04 12:33:00,30632,msedge.exe,0.0,109.7,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:33:00,6468,nvcontainer.exe,131.8,65.9,Light Web Browsing,0,
+2026-04-04 12:33:00,36296,code.exe,0.0,45.6,Light Web Browsing,0,
+2026-04-04 12:33:02,30632,msedge.exe,0.0,82.2,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:33:02,36296,code.exe,0.0,12.7,Web Browsing (Low traffic),0,
+2026-04-04 12:33:04,30632,msedge.exe,0.0,72.2,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:33:04,36296,code.exe,0.0,12.7,Web Browsing (Low traffic),0,
+2026-04-04 12:33:06,30632,msedge.exe,0.0,142.0,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:33:08,30632,msedge.exe,715.1,142.0,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:33:10,30632,msedge.exe,0.0,142.0,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:33:12,30632,msedge.exe,0.0,142.0,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:33:14,30632,msedge.exe,0.0,142.0,Dev/Download (GitHub),0,lb-140-82-112-26-iad.github.com
+2026-04-04 12:33:16,30632,msedge.exe,0.0,71.5,Dev/Download (GitHub),35,lb-140-82-112-26-iad.github.com
+2026-04-04 12:33:20,30632,msedge.exe,713.1,98.8,Dev/Download (GitHub),0,lb-140-82-112-26-iad.github.com
+2026-04-04 12:33:20,36296,code.exe,519.1,51.9,Light Web Browsing,0,
+2026-04-04 12:33:22,30632,msedge.exe,993.2,198.2,Dev/Download (GitHub),0,lb-140-82-112-26-iad.github.com
+2026-04-04 12:33:22,36296,code.exe,0.0,51.9,Light Web Browsing,0,
+2026-04-04 12:33:24,22900,code.exe,194551.7,65181.5,Large File Download,0,
+2026-04-04 12:33:24,30632,msedge.exe,577.9,266.3,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:33:24,36296,code.exe,7.2,52.6,Light Web Browsing,0,
+2026-04-04 12:33:26,22900,code.exe,284.7,39265.5,Large File Download,0,
+2026-04-04 12:33:26,30632,msedge.exe,217.2,372.2,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:33:26,36296,code.exe,0.0,67.0,Light Web Browsing,0,
+2026-04-04 12:33:28,22900,code.exe,575.4,28210.6,Large File Download,0,
+2026-04-04 12:33:28,30632,msedge.exe,102.0,402.7,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:33:28,36296,code.exe,4.2,67.4,Light Web Browsing,0,
+2026-04-04 12:33:30,22900,code.exe,354.2,22053.4,Large File Download,0,
+2026-04-04 12:33:30,30632,msedge.exe,255.3,408.4,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:33:30,36296,code.exe,39.9,71.8,Light Web Browsing,0,
+2026-04-04 12:33:32,30632,msedge.exe,129.4,263.3,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:33:32,36296,code.exe,7.2,30.2,Light Web Browsing,0,
+2026-04-04 12:33:34,30632,msedge.exe,215.4,274.5,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:33:34,36296,code.exe,0.0,30.2,Light Web Browsing,0,
+2026-04-04 12:33:36,30632,msedge.exe,923.6,244.1,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:33:36,36296,code.exe,0.0,15.1,Web Browsing (Low traffic),0,
+2026-04-04 12:33:38,30632,msedge.exe,246.5,247.5,Cloud/Download (AWS),21,compute-1.amazonaws.com
+2026-04-04 12:33:38,36296,code.exe,0.0,15.1,Web Browsing (Low traffic),75,
+2026-04-04 12:33:40,30632,msedge.exe,1289.6,385.2,Dev/Download (GitHub),0,lb-140-82-112-26-iad.github.com
+2026-04-04 12:33:40,36296,code.exe,0.0,14.3,Web Browsing (Low traffic),76,
+2026-04-04 12:33:42,30632,msedge.exe,227.3,401.0,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:33:44,30632,msedge.exe,115.5,390.6,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:33:46,30632,msedge.exe,53.6,298.3,Cloud/Download (AWS),11,compute-1.amazonaws.com
+2026-04-04 12:33:48,30632,msedge.exe,83.1,272.6,Cloud/Download (AWS),21,compute-1.amazonaws.com
+2026-04-04 12:33:50,30632,msedge.exe,798.6,197.6,Cloud/Download (AWS),45,compute-1.amazonaws.com
+2026-04-04 12:33:52,30632,msedge.exe,14.9,167.9,Cloud/Download (AWS),52,compute-1.amazonaws.com
+2026-04-04 12:33:54,30632,msedge.exe,3.6,133.6,Cloud/Download (AWS),60,compute-1.amazonaws.com
+2026-04-04 12:33:56,30632,msedge.exe,195.1,128.1,Cloud/Download (AWS),59,compute-1.amazonaws.com
+2026-04-04 12:33:58,30632,msedge.exe,3.6,168.9,Cloud/Download (AWS),41,compute-1.amazonaws.com
+2026-04-04 12:33:58,14980,nvidia overlay.exe,0.0,1.3,Web Browsing (Low traffic),0,
+2026-04-04 12:34:00,30632,msedge.exe,5.4,161.6,Cloud/Download (AWS),41,compute-1.amazonaws.com
+2026-04-04 12:34:02,30632,msedge.exe,5.4,81.2,Cloud/Download (AWS),71,compute-1.amazonaws.com
+2026-04-04 12:34:04,30632,msedge.exe,5.4,81.2,Cloud/Download (AWS),71,compute-1.amazonaws.com
+2026-04-04 12:34:06,30632,msedge.exe,3.6,81.0,Cloud/Download (AWS),71,compute-1.amazonaws.com
+2026-04-04 12:34:08,30632,msedge.exe,3.6,4.5,Cloud/Download (AWS),98,compute-1.amazonaws.com
+2026-04-04 12:34:10,30632,msedge.exe,3.6,4.5,Cloud/Download (AWS),98,compute-1.amazonaws.com
+2026-04-04 12:34:12,30632,msedge.exe,5.4,4.8,Cloud/Download (AWS),98,compute-1.amazonaws.com
+2026-04-04 12:34:14,30632,msedge.exe,5.4,4.8,Cloud/Download (AWS),98,compute-1.amazonaws.com
+2026-04-04 12:34:16,13912,filecoauth.exe,5924.3,2962.2,Active Web / Media,0,
+2026-04-04 12:34:16,30632,msedge.exe,6.3,4.9,Cloud/Download (AWS),98,compute-1.amazonaws.com
+2026-04-04 12:34:18,13912,filecoauth.exe,0.0,1481.1,Video Streaming (Bursty),0,
+2026-04-04 12:34:18,30632,msedge.exe,7.2,5.6,Cloud/Download (AWS),98,compute-1.amazonaws.com
+2026-04-04 12:34:20,13912,filecoauth.exe,0.0,1184.9,Video Streaming (Bursty),0,
+2026-04-04 12:34:20,13128,msedgewebview2.exe,154.2,77.1,Light Web Browsing,0,
+2026-04-04 12:34:20,30632,msedge.exe,90.0,14.1,Cloud/Download (AWS),95,compute-1.amazonaws.com
+2026-04-04 12:34:22,13912,filecoauth.exe,0.0,846.5,Video Streaming (Bursty),0,
+2026-04-04 12:34:22,13128,msedgewebview2.exe,0.0,38.6,Light Web Browsing,0,
+2026-04-04 12:34:22,30632,msedge.exe,4.5,22.1,Cloud/Download (AWS),92,compute-1.amazonaws.com
+2026-04-04 12:34:24,13912,filecoauth.exe,0.0,658.4,Video Streaming (Bursty),0,
+2026-04-04 12:34:24,13128,msedgewebview2.exe,234.9,81.7,Light Web Browsing,0,
+2026-04-04 12:34:24,30632,msedge.exe,12.8,23.0,Cloud/Download (AWS),92,compute-1.amazonaws.com
+2026-04-04 12:34:26,13912,filecoauth.exe,0.0,605.7,Video Streaming (Bursty),0,
+2026-04-04 12:34:26,13128,msedgewebview2.exe,74.9,74.1,Light Web Browsing,0,
+2026-04-04 12:34:26,30632,msedge.exe,204.6,43.1,Cloud/Download (AWS),85,compute-1.amazonaws.com
+2026-04-04 12:34:28,13128,msedgewebview2.exe,0.0,59.2,Light Web Browsing,0,
+2026-04-04 12:34:28,30632,msedge.exe,14.6,43.5,Cloud/Download (AWS),84,compute-1.amazonaws.com
+2026-04-04 12:34:28,13912,filecoauth.exe,0.0,13.2,Web Browsing (Low traffic),0,
+2026-04-04 12:34:30,30632,msedge.exe,989.0,133.1,Cloud/Download (AWS),49,compute-1.amazonaws.com
+2026-04-04 12:34:30,13128,msedgewebview2.exe,0.0,43.8,Light Web Browsing,0,
+2026-04-04 12:34:30,13912,filecoauth.exe,0.0,13.2,Web Browsing (Low traffic),0,
+2026-04-04 12:34:32,22900,code.exe,22837.3,22181.5,Large File Download,0,
+2026-04-04 12:34:32,30632,msedge.exe,10.8,125.5,Cloud/Download (AWS),50,compute-1.amazonaws.com
+2026-04-04 12:34:32,13128,msedgewebview2.exe,69.4,57.5,Light Web Browsing,0,
+2026-04-04 12:34:32,13912,filecoauth.exe,0.0,13.1,Web Browsing (Low traffic),0,
+2026-04-04 12:34:34,30632,msedge.exe,423.6,178.0,Cloud/Download (AWS),19,compute-1.amazonaws.com
+2026-04-04 12:34:34,13128,msedgewebview2.exe,0.0,23.9,Light Web Browsing,0,
+2026-04-04 12:34:34,13912,filecoauth.exe,0.0,13.1,Web Browsing (Low traffic),98,
+2026-04-04 12:34:36,30632,msedge.exe,794.2,256.8,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:34:36,13128,msedgewebview2.exe,0.0,21.2,Light Web Browsing,0,
+2026-04-04 12:34:38,30632,msedge.exe,0.0,235.8,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:34:38,13128,msedgewebview2.exe,0.0,13.7,Web Browsing (Low traffic),79,
+2026-04-04 12:34:40,30632,msedge.exe,293.4,309.6,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:34:40,13128,msedgewebview2.exe,91.0,22.8,Light Web Browsing,64,
+2026-04-04 12:34:42,30632,msedge.exe,0.0,210.3,Cloud/Download (AWS),10,compute-1.amazonaws.com
+2026-04-04 12:34:42,13128,msedgewebview2.exe,0.0,16.0,Web Browsing (Low traffic),73,
+2026-04-04 12:34:44,30632,msedge.exe,0.0,197.4,Cloud/Download (AWS),18,compute-1.amazonaws.com
+2026-04-04 12:34:44,13128,msedgewebview2.exe,0.0,9.1,Web Browsing (Low traffic),85,
+2026-04-04 12:34:46,30632,msedge.exe,0.0,75.6,Cloud/Download (AWS),71,compute-1.amazonaws.com
+2026-04-04 12:34:46,13912,filecoauth.exe,362.4,36.2,Light Web Browsing,0,
+2026-04-04 12:34:46,13128,msedgewebview2.exe,0.0,9.1,Web Browsing (Low traffic),85,
+2026-04-04 12:34:48,30632,msedge.exe,0.0,75.6,Cloud/Download (AWS),71,compute-1.amazonaws.com
+2026-04-04 12:34:48,13912,filecoauth.exe,0.0,36.2,Light Web Browsing,0,
+2026-04-04 12:34:48,13128,msedgewebview2.exe,0.0,9.1,Web Browsing (Low traffic),85,
+2026-04-04 12:34:50,13128,msedgewebview2.exe,458.1,54.9,Light Web Browsing,0,
+2026-04-04 12:34:50,13912,filecoauth.exe,0.0,36.2,Light Web Browsing,0,
+2026-04-04 12:34:50,30632,msedge.exe,0.0,29.3,Cloud/Download (AWS),89,compute-1.amazonaws.com
+2026-04-04 12:34:52,13128,msedgewebview2.exe,302.2,80.5,Light Web Browsing,0,
+2026-04-04 12:34:52,13912,filecoauth.exe,0.0,36.3,Light Web Browsing,0,
+2026-04-04 12:34:54,13128,msedgewebview2.exe,0.0,80.5,Light Web Browsing,0,
+2026-04-04 12:34:54,13912,filecoauth.exe,0.0,75.8,Light Web Browsing,0,
+2026-04-04 12:34:54,30632,msedge.exe,0.0,1.0,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:34:57,13128,msedgewebview2.exe,0.0,80.5,Light Web Browsing,0,
+2026-04-04 12:34:57,13912,filecoauth.exe,0.0,75.8,Light Web Browsing,0,
+2026-04-04 12:34:57,30632,msedge.exe,0.0,1.0,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:34:59,6672,msmpeng.exe,30438.9,196617.5,Large File Download,0,
+2026-04-04 12:34:59,13128,msedgewebview2.exe,0.0,80.5,Light Web Browsing,0,
+2026-04-04 12:34:59,30632,msedge.exe,0.0,1.0,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:35:01,6672,msmpeng.exe,0.0,118267.4,Large File Download,0,
+2026-04-04 12:35:01,13128,msedgewebview2.exe,0.0,34.7,Light Web Browsing,51,
+2026-04-04 12:35:01,30632,msedge.exe,0.0,1.0,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:35:03,6672,msmpeng.exe,0.0,98556.2,Large File Download,0,
+2026-04-04 12:35:03,30632,msedge.exe,5.4,1.5,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:35:05,6672,msmpeng.exe,0.0,73917.1,Large File Download,0,
+2026-04-04 12:35:05,30632,msedge.exe,848.7,85.4,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:35:07,6672,msmpeng.exe,0.0,59133.7,Large File Download,0,
+2026-04-04 12:35:07,30632,msedge.exe,0.0,93.4,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:35:09,6672,msmpeng.exe,0.0,3192.3,Video Streaming (Bursty),0,
+2026-04-04 12:35:09,30632,msedge.exe,0.0,93.4,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:35:11,30632,msedge.exe,0.0,93.4,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:35:13,30632,msedge.exe,0.0,93.4,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:35:15,30632,msedge.exe,0.0,92.9,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:35:21,11240,backgroundtaskhost.exe,4539.3,3072.4,Active Web / Media,0,
+2026-04-04 12:35:21,13128,msedgewebview2.exe,101.2,10.1,Web Browsing (Low traffic),0,
+2026-04-04 12:35:23,11240,backgroundtaskhost.exe,0.0,1882.9,Active Web / Media,0,
+2026-04-04 12:35:23,13128,msedgewebview2.exe,44.5,37.9,Light Web Browsing,0,
+2026-04-04 12:35:25,11240,backgroundtaskhost.exe,0.0,1569.1,Video Streaming (Bursty),0,
+2026-04-04 12:35:25,6672,msmpeng.exe,2634.4,263.4,Active Web / Media,0,
+2026-04-04 12:35:25,13128,msedgewebview2.exe,0.0,54.1,Light Web Browsing,0,
+2026-04-04 12:35:27,11240,backgroundtaskhost.exe,0.0,1176.8,Video Streaming (Bursty),0,
+2026-04-04 12:35:27,6672,msmpeng.exe,0.0,263.4,Active Web / Media,0,
+2026-04-04 12:35:27,13128,msedgewebview2.exe,0.0,54.1,Light Web Browsing,0,
+2026-04-04 12:35:29,11240,backgroundtaskhost.exe,0.0,941.5,Video Streaming (Bursty),0,
+2026-04-04 12:35:29,6672,msmpeng.exe,0.0,263.4,Active Web / Media,0,
+2026-04-04 12:35:29,13128,msedgewebview2.exe,0.0,54.1,Light Web Browsing,0,
+2026-04-04 12:35:31,11240,backgroundtaskhost.exe,0.0,473.7,Video Streaming (Bursty),0,
+2026-04-04 12:35:31,6672,msmpeng.exe,0.0,263.4,Active Web / Media,0,
+2026-04-04 12:35:31,13128,msedgewebview2.exe,0.0,54.1,Light Web Browsing,0,
+2026-04-04 12:35:33,6672,msmpeng.exe,0.0,263.4,Active Web / Media,0,
+2026-04-04 12:35:33,13128,msedgewebview2.exe,1.8,20.8,Light Web Browsing,0,
+2026-04-04 12:35:33,30632,msedge.exe,3.6,1.1,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:35:35,30632,msedge.exe,0.0,98.7,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:35:35,13128,msedgewebview2.exe,0.0,26.3,Light Web Browsing,0,
+2026-04-04 12:35:37,30632,msedge.exe,0.0,98.7,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:35:37,13128,msedgewebview2.exe,0.0,26.3,Light Web Browsing,0,
+2026-04-04 12:35:39,30632,msedge.exe,0.0,98.7,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:35:39,13128,msedgewebview2.exe,0.0,26.3,Light Web Browsing,40,
+2026-04-04 12:35:41,30632,msedge.exe,0.0,98.7,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:35:41,13128,msedgewebview2.exe,0.0,26.3,Light Web Browsing,38,
+2026-04-04 12:35:43,30632,msedge.exe,0.0,98.7,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:35:43,13128,msedgewebview2.exe,0.0,26.3,Light Web Browsing,35,
+2026-04-04 12:35:53,13128,msedgewebview2.exe,0.0,20.1,Light Web Browsing,0,
+2026-04-04 12:35:55,13128,msedgewebview2.exe,0.0,20.1,Light Web Browsing,0,
+2026-04-04 12:35:57,13128,msedgewebview2.exe,0.0,20.1,Light Web Browsing,0,
+2026-04-04 12:35:59,13128,msedgewebview2.exe,0.0,20.1,Light Web Browsing,0,
+2026-04-04 12:36:01,22900,code.exe,33863.3,6064.4,Large File Download,0,
+2026-04-04 12:36:01,13128,msedgewebview2.exe,0.0,20.1,Light Web Browsing,0,
+2026-04-04 12:36:03,27620,msedgewebview2.exe,243.3,121.6,Light Web Browsing,0,
+2026-04-04 12:36:05,27620,msedgewebview2.exe,129.1,143.3,Light Web Browsing,0,
+2026-04-04 12:36:07,27620,msedgewebview2.exe,16.8,105.7,Light Web Browsing,0,
+2026-04-04 12:36:09,27620,msedgewebview2.exe,0.0,128.6,Light Web Browsing,0,
+2026-04-04 12:36:11,27620,msedgewebview2.exe,40.3,137.8,Light Web Browsing,0,
+2026-04-04 12:36:13,27620,msedgewebview2.exe,0.0,115.9,Light Web Browsing,0,
+2026-04-04 12:36:15,27620,msedgewebview2.exe,0.0,95.8,Light Web Browsing,0,
+2026-04-04 12:36:17,27620,msedgewebview2.exe,0.0,78.5,Light Web Browsing,0,
+2026-04-04 12:36:19,27620,msedgewebview2.exe,0.0,37.3,Light Web Browsing,0,
+2026-04-04 12:36:21,27620,msedgewebview2.exe,0.0,6.5,Web Browsing (Low traffic),95,
+2026-04-04 12:36:33,27620,msedgewebview2.exe,268.4,41.4,Light Web Browsing,0,
+2026-04-04 12:36:35,27620,msedgewebview2.exe,0.0,41.4,Light Web Browsing,0,
+2026-04-04 12:36:37,27620,msedgewebview2.exe,0.0,41.4,Light Web Browsing,0,
+2026-04-04 12:36:39,27620,msedgewebview2.exe,0.0,41.4,Light Web Browsing,0,
+2026-04-04 12:36:41,27620,msedgewebview2.exe,0.0,41.4,Light Web Browsing,0,
+2026-04-04 12:36:41,30632,msedge.exe,0.0,1.4,Dev/Download (GitHub),0,lb-140-82-112-26-iad.github.com
+2026-04-04 12:36:41,14980,nvidia overlay.exe,0.0,1.2,Web Browsing (Low traffic),0,
+2026-04-04 12:36:43,36296,code.exe,31.6,4.1,Web Browsing (Low traffic),0,
+2026-04-04 12:36:43,30632,msedge.exe,0.0,1.1,Dev/Download (GitHub),0,lb-140-82-112-26-iad.github.com
+2026-04-04 12:38:52,38336,code.exe,51297.4,25648.7,Large File Download,0,
+2026-04-04 12:38:52,6900,code.exe,529.8,264.9,Active Web / Media,0,
+2026-04-04 12:38:54,38336,code.exe,2336.9,19880.2,Large File Download,0,
+2026-04-04 12:38:54,6900,code.exe,12.5,230.8,Active Web / Media,0,
+2026-04-04 12:38:54,30632,msedge.exe,5.4,1.3,Web Browsing (Low traffic),0,
+2026-04-04 12:38:56,38336,code.exe,1011.9,13623.6,Large File Download,0,
+2026-04-04 12:38:56,6900,code.exe,59.5,163.8,Light Web Browsing,0,
+2026-04-04 12:38:58,38336,code.exe,780.5,10377.2,Large File Download,0,
+2026-04-04 12:38:58,6900,code.exe,0.0,122.8,Light Web Browsing,0,
+2026-04-04 12:39:00,38336,code.exe,285.4,8401.1,Large File Download,0,
+2026-04-04 12:39:00,6900,code.exe,72.2,105.5,Light Web Browsing,0,
+2026-04-04 12:39:02,38336,code.exe,430.5,3509.4,Download / Rich Streaming,0,
+2026-04-04 12:39:02,30632,msedge.exe,0.0,99.0,Light Web Browsing,0,
+2026-04-04 12:39:02,6900,code.exe,0.0,52.5,Light Web Browsing,0,
+2026-04-04 12:39:04,38336,code.exe,359.6,772.8,Active Web / Media,0,
+2026-04-04 12:39:04,30632,msedge.exe,0.0,98.5,Light Web Browsing,0,
+2026-04-04 12:39:04,6900,code.exe,0.0,13.2,Web Browsing (Low traffic),0,
+2026-04-04 12:39:06,38336,code.exe,427.8,643.6,Active Web / Media,0,
+2026-04-04 12:39:06,30632,msedge.exe,0.0,98.5,Light Web Browsing,0,
+2026-04-04 12:39:06,6900,code.exe,4.2,7.6,Web Browsing (Low traffic),0,
+2026-04-04 12:39:08,38336,code.exe,354.1,601.1,Active Web / Media,0,
+2026-04-04 12:39:08,30632,msedge.exe,0.0,98.5,Light Web Browsing,0,
+2026-04-04 12:39:08,6900,code.exe,0.0,7.6,Web Browsing (Low traffic),0,
+2026-04-04 12:39:10,38336,code.exe,354.1,586.9,Active Web / Media,95,
+2026-04-04 12:39:10,30632,msedge.exe,0.0,98.5,Light Web Browsing,0,
+2026-04-04 12:39:12,38336,code.exe,566.3,455.5,Active Web / Media,96,
+2026-04-04 12:39:12,30632,msedge.exe,0.0,67.0,Light Web Browsing,0,
+2026-04-04 12:39:12,6900,code.exe,0.0,8.4,Web Browsing (Low traffic),0,
+2026-04-04 12:39:14,38336,code.exe,354.2,454.9,Active Web / Media,96,
+2026-04-04 12:39:14,30632,msedge.exe,0.0,67.0,Light Web Browsing,0,
+2026-04-04 12:39:14,6900,code.exe,0.0,8.4,Web Browsing (Low traffic),0,
+2026-04-04 12:39:16,38336,code.exe,354.2,447.2,Active Web / Media,96,
+2026-04-04 12:39:16,30632,msedge.exe,0.0,67.9,Light Web Browsing,0,
+2026-04-04 12:39:16,6900,code.exe,0.0,8.0,Web Browsing (Low traffic),0,
+2026-04-04 12:39:18,38336,code.exe,497.3,447.2,Active Web / Media,96,
+2026-04-04 12:39:18,30632,msedge.exe,0.0,67.9,Light Web Browsing,0,
+2026-04-04 12:39:18,6900,code.exe,0.0,8.0,Web Browsing (Low traffic),0,
+2026-04-04 12:39:20,38336,code.exe,497.3,447.2,Active Web / Media,96,
+2026-04-04 12:39:20,30632,msedge.exe,0.0,67.9,Light Web Browsing,30,
+2026-04-04 12:39:20,6900,code.exe,0.0,8.0,Web Browsing (Low traffic),0,
+2026-04-04 12:39:22,38336,code.exe,497.3,454.5,Active Web / Media,96,
+2026-04-04 12:39:24,38336,code.exe,927.4,490.5,Active Web / Media,95,
+2026-04-04 12:39:24,30632,msedge.exe,7.8,2.0,Web Browsing (Low traffic),0,
+2026-04-04 12:39:26,38336,code.exe,284.7,476.2,Active Web / Media,95,
+2026-04-04 12:39:26,30632,msedge.exe,0.0,1.0,Web Browsing (Low traffic),0,
+2026-04-04 12:39:28,38336,code.exe,284.7,462.0,Active Web / Media,96,
+2026-04-04 12:39:28,30632,msedge.exe,0.0,1.0,Web Browsing (Low traffic),0,
+2026-04-04 12:39:30,38336,code.exe,562.0,475.5,Active Web / Media,96,
+2026-04-04 12:39:30,30632,msedge.exe,2.7,1.3,Web Browsing (Low traffic),0,
+2026-04-04 12:39:32,38336,code.exe,372.6,471.7,Active Web / Media,96,
+2026-04-04 12:39:32,30632,msedge.exe,0.0,1.3,Web Browsing (Low traffic),0,
+2026-04-04 12:39:34,38336,code.exe,558.9,436.8,Active Web / Media,96,
+2026-04-04 12:39:34,30632,msedge.exe,0.0,72.1,Light Web Browsing,0,
+2026-04-04 12:39:36,38336,code.exe,372.5,454.7,Active Web / Media,96,
+2026-04-04 12:39:36,30632,msedge.exe,170.3,89.4,Light Web Browsing,0,
+2026-04-04 12:39:38,38336,code.exe,372.5,472.6,Active Web / Media,96,
+2026-04-04 12:39:38,30632,msedge.exe,221.9,121.8,Light Web Browsing,0,
+2026-04-04 12:39:40,38336,code.exe,403.8,469.1,Active Web / Media,96,
+2026-04-04 12:39:40,30632,msedge.exe,40.6,125.8,Light Web Browsing,0,
+2026-04-04 12:39:42,38336,code.exe,403.8,475.3,Active Web / Media,96,
+2026-04-04 12:39:42,30632,msedge.exe,80.4,246.1,Active Web / Media,0,
+2026-04-04 12:39:42,6900,code.exe,42.1,4.2,Web Browsing (Low traffic),0,
+2026-04-04 12:39:44,38336,code.exe,415.7,465.3,Active Web / Media,96,
+2026-04-04 12:39:44,30632,msedge.exe,0.0,174.2,Light Web Browsing,0,
+2026-04-04 12:39:44,6900,code.exe,0.0,4.9,Web Browsing (Low traffic),0,
+2026-04-04 12:39:46,38336,code.exe,415.7,474.0,Active Web / Media,96,
+2026-04-04 12:39:46,30632,msedge.exe,0.0,156.9,Light Web Browsing,0,
+2026-04-04 12:39:46,6900,code.exe,0.0,4.9,Web Browsing (Low traffic),0,
+2026-04-04 12:39:48,38336,code.exe,415.7,482.6,Active Web / Media,95,
+2026-04-04 12:39:48,30632,msedge.exe,0.0,124.6,Light Web Browsing,0,
+2026-04-04 12:39:48,6900,code.exe,0.0,4.9,Web Browsing (Low traffic),0,
+2026-04-04 12:39:50,38336,code.exe,415.7,484.8,Active Web / Media,95,
+2026-04-04 12:39:50,30632,msedge.exe,0.0,120.3,Light Web Browsing,0,
+2026-04-04 12:39:50,6900,code.exe,0.0,4.9,Dev/Download (GitHub),0,lb-140-82-112-22-iad.github.com
+2026-04-04 12:39:52,38336,code.exe,717.0,501.9,Active Web / Media,95,
+2026-04-04 12:39:52,30632,msedge.exe,0.0,8.0,Web Browsing (Low traffic),93,
+2026-04-04 12:39:52,6900,code.exe,0.0,4.9,Dev/Download (GitHub),0,lb-140-82-112-22-iad.github.com
+2026-04-04 12:39:54,38336,code.exe,575.7,506.4,Active Web / Media,95,
+2026-04-04 12:39:56,38336,code.exe,393.6,505.7,Active Web / Media,95,
+2026-04-04 12:39:58,38336,code.exe,535.2,515.2,Active Web / Media,95,
+2026-04-04 12:40:00,38336,code.exe,1249.8,709.5,Active Web / Media,94,
+2026-04-04 12:40:00,30632,msedge.exe,78.6,15.5,Web Browsing (Low traffic),0,
+2026-04-04 12:40:21,38336,code.exe,15543.3,7771.6,Large File Download,0,
+2026-04-04 12:40:21,6900,code.exe,47.6,23.8,Light Web Browsing,0,
+2026-04-04 12:40:23,38336,code.exe,1.5,4349.1,Active Web / Media,0,
+2026-04-04 12:40:23,6900,code.exe,72.3,30.0,Light Web Browsing,0,
+2026-04-04 12:40:25,38336,code.exe,426.2,2994.0,Download / Rich Streaming,0,
+2026-04-04 12:40:25,6900,code.exe,0.0,20.0,Web Browsing (Low traffic),0,
+2026-04-04 12:40:27,38336,code.exe,1841.9,2528.9,Download / Rich Streaming,0,
+2026-04-04 12:40:27,6900,code.exe,0.0,15.0,Web Browsing (Low traffic),0,
+2026-04-04 12:40:27,30632,msedge.exe,0.0,1.7,Web Browsing (Low traffic),0,
+2026-04-04 12:40:29,38336,code.exe,354.2,2108.2,Download / Rich Streaming,0,
+2026-04-04 12:40:29,6900,code.exe,48.4,16.8,Web Browsing (Low traffic),0,
+2026-04-04 12:40:29,14980,nvidia overlay.exe,0.0,7.9,Web Browsing (Low traffic),0,
+2026-04-04 12:40:29,30632,msedge.exe,0.0,1.4,Web Browsing (Low traffic),0,
+2026-04-04 12:40:31,38336,code.exe,366.4,640.3,Active Web / Media,0,
+2026-04-04 12:40:31,6900,code.exe,0.0,12.1,Web Browsing (Low traffic),0,
+2026-04-04 12:40:31,14980,nvidia overlay.exe,0.0,7.9,Web Browsing (Low traffic),0,
+2026-04-04 12:40:31,30632,msedge.exe,0.0,1.4,Web Browsing (Low traffic),0,
+2026-04-04 12:40:33,38336,code.exe,366.3,542.5,Active Web / Media,0,
+2026-04-04 12:40:33,30632,msedge.exe,270.2,28.4,Light Web Browsing,0,
+2026-04-04 12:40:33,14980,nvidia overlay.exe,0.0,7.9,Web Browsing (Low traffic),0,
+2026-04-04 12:40:33,6900,code.exe,0.0,4.8,Web Browsing (Low traffic),0,
+2026-04-04 12:40:35,38336,code.exe,366.3,573.3,Active Web / Media,0,
+2026-04-04 12:40:35,30632,msedge.exe,0.0,27.8,Light Web Browsing,0,
+2026-04-04 12:40:35,14980,nvidia overlay.exe,0.0,7.9,Web Browsing (Low traffic),0,
+2026-04-04 12:40:35,6900,code.exe,0.0,4.8,Web Browsing (Low traffic),0,
+2026-04-04 12:40:37,38336,code.exe,366.4,434.2,Active Web / Media,0,
+2026-04-04 12:40:37,30632,msedge.exe,0.0,27.0,Light Web Browsing,0,
+2026-04-04 12:40:37,14980,nvidia overlay.exe,0.0,9.5,Web Browsing (Low traffic),0,
+2026-04-04 12:40:37,6900,code.exe,0.0,4.8,Web Browsing (Low traffic),0,
+2026-04-04 12:40:39,38336,code.exe,366.4,436.7,Active Web / Media,85,
+2026-04-04 12:40:39,30632,msedge.exe,0.0,27.0,Light Web Browsing,0,
+2026-04-04 12:40:39,14980,nvidia overlay.exe,0.0,1.6,Web Browsing (Low traffic),0,
+2026-04-04 12:40:41,38336,code.exe,1486.8,549.0,Active Web / Media,82,
+2026-04-04 12:40:41,30632,msedge.exe,5.4,27.6,Light Web Browsing,0,
+2026-04-04 12:40:41,14980,nvidia overlay.exe,0.0,1.7,Web Browsing (Low traffic),0,
+2026-04-04 12:40:43,38336,code.exe,354.4,546.6,Active Web / Media,82,
+2026-04-04 12:40:43,30632,msedge.exe,0.0,57.4,Light Web Browsing,0,
+2026-04-04 12:40:43,6900,code.exe,7.2,4.9,Web Browsing (Low traffic),0,
+2026-04-04 12:40:43,14980,nvidia overlay.exe,0.0,1.7,Web Browsing (Low traffic),0,
+2026-04-04 12:40:45,38336,code.exe,366.5,546.7,Active Web / Media,82,
+2026-04-04 12:40:45,30632,msedge.exe,0.0,57.4,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:40:45,6900,code.exe,0.0,4.9,Web Browsing (Low traffic),0,
+2026-04-04 12:40:45,14980,nvidia overlay.exe,0.0,1.7,Web Browsing (Low traffic),0,
+2026-04-04 12:40:47,38336,code.exe,366.7,546.7,Active Web / Media,82,
+2026-04-04 12:40:47,30632,msedge.exe,0.9,58.4,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:40:47,6900,code.exe,0.0,4.9,Web Browsing (Low traffic),0,
+2026-04-04 12:40:49,38336,code.exe,500.3,545.8,Active Web / Media,82,
+2026-04-04 12:40:49,30632,msedge.exe,7.4,59.2,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:40:49,6900,code.exe,0.0,4.9,Web Browsing (Low traffic),0,
+2026-04-04 12:40:51,38336,code.exe,497.5,544.3,Active Web / Media,82,
+2026-04-04 12:40:51,30632,msedge.exe,985.1,157.7,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:40:51,6900,code.exe,0.0,4.9,Web Browsing (Low traffic),0,
+2026-04-04 12:40:53,38336,code.exe,497.2,431.1,Active Web / Media,86,
+2026-04-04 12:40:53,30632,msedge.exe,2.6,100.6,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:40:55,38336,code.exe,284.7,422.7,Active Web / Media,86,
+2026-04-04 12:40:55,30632,msedge.exe,0.0,101.2,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:40:57,38336,code.exe,284.7,406.0,Active Web / Media,86,
+2026-04-04 12:40:57,30632,msedge.exe,0.0,100.3,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:40:59,38336,code.exe,375.8,399.4,Active Web / Media,87,
+2026-04-04 12:40:59,30632,msedge.exe,0.0,99.5,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:41:01,38336,code.exe,187.8,403.0,Active Web / Media,87,
+2026-04-04 12:41:03,38336,code.exe,363.5,405.8,Active Web / Media,86,
+2026-04-04 12:41:03,30632,msedge.exe,813.8,82.1,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:41:05,38336,code.exe,372.7,415.4,Active Web / Media,86,
+2026-04-04 12:41:05,30632,msedge.exe,105.7,112.2,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:41:07,38336,code.exe,186.3,433.3,Active Web / Media,86,
+2026-04-04 12:41:07,30632,msedge.exe,107.5,133.8,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:41:09,38336,code.exe,404.2,485.8,Active Web / Media,84,
+2026-04-04 12:41:09,30632,msedge.exe,226.0,201.7,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:41:11,38336,code.exe,545.7,506.3,Active Web / Media,83,
+2026-04-04 12:41:11,30632,msedge.exe,103.3,223.6,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:41:13,38336,code.exe,404.2,513.5,Active Web / Media,83,
+2026-04-04 12:41:13,30632,msedge.exe,918.6,355.3,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:41:15,38336,code.exe,404.2,521.0,Active Web / Media,83,
+2026-04-04 12:41:15,30632,msedge.exe,108.4,337.2,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:41:17,38336,code.exe,404.2,527.3,Active Web / Media,82,
+2026-04-04 12:41:17,30632,msedge.exe,98.6,336.6,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:41:19,38336,code.exe,547.2,489.9,Active Web / Media,84,
+2026-04-04 12:41:19,30632,msedge.exe,115.3,302.8,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:41:21,38336,code.exe,688.8,504.0,Active Web / Media,83,
+2026-04-04 12:41:21,30632,msedge.exe,1072.0,385.9,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:41:23,30632,msedge.exe,0.0,264.8,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:41:25,30632,msedge.exe,0.0,171.0,Cloud/Download (AWS),41,compute-1.amazonaws.com
+2026-04-04 12:41:27,30632,msedge.exe,380.9,216.8,Cloud/Download (AWS),17,compute-1.amazonaws.com
+2026-04-04 12:41:29,30632,msedge.exe,1873.9,383.1,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:41:29,6900,code.exe,47.6,4.8,Web Browsing (Low traffic),0,
+2026-04-04 12:41:31,30632,msedge.exe,132.5,280.2,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:41:31,6900,code.exe,0.0,4.8,Web Browsing (Low traffic),0,
+2026-04-04 12:41:33,30632,msedge.exe,7.2,270.8,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:41:33,6900,code.exe,48.4,9.6,Web Browsing (Low traffic),0,
+2026-04-04 12:41:35,30632,msedge.exe,3.6,271.7,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:41:35,6900,code.exe,0.0,9.6,Web Browsing (Low traffic),0,
+2026-04-04 12:41:37,30632,msedge.exe,3.6,204.8,Cloud/Download (AWS),31,compute-1.amazonaws.com
+2026-04-04 12:41:37,6900,code.exe,0.0,9.6,Web Browsing (Low traffic),0,
+2026-04-04 12:41:39,30632,msedge.exe,7.2,18.4,Cloud/Download (AWS),94,compute-1.amazonaws.com
+2026-04-04 12:41:39,6900,code.exe,0.0,9.6,Web Browsing (Low traffic),0,
+2026-04-04 12:41:41,30632,msedge.exe,3.6,17.7,Cloud/Download (AWS),94,compute-1.amazonaws.com
+2026-04-04 12:41:41,6900,code.exe,0.0,16.3,Web Browsing (Low traffic),0,
+2026-04-04 12:41:43,30632,msedge.exe,6.3,31.8,Cloud/Download (AWS),89,compute-1.amazonaws.com
+2026-04-04 12:41:43,6900,code.exe,48.4,21.2,Light Web Browsing,0,
+2026-04-04 12:41:45,30632,msedge.exe,12.8,32.2,Cloud/Download (AWS),89,compute-1.amazonaws.com
+2026-04-04 12:41:45,6900,code.exe,0.0,16.3,Web Browsing (Low traffic),0,
+2026-04-04 12:41:47,30632,msedge.exe,3.6,32.2,Cloud/Download (AWS),89,compute-1.amazonaws.com
+2026-04-04 12:41:47,6900,code.exe,0.0,16.3,Web Browsing (Low traffic),0,
+2026-04-04 12:41:49,30632,msedge.exe,84.0,110.5,Cloud/Download (AWS),62,compute-1.amazonaws.com
+2026-04-04 12:41:49,6900,code.exe,39.4,20.3,Light Web Browsing,0,
+2026-04-04 12:41:51,30632,msedge.exe,3.6,110.3,Cloud/Download (AWS),59,compute-1.amazonaws.com
+2026-04-04 12:41:51,6900,code.exe,0.0,9.7,Web Browsing (Low traffic),34,
+2026-04-04 12:41:53,30632,msedge.exe,367.1,150.4,Cloud/Download (AWS),39,compute-1.amazonaws.com
+2026-04-04 12:41:53,6900,code.exe,0.0,4.8,Web Browsing (Low traffic),68,
+2026-04-04 12:41:55,30632,msedge.exe,716.4,230.0,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:41:55,6900,code.exe,0.0,9.6,Web Browsing (Low traffic),26,
+2026-04-04 12:41:57,30632,msedge.exe,986.3,327.7,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:41:57,6900,code.exe,0.0,9.6,Web Browsing (Low traffic),24,
+2026-04-04 12:41:59,30632,msedge.exe,0.0,248.5,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:41:59,6900,code.exe,0.0,5.7,Web Browsing (Low traffic),57,
+2026-04-04 12:42:01,30632,msedge.exe,0.0,247.6,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:42:01,6900,code.exe,0.0,4.8,Web Browsing (Low traffic),57,
+2026-04-04 12:42:03,30632,msedge.exe,0.0,216.5,Cloud/Download (AWS),11,compute-1.amazonaws.com
+2026-04-04 12:42:03,6900,code.exe,0.0,4.8,Web Browsing (Low traffic),57,
+2026-04-04 12:42:05,30632,msedge.exe,0.0,170.3,Cloud/Download (AWS),35,compute-1.amazonaws.com
+2026-04-04 12:42:07,30632,msedge.exe,0.0,98.6,Cloud/Download (AWS),63,compute-1.amazonaws.com
+2026-04-04 12:43:07,6900,code.exe,7.2,3.6,Web Browsing (Low traffic),0,
+2026-04-04 12:43:09,6900,code.exe,65.1,18.1,Web Browsing (Low traffic),0,
+2026-04-04 12:43:12,6900,code.exe,0.0,13.2,Web Browsing (Low traffic),0,
+2026-04-04 12:43:14,6900,code.exe,0.0,9.9,Web Browsing (Low traffic),0,
+2026-04-04 12:43:16,30632,msedge.exe,0.0,98.8,Light Web Browsing,0,
+2026-04-04 12:43:16,6900,code.exe,0.0,7.9,Web Browsing (Low traffic),0,
+2026-04-04 12:43:18,30632,msedge.exe,0.0,98.8,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:43:18,6900,code.exe,0.0,7.2,Web Browsing (Low traffic),0,
+2026-04-04 12:43:20,30632,msedge.exe,0.9,98.9,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:43:22,30632,msedge.exe,385.7,137.3,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:43:24,30632,msedge.exe,2714.8,588.0,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:43:24,6900,code.exe,41.2,4.1,Web Browsing (Low traffic),0,
+2026-04-04 12:43:26,30632,msedge.exe,1415.4,771.9,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:43:26,6900,code.exe,0.0,4.8,Web Browsing (Low traffic),0,
+2026-04-04 12:43:28,30632,msedge.exe,551.4,913.6,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:43:28,6900,code.exe,0.0,4.8,Web Browsing (Low traffic),0,
+2026-04-04 12:43:30,30632,msedge.exe,803.2,993.9,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:43:30,6900,code.exe,0.0,4.8,Web Browsing (Low traffic),0,
+2026-04-04 12:43:32,30632,msedge.exe,163.5,1038.3,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:43:32,6900,code.exe,47.6,9.6,Web Browsing (Low traffic),0,
+2026-04-04 12:43:34,30632,msedge.exe,1692.0,1028.7,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:43:34,6900,code.exe,41.2,13.7,Web Browsing (Low traffic),0,
+2026-04-04 12:43:36,30632,msedge.exe,298.0,758.7,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 12:43:36,6900,code.exe,0.0,9.6,Web Browsing (Low traffic),0,
+2026-04-04 12:43:38,30632,msedge.exe,230.0,578.3,Cloud/Download (AWS),8,compute.amazonaws.com
+2026-04-04 12:43:38,6900,code.exe,0.0,9.6,Web Browsing (Low traffic),0,
+2026-04-04 12:43:40,30632,msedge.exe,64.5,522.9,Cloud/Download (AWS),21,compute.amazonaws.com
+2026-04-04 12:43:40,6900,code.exe,0.0,9.6,Web Browsing (Low traffic),0,
+2026-04-04 12:43:42,30632,msedge.exe,2009.9,838.3,Cloud/Download (AWS),0,compute.amazonaws.com
+2026-04-04 12:43:42,6900,code.exe,0.0,15.1,Web Browsing (Low traffic),0,
+2026-04-04 12:43:44,30632,msedge.exe,4150.6,1287.0,Cloud/Download (AWS),0,compute.amazonaws.com
+2026-04-04 12:43:44,6900,code.exe,7.2,21.0,Light Web Browsing,0,
+2026-04-04 12:43:46,30632,msedge.exe,2105.8,1577.2,Cloud/Download (AWS),0,compute.amazonaws.com
+2026-04-04 12:43:46,6900,code.exe,133.1,33.6,Light Web Browsing,0,
+2026-04-04 12:43:48,30632,msedge.exe,1571.1,1827.6,Cloud/Download (AWS),0,compute.amazonaws.com
+2026-04-04 12:43:48,6900,code.exe,0.0,35.7,Light Web Browsing,0,
+2026-04-04 12:43:50,30632,msedge.exe,1505.6,2049.1,Cloud/Download (AWS),0,compute.amazonaws.com
+2026-04-04 12:43:50,6900,code.exe,7.2,40.4,Light Web Browsing,0,
+2026-04-04 12:43:52,30632,msedge.exe,4872.6,2377.5,Cloud/Download (AWS),0,compute.amazonaws.com
+2026-04-04 12:43:52,6900,code.exe,0.0,30.2,Light Web Browsing,0,
+2026-04-04 12:43:54,30632,msedge.exe,1477.5,2227.7,Cloud/Download (AWS),0,compute.amazonaws.com
+2026-04-04 12:43:54,6900,code.exe,41.2,25.0,Light Web Browsing,0,
+2026-04-04 12:43:56,30632,msedge.exe,807.9,1808.4,Cloud/Download (AWS),0,compute.amazonaws.com
+2026-04-04 12:43:56,6900,code.exe,0.0,29.1,Light Web Browsing,0,
+2026-04-04 12:43:58,30632,msedge.exe,0.0,1596.9,Cloud/Download (AWS),0,compute.amazonaws.com
+2026-04-04 12:43:58,6900,code.exe,0.0,23.3,Light Web Browsing,0,
+2026-04-04 12:44:00,30632,msedge.exe,97.9,1298.8,Cloud/Download (AWS),16,compute.amazonaws.com
+2026-04-04 12:44:00,6900,code.exe,0.0,19.3,Web Browsing (Low traffic),20,
+2026-04-04 12:44:02,30632,msedge.exe,53.8,685.5,Cloud/Download (AWS),59,compute.amazonaws.com
+2026-04-04 12:44:02,6900,code.exe,0.0,18.5,Web Browsing (Low traffic),23,
+2026-04-04 12:44:04,30632,msedge.exe,53.8,401.2,Cloud/Download (AWS),75,compute.amazonaws.com
+2026-04-04 12:44:04,6900,code.exe,0.0,14.4,Web Browsing (Low traffic),42,
+2026-04-04 12:44:06,30632,msedge.exe,1456.4,464.4,Cloud/Download (AWS),71,compute.amazonaws.com
+2026-04-04 12:44:06,6900,code.exe,0.0,9.7,Web Browsing (Low traffic),60,
+2026-04-04 12:44:08,30632,msedge.exe,75.3,371.4,Cloud/Download (AWS),77,compute.amazonaws.com
+2026-04-04 12:44:08,6900,code.exe,40.4,4.0,Web Browsing (Low traffic),82,
+2026-04-04 12:44:10,30632,msedge.exe,87.6,377.4,Cloud/Download (AWS),76,compute.amazonaws.com
+2026-04-04 12:44:10,6900,code.exe,0.0,4.8,Web Browsing (Low traffic),79,
+2026-04-04 12:44:12,30632,msedge.exe,90.9,368.1,Cloud/Download (AWS),77,compute.amazonaws.com
+2026-04-04 12:44:12,6900,code.exe,0.0,4.8,Web Browsing (Low traffic),79,
+2026-04-04 12:46:32,6900,code.exe,41.3,20.7,Light Web Browsing,0,
+2026-04-04 12:46:34,38336,code.exe,143.1,71.5,Light Web Browsing,0,
+2026-04-04 12:46:34,6900,code.exe,65.1,28.4,Light Web Browsing,0,
+2026-04-04 12:46:34,30632,msedge.exe,9.2,5.5,Web Browsing (Low traffic),0,
+2026-04-04 12:46:36,38336,code.exe,461.6,221.9,Active Web / Media,0,
+2026-04-04 12:46:36,30924,excel.exe,889.1,149.5,Light Web Browsing,0,
+2026-04-04 12:46:36,6900,code.exe,39.4,26.7,Light Web Browsing,0,
+2026-04-04 12:46:36,30632,msedge.exe,0.0,3.7,Web Browsing (Low traffic),0,
+2026-04-04 12:46:38,38336,code.exe,1931.7,838.0,Active Web / Media,0,
+2026-04-04 12:46:38,30924,excel.exe,0.0,234.5,Active Web / Media,0,
+2026-04-04 12:46:38,6900,code.exe,0.0,21.1,Light Web Browsing,0,
+2026-04-04 12:46:38,30632,msedge.exe,0.0,2.8,Web Browsing (Low traffic),0,
+2026-04-04 12:46:40,38336,code.exe,414.6,743.8,Active Web / Media,0,
+2026-04-04 12:46:40,6900,code.exe,47.6,21.7,Light Web Browsing,0,
+2026-04-04 12:46:40,30632,msedge.exe,0.0,2.2,Web Browsing (Low traffic),0,
+2026-04-04 12:46:42,38336,code.exe,637.2,765.4,Active Web / Media,0,
+2026-04-04 12:46:42,6900,code.exe,42.1,21.8,Light Web Browsing,0,
+2026-04-04 12:46:42,30632,msedge.exe,0.0,2.1,Web Browsing (Low traffic),0,
+2026-04-04 12:46:44,38336,code.exe,354.1,836.2,Active Web / Media,0,
+2026-04-04 12:46:44,6900,code.exe,0.0,15.2,Web Browsing (Low traffic),0,
+2026-04-04 12:46:46,38336,code.exe,283.1,846.9,Active Web / Media,0,
+2026-04-04 12:46:46,6900,code.exe,0.0,10.6,Web Browsing (Low traffic),0,
+2026-04-04 12:46:48,38336,code.exe,283.1,532.1,Active Web / Media,0,
+2026-04-04 12:46:48,30632,msedge.exe,990.2,99.7,Light Web Browsing,0,
+2026-04-04 12:46:48,6900,code.exe,0.0,9.7,Web Browsing (Low traffic),0,
+2026-04-04 12:46:50,38336,code.exe,353.9,524.9,Active Web / Media,0,
+2026-04-04 12:46:50,30632,msedge.exe,0.0,99.7,Light Web Browsing,0,
+2026-04-04 12:46:50,6900,code.exe,0.0,9.8,Web Browsing (Low traffic),59,
+2026-04-04 12:46:52,38336,code.exe,354.0,439.7,Active Web / Media,37,
+2026-04-04 12:46:52,30632,msedge.exe,1103.5,210.1,Active Web / Media,0,
+2026-04-04 12:46:52,6900,code.exe,0.0,5.6,Web Browsing (Low traffic),75,
+2026-04-04 12:46:54,30632,msedge.exe,670.2,462.0,Video Streaming (Bursty),0,
+2026-04-04 12:46:54,6900,code.exe,0.0,4.8,Web Browsing (Low traffic),79,
+2026-04-04 12:46:56,30632,msedge.exe,1224.0,804.8,Video Streaming (Bursty),0,
+2026-04-04 12:46:56,6900,code.exe,0.0,4.8,Web Browsing (Low traffic),79,
+2026-04-04 12:46:58,30632,msedge.exe,799.9,1113.4,Active Web / Media,0,
+2026-04-04 12:46:58,38336,code.exe,283.1,524.8,Active Web / Media,0,
+2026-04-04 12:46:58,6900,code.exe,0.0,4.8,Web Browsing (Low traffic),79,
+2026-04-04 12:47:00,30632,msedge.exe,3272.3,1440.6,Active Web / Media,0,
+2026-04-04 12:47:00,38336,code.exe,638.8,560.3,Active Web / Media,0,
+2026-04-04 12:47:02,30632,msedge.exe,18261.5,4783.3,Download / Rich Streaming,0,
+2026-04-04 12:47:02,38336,code.exe,1419.2,638.4,Active Web / Media,0,
+2026-04-04 12:47:04,30632,msedge.exe,4368.5,5197.7,Download / Rich Streaming,0,
+2026-04-04 12:47:04,38336,code.exe,709.4,738.2,Active Web / Media,0,
+2026-04-04 12:47:06,30632,msedge.exe,12607.6,6514.2,Video/Download (CDN),0,r.cloudfront.net
+2026-04-04 12:47:06,38336,code.exe,291.8,757.0,Active Web / Media,0,
+2026-04-04 12:47:06,6900,code.exe,48.4,8.9,Web Browsing (Low traffic),0,
+2026-04-04 12:47:08,30632,msedge.exe,1480.9,7759.5,Video/Download (CDN),0,r.cloudfront.net
+2026-04-04 12:47:08,6900,code.exe,0.0,9.6,Web Browsing (Low traffic),0,
+2026-04-04 12:47:10,30632,msedge.exe,5770.2,8536.4,Video/Download (CDN),0,r.cloudfront.net
+2026-04-04 12:47:10,6900,code.exe,0.0,9.6,Web Browsing (Low traffic),0,
+2026-04-04 12:47:12,30632,msedge.exe,1714.6,7874.7,Video/Download (CDN),0,r.cloudfront.net
+2026-04-04 12:47:12,6900,code.exe,0.0,9.6,Web Browsing (Low traffic),0,
+2026-04-04 12:47:14,30632,msedge.exe,225.3,7187.4,Video/Download (CDN),0,r.cloudfront.net
+2026-04-04 12:47:14,6900,code.exe,0.0,9.6,Web Browsing (Low traffic),0,
+2026-04-04 12:47:16,30632,msedge.exe,0.0,5583.0,Video/Download (CDN),0,r.cloudfront.net
+2026-04-04 12:47:18,30632,msedge.exe,0.0,3887.7,Video/Download (CDN),23,r.cloudfront.net
+2026-04-04 12:47:20,30632,msedge.exe,215.4,2744.9,Video/Download (CDN),48,r.cloudfront.net
+2026-04-04 12:47:20,25852,excel.exe,3633.7,1816.8,Active Web / Media,0,
+2026-04-04 12:47:22,25852,excel.exe,0.0,917.5,Video Streaming (Bursty),0,
+2026-04-04 12:47:22,30632,msedge.exe,0.0,105.4,Video/Download (CDN),98,r.cloudfront.net
+2026-04-04 12:47:22,28344,filecoauth.exe,0.0,2.4,Web Browsing (Low traffic),0,
+2026-04-04 12:47:24,25852,excel.exe,1160.0,1039.0,Video Streaming (Bursty),0,
+2026-04-04 12:47:24,30632,msedge.exe,0.0,503.2,Video/Download (CDN),90,r.cloudfront.net
+2026-04-04 12:47:24,28344,filecoauth.exe,0.0,1.4,Web Browsing (Low traffic),0,
+2026-04-04 12:47:26,25852,excel.exe,0.0,799.8,Video Streaming (Bursty),0,
+2026-04-04 12:47:26,30632,msedge.exe,1119.4,615.2,Cloud/Download (AWS),88,compute.amazonaws.com
+2026-04-04 12:47:28,30632,msedge.exe,987.1,713.9,Cloud/Download (AWS),86,compute.amazonaws.com
+2026-04-04 12:47:28,25852,excel.exe,4.2,711.4,Video Streaming (Bursty),0,
+2026-04-04 12:47:30,25852,excel.exe,7683.4,1408.7,Active Web / Media,0,
+2026-04-04 12:47:30,30632,msedge.exe,7.4,694.8,Cloud/Download (AWS),86,compute.amazonaws.com
+2026-04-04 12:47:32,25852,excel.exe,0.0,1297.8,Active Web / Media,0,
+2026-04-04 12:47:32,30632,msedge.exe,5.4,632.3,Cloud/Download (AWS),87,compute.amazonaws.com
+2026-04-04 12:47:34,25852,excel.exe,707.2,1316.4,Active Web / Media,0,
+2026-04-04 12:47:34,30632,msedge.exe,137.7,226.4,Cloud/Download (AWS),95,compute.amazonaws.com
+2026-04-04 12:47:36,25852,excel.exe,0.0,1190.6,Active Web / Media,0,
+2026-04-04 12:47:36,30632,msedge.exe,7.4,227.0,Cloud/Download (AWS),95,compute.amazonaws.com
+2026-04-04 12:47:38,30632,msedge.exe,200.1,36.4,Cloud/Download (AWS),99,compute.amazonaws.com
+2026-04-04 12:47:40,30632,msedge.exe,11.5,73.5,Dev/Download (GitHub),98,lb-140-82-113-26-iad.github.com
+2026-04-04 12:47:40,6900,code.exe,2.4,7.5,Web Browsing (Low traffic),0,
+2026-04-04 12:47:42,30632,msedge.exe,0.0,72.9,Dev/Download (GitHub),98,lb-140-82-113-26-iad.github.com
+2026-04-04 12:47:42,6900,code.exe,0.0,20.1,Light Web Browsing,0,
+2026-04-04 12:47:44,30632,msedge.exe,0.0,58.6,Dev/Download (GitHub),98,lb-140-82-113-26-iad.github.com
+2026-04-04 12:47:44,6900,code.exe,0.0,20.1,Light Web Browsing,0,
+2026-04-04 12:47:46,30632,msedge.exe,0.0,57.8,Dev/Download (GitHub),98,lb-140-82-113-26-iad.github.com
+2026-04-04 12:47:46,6900,code.exe,0.0,20.1,Light Web Browsing,0,
+2026-04-04 12:47:48,30632,msedge.exe,2.7,38.1,Dev/Download (GitHub),99,lb-140-82-113-26-iad.github.com
+2026-04-04 12:47:48,6900,code.exe,0.0,20.1,Light Web Browsing,0,
+2026-04-04 12:47:50,6900,code.exe,0.0,12.6,Web Browsing (Low traffic),0,
+2026-04-04 12:47:54,6900,code.exe,5782.0,583.0,Video Streaming (Bursty),0,
+2026-04-04 12:47:56,6900,code.exe,97.9,592.8,Video Streaming (Bursty),0,
+2026-04-04 12:47:56,30632,msedge.exe,7.4,1.5,Dev/Download (GitHub),0,lb-140-82-113-26-iad.github.com
+2026-04-04 12:47:58,6900,code.exe,0.0,592.8,Video Streaming (Bursty),0,
+2026-04-04 12:47:58,30632,msedge.exe,0.0,1.5,Dev/Download (GitHub),0,lb-140-82-113-26-iad.github.com
+2026-04-04 12:48:00,6900,code.exe,0.0,592.8,Video Streaming (Bursty),0,
+2026-04-04 12:48:00,30632,msedge.exe,0.0,1.1,Dev/Download (GitHub),0,lb-140-82-113-26-iad.github.com
+2026-04-04 12:48:02,6900,code.exe,0.0,592.8,Video Streaming (Bursty),0,
+2026-04-04 12:48:02,30632,msedge.exe,0.0,1.1,Dev/Download (GitHub),0,lb-140-82-113-26-iad.github.com
+2026-04-04 12:48:05,6900,code.exe,0.0,588.0,Video Streaming (Bursty),0,
+2026-04-04 12:48:23,6900,code.exe,84.7,21.2,Light Web Browsing,0,
+2026-04-04 12:48:25,38336,code.exe,426.2,141.9,Light Web Browsing,0,
+2026-04-04 12:48:25,6900,code.exe,0.0,15.6,Web Browsing (Low traffic),0,
+2026-04-04 12:48:27,38336,code.exe,567.8,260.0,Active Web / Media,0,
+2026-04-04 12:48:27,6900,code.exe,0.0,11.7,Web Browsing (Low traffic),0,
+2026-04-04 12:48:27,30632,msedge.exe,0.0,1.0,Web Browsing (Low traffic),0,
+2026-04-04 12:48:29,38336,code.exe,1346.6,656.5,Active Web / Media,0,
+2026-04-04 12:48:29,6900,code.exe,0.0,9.4,Web Browsing (Low traffic),0,
+2026-04-04 12:48:31,38336,code.exe,290.3,600.8,Active Web / Media,0,
+2026-04-04 12:48:31,30632,msedge.exe,1788.0,234.0,Active Web / Media,0,
+2026-04-04 12:48:31,6900,code.exe,46.6,18.1,Web Browsing (Low traffic),0,
+2026-04-04 12:48:33,38336,code.exe,354.0,678.8,Active Web / Media,0,
+2026-04-04 12:48:33,30632,msedge.exe,6.2,294.5,Active Web / Media,0,
+2026-04-04 12:48:33,6900,code.exe,0.0,10.5,Web Browsing (Low traffic),0,
+2026-04-04 12:48:35,38336,code.exe,354.0,707.1,Active Web / Media,0,
+2026-04-04 12:48:35,30632,msedge.exe,124.2,430.8,Active Web / Media,0,
+2026-04-04 12:48:35,6900,code.exe,0.0,9.6,Web Browsing (Low traffic),0,
+2026-04-04 12:48:38,30632,msedge.exe,9340.2,1838.2,Active Web / Media,0,
+2026-04-04 12:48:38,38336,code.exe,353.9,693.0,Active Web / Media,0,
+2026-04-04 12:48:38,6900,code.exe,0.0,9.6,Web Browsing (Low traffic),0,
+2026-04-04 12:48:40,30632,msedge.exe,6032.5,2920.8,Download / Rich Streaming,0,
+2026-04-04 12:48:40,38336,code.exe,354.1,409.0,Active Web / Media,0,
+2026-04-04 12:48:40,6900,code.exe,0.0,9.6,Web Browsing (Low traffic),0,
+2026-04-04 12:48:42,30632,msedge.exe,334.7,2992.2,Download / Rich Streaming,0,
+2026-04-04 12:48:42,38336,code.exe,354.0,418.5,Active Web / Media,0,
+2026-04-04 12:48:42,6900,code.exe,16.2,12.8,Web Browsing (Low traffic),0,
+2026-04-04 12:48:44,30632,msedge.exe,6411.1,3727.2,Download / Rich Streaming,0,
+2026-04-04 12:48:44,6900,code.exe,7.2,16.8,Web Browsing (Low traffic),0,
+2026-04-04 12:48:46,30632,msedge.exe,3840.0,4542.6,Download / Rich Streaming,0,
+2026-04-04 12:48:46,6900,code.exe,0.0,16.8,Web Browsing (Low traffic),0,
+2026-04-04 12:48:48,30632,msedge.exe,1724.4,3634.9,Download / Rich Streaming,0,
+2026-04-04 12:48:48,38336,code.exe,3126.1,702.8,Active Web / Media,0,
+2026-04-04 12:48:48,6900,code.exe,0.0,17.1,Web Browsing (Low traffic),0,
+2026-04-04 12:48:50,30632,msedge.exe,526.2,2895.5,Download / Rich Streaming,0,
+2026-04-04 12:48:50,38336,code.exe,393.7,742.1,Active Web / Media,0,
+2026-04-04 12:48:50,6900,code.exe,40.4,23.2,Light Web Browsing,0,
+2026-04-04 12:48:52,30632,msedge.exe,55.4,2629.8,Download / Rich Streaming,0,
+2026-04-04 12:48:52,38336,code.exe,646.0,757.0,Active Web / Media,0,
+2026-04-04 12:48:52,6900,code.exe,7.2,13.6,Web Browsing (Low traffic),18,
+2026-04-04 12:48:54,30632,msedge.exe,458.0,2495.3,Download / Rich Streaming,0,
+2026-04-04 12:48:54,38336,code.exe,780.2,827.8,Active Web / Media,0,
+2026-04-04 12:48:54,6900,code.exe,0.0,7.9,Web Browsing (Low traffic),56,
+2026-04-04 12:48:56,30632,msedge.exe,338.8,1391.4,Active Web / Media,51,
+2026-04-04 12:48:56,38336,code.exe,638.5,884.4,Active Web / Media,0,
+2026-04-04 12:48:56,6900,code.exe,0.0,7.2,Web Browsing (Low traffic),58,
+2026-04-04 12:48:58,30632,msedge.exe,2478.1,1286.3,Active Web / Media,53,
+2026-04-04 12:48:58,38336,code.exe,355.4,902.1,Active Web / Media,0,
+2026-04-04 12:48:58,6900,code.exe,42.1,11.0,Web Browsing (Low traffic),27,
+2026-04-04 12:49:00,30632,msedge.exe,213.8,950.5,Active Web / Media,63,
+2026-04-04 12:49:00,38336,code.exe,532.6,749.6,Active Web / Media,0,
+2026-04-04 12:49:00,6900,code.exe,0.0,9.7,Web Browsing (Low traffic),36,
+2026-04-04 12:49:02,30632,msedge.exe,6.9,1175.6,Active Web / Media,51,
+2026-04-04 12:49:02,38336,code.exe,361.2,763.8,Active Web / Media,0,
+2026-04-04 12:49:02,6900,code.exe,7.2,9.7,Web Browsing (Low traffic),33,
+2026-04-04 12:49:04,30632,msedge.exe,248.5,1147.7,Active Web / Media,49,
+2026-04-04 12:49:04,38336,code.exe,637.2,721.3,Active Web / Media,0,
+2026-04-04 12:49:04,6900,code.exe,0.0,9.7,Web Browsing (Low traffic),31,
+2026-04-04 12:49:06,30632,msedge.exe,107.1,1080.6,Active Web / Media,50,
+2026-04-04 12:49:06,38336,code.exe,778.7,721.3,Active Web / Media,15,
+2026-04-04 12:49:06,6900,code.exe,0.0,9.7,Web Browsing (Low traffic),29,
+2026-04-04 12:49:08,30632,msedge.exe,1387.5,705.1,Active Web / Media,66,
+2026-04-04 12:49:08,38336,code.exe,353.9,703.6,Active Web / Media,17,
+2026-04-04 12:49:08,6900,code.exe,41.2,9.6,Web Browsing (Low traffic),27,
+2026-04-04 12:49:10,30632,msedge.exe,2.6,578.0,Active Web / Media,70,
+2026-04-04 12:49:10,6900,code.exe,0.0,9.6,Web Browsing (Low traffic),25,
+2026-04-04 12:49:12,30632,msedge.exe,0.0,337.2,Active Web / Media,83,
+2026-04-04 12:49:12,6900,code.exe,0.0,4.8,Web Browsing (Low traffic),64,
+2026-04-04 12:49:14,30632,msedge.exe,715.1,383.4,Active Web / Media,81,
+2026-04-04 12:49:14,6900,code.exe,0.0,4.8,Web Browsing (Low traffic),64,
+2026-04-04 12:49:16,30632,msedge.exe,159.5,361.5,Video Streaming (Bursty),82,
+2026-04-04 12:49:16,6900,code.exe,0.0,4.8,Web Browsing (Low traffic),64,
+2026-04-04 12:49:18,30632,msedge.exe,131.7,192.4,Video/Download (CDN),90,r.cloudfront.net
+2026-04-04 12:49:20,30632,msedge.exe,1952.6,387.5,Video/Download (CDN),80,r.cloudfront.net
+2026-04-04 12:49:22,30632,msedge.exe,857.6,430.9,Video/Download (CDN),78,r.cloudfront.net
+2026-04-04 12:49:24,30632,msedge.exe,924.5,529.4,Video/Download (CDN),73,r.cloudfront.net
+2026-04-04 12:49:26,30632,msedge.exe,909.1,563.7,Video/Download (CDN),71,r.cloudfront.net
+2026-04-04 12:49:28,30632,msedge.exe,10.9,529.2,Video/Download (CDN),73,r.cloudfront.net
+2026-04-04 12:49:30,30632,msedge.exe,0.0,516.2,Video/Download (CDN),74,r.cloudfront.net
+2026-04-04 12:49:32,30632,msedge.exe,5.1,270.0,Video/Download (CDN),86,r.cloudfront.net
+2026-04-04 12:49:34,30632,msedge.exe,0.0,171.8,Video/Download (CDN),91,r.cloudfront.net
+2026-04-04 12:49:34,6900,code.exe,40.4,4.0,Web Browsing (Low traffic),0,
+2026-04-04 12:49:36,30632,msedge.exe,531.3,119.5,Video/Download (CDN),94,r.cloudfront.net
+2026-04-04 12:49:36,6900,code.exe,7.2,4.8,Web Browsing (Low traffic),0,
+2026-04-04 12:49:38,30632,msedge.exe,0.0,187.6,Video/Download (CDN),90,r.cloudfront.net
+2026-04-04 12:49:38,6900,code.exe,0.0,4.8,Web Browsing (Low traffic),0,
+2026-04-04 12:50:27,14340,mspcmanagercore.exe,1061.1,530.5,Active Web / Media,0,
+2026-04-04 12:50:27,30632,msedge.exe,44.2,22.1,Dev/Download (GitHub),0,lb-140-82-113-26-iad.github.com
+2026-04-04 12:50:29,14340,mspcmanagercore.exe,0.0,265.3,Active Web / Media,0,
+2026-04-04 12:50:29,30632,msedge.exe,140.5,46.2,Dev/Download (GitHub),0,lb-140-82-113-26-iad.github.com
+2026-04-04 12:50:31,14340,mspcmanagercore.exe,0.0,176.8,Light Web Browsing,0,
+2026-04-04 12:50:31,30632,msedge.exe,2.6,31.2,Dev/Download (GitHub),0,lb-140-82-113-26-iad.github.com
+2026-04-04 12:50:33,14340,mspcmanagercore.exe,0.0,132.6,Light Web Browsing,0,
+2026-04-04 12:50:33,30632,msedge.exe,652.8,105.0,Dev/Download (GitHub),0,lb-140-82-113-26-iad.github.com
+2026-04-04 12:50:35,30632,msedge.exe,612.9,751.9,Dev/Download (GitHub),0,lb-140-82-113-26-iad.github.com
+2026-04-04 12:50:37,30632,msedge.exe,1992.1,1001.0,Dev/Download (GitHub),0,lb-140-82-113-26-iad.github.com
+2026-04-04 12:50:39,30632,msedge.exe,1020.8,2111.4,Dev/Download (GitHub),0,lb-140-82-113-26-iad.github.com
+2026-04-04 12:50:41,30632,msedge.exe,308.5,2250.9,Dev/Download (GitHub),0,lb-140-82-113-26-iad.github.com
+2026-04-04 12:50:41,6900,code.exe,176.1,18.2,Web Browsing (Low traffic),0,
+2026-04-04 12:50:41,15444,excel.exe,0.0,3.3,Web Browsing (Low traffic),0,
+2026-04-04 12:50:43,30632,msedge.exe,0.0,2250.9,Dev/Download (GitHub),0,lb-140-82-113-26-iad.github.com
+2026-04-04 12:50:43,15444,excel.exe,395.3,42.8,Light Web Browsing,0,
+2026-04-04 12:50:43,6900,code.exe,39.4,22.1,Light Web Browsing,0,
+2026-04-04 12:50:45,30632,msedge.exe,97.0,1602.0,Dev/Download (GitHub),0,lb-140-82-113-26-iad.github.com
+2026-04-04 12:50:45,6900,code.exe,1.9,22.3,Light Web Browsing,0,
+2026-04-04 12:50:47,30632,msedge.exe,5.1,1487.8,Dev/Download (GitHub),0,lb-140-82-113-26-iad.github.com
+2026-04-04 12:50:47,6900,code.exe,0.0,22.3,Light Web Browsing,0,
+2026-04-04 12:50:49,30632,msedge.exe,6.9,366.3,Dev/Download (GitHub),72,lb-140-82-113-26-iad.github.com
+2026-04-04 12:50:49,6900,code.exe,0.0,25.6,Light Web Browsing,0,
+2026-04-04 12:50:51,30632,msedge.exe,0.0,155.3,Dev/Download (GitHub),88,lb-140-82-113-26-iad.github.com
+2026-04-04 12:50:51,6900,code.exe,0.0,25.6,Light Web Browsing,0,
+2026-04-04 12:50:53,30632,msedge.exe,129.7,137.5,Dev/Download (GitHub),90,lb-140-82-113-26-iad.github.com
+2026-04-04 12:50:53,6900,code.exe,0.0,4.1,Web Browsing (Low traffic),0,
+2026-04-04 12:50:55,14340,mspcmanagercore.exe,1077.5,237.6,Active Web / Media,0,
+2026-04-04 12:50:55,30632,msedge.exe,0.0,114.5,Dev/Download (GitHub),91,lb-140-82-113-26-iad.github.com
+2026-04-04 12:50:55,6900,code.exe,0.0,3.9,Web Browsing (Low traffic),0,
+2026-04-04 12:50:57,14340,mspcmanagercore.exe,0.0,213.9,Active Web / Media,0,
+2026-04-04 12:50:57,30632,msedge.exe,0.0,152.5,Dev/Download (GitHub),88,lb-140-82-113-26-iad.github.com
+2026-04-04 12:50:57,6900,code.exe,0.0,3.9,Web Browsing (Low traffic),0,
+2026-04-04 12:50:59,14340,mspcmanagercore.exe,0.0,107.7,Light Web Browsing,0,
+2026-04-04 12:50:59,30632,msedge.exe,316.6,84.2,Dev/Download (GitHub),93,lb-140-82-113-26-iad.github.com
+2026-04-04 12:51:01,14340,mspcmanagercore.exe,0.0,107.7,Light Web Browsing,0,
+2026-04-04 12:51:01,30632,msedge.exe,2.3,84.4,Dev/Download (GitHub),93,lb-140-82-113-26-iad.github.com
+2026-04-04 12:51:03,14340,mspcmanagercore.exe,0.0,107.7,Light Web Browsing,0,
+2026-04-04 12:51:03,30632,msedge.exe,0.0,84.4,Dev/Download (GitHub),93,lb-140-82-113-26-iad.github.com
+2026-04-04 12:51:05,30632,msedge.exe,0.0,167.7,Dev/Download (GitHub),87,lb-140-82-113-26-iad.github.com
+2026-04-04 12:51:05,14340,mspcmanagercore.exe,0.0,107.7,Light Web Browsing,0,
+2026-04-04 12:51:05,6900,code.exe,56.6,32.5,Light Web Browsing,0,
+2026-04-04 12:51:07,30632,msedge.exe,0.0,128.3,Dev/Download (GitHub),90,lb-140-82-113-26-iad.github.com
+2026-04-04 12:51:07,6900,code.exe,0.0,32.5,Light Web Browsing,0,
+2026-04-04 12:51:09,30632,msedge.exe,0.0,146.0,Dev/Download (GitHub),89,lb-140-82-113-26-iad.github.com
+2026-04-04 12:51:09,6900,code.exe,1.9,32.7,Light Web Browsing,0,
+2026-04-04 12:51:11,30632,msedge.exe,121.2,146.6,Dev/Download (GitHub),89,lb-140-82-113-26-iad.github.com
+2026-04-04 12:51:11,6900,code.exe,0.0,32.7,Light Web Browsing,0,
+2026-04-04 12:51:13,30632,msedge.exe,14162.5,1562.6,Dev/Download (GitHub),0,lb-140-82-113-26-iad.github.com
+2026-04-04 12:51:13,6900,code.exe,0.0,32.3,Light Web Browsing,0,
+2026-04-04 12:51:15,30632,msedge.exe,1398.5,1607.5,Dev/Download (GitHub),0,lb-140-82-113-26-iad.github.com
+2026-04-04 12:51:17,30632,msedge.exe,2639.8,1872.9,Dev/Download (GitHub),0,lb-140-82-113-26-iad.github.com
+2026-04-04 12:51:19,30632,msedge.exe,7.8,1856.2,Dev/Download (GitHub),0,lb-140-82-113-26-iad.github.com
+2026-04-04 12:51:21,30632,msedge.exe,2.6,1915.7,Dev/Download (GitHub),0,lb-140-82-113-26-iad.github.com
+2026-04-04 12:51:23,30632,msedge.exe,0.0,1915.7,Dev/Download (GitHub),0,lb-140-82-113-26-iad.github.com
+2026-04-04 12:51:23,6900,code.exe,60.0,6.0,Web Browsing (Low traffic),0,
+2026-04-04 12:51:25,30632,msedge.exe,1.8,499.1,Dev/Download (GitHub),70,lb-140-82-113-26-iad.github.com
+2026-04-04 12:51:25,6900,code.exe,1.9,6.2,Web Browsing (Low traffic),0,
+2026-04-04 12:51:27,30632,msedge.exe,0.0,357.8,Dev/Download (GitHub),79,lb-140-82-113-26-iad.github.com
+2026-04-04 12:51:29,30632,msedge.exe,7203.9,814.0,Dev/Download (GitHub),49,lb-140-82-113-26-iad.github.com
+2026-04-04 12:51:31,30632,msedge.exe,5.4,729.0,Dev/Download (GitHub),52,lb-140-82-113-26-iad.github.com
+2026-04-04 12:51:31,14340,mspcmanagercore.exe,0.0,1.6,Web Browsing (Low traffic),0,
+2026-04-04 12:51:33,30632,msedge.exe,8.0,916.9,Dev/Download (GitHub),35,lb-140-82-113-26-iad.github.com
+2026-04-04 12:51:33,14340,mspcmanagercore.exe,0.0,1.6,Web Browsing (Low traffic),0,
+2026-04-04 12:51:35,30632,msedge.exe,0.0,982.6,Dev/Download (GitHub),26,lb-140-82-113-26-iad.github.com
+2026-04-04 12:51:35,14340,mspcmanagercore.exe,0.0,1.6,Web Browsing (Low traffic),0,
+2026-04-04 12:51:37,30632,msedge.exe,988.2,1081.2,Dev/Download (GitHub),14,lb-140-82-113-26-iad.github.com
+2026-04-04 12:51:37,14340,mspcmanagercore.exe,0.0,1.6,Web Browsing (Low traffic),0,
+2026-04-04 12:51:39,30632,msedge.exe,0.0,360.8,Dev/Download (GitHub),74,lb-140-82-113-26-iad.github.com
+2026-04-04 12:51:39,6900,code.exe,378.0,44.0,Light Web Browsing,0,
+2026-04-04 12:51:39,14340,mspcmanagercore.exe,0.0,1.6,Web Browsing (Low traffic),0,
+2026-04-04 12:51:41,30632,msedge.exe,0.0,353.7,Dev/Download (GitHub),75,lb-140-82-113-26-iad.github.com
+2026-04-04 12:51:41,14340,mspcmanagercore.exe,530.5,106.1,Light Web Browsing,0,
+2026-04-04 12:51:41,6900,code.exe,0.0,44.0,Light Web Browsing,0,
+2026-04-04 12:51:43,30632,msedge.exe,0.0,165.5,Dev/Download (GitHub),88,lb-140-82-113-26-iad.github.com
+2026-04-04 12:51:43,14340,mspcmanagercore.exe,0.0,106.1,Light Web Browsing,0,
+2026-04-04 12:51:43,6900,code.exe,0.0,44.0,Light Web Browsing,0,
+2026-04-04 12:51:45,14340,mspcmanagercore.exe,0.0,106.1,Light Web Browsing,0,
+2026-04-04 12:51:45,30632,msedge.exe,0.0,98.8,Dev/Download (GitHub),93,lb-140-82-113-26-iad.github.com
+2026-04-04 12:51:45,6900,code.exe,0.0,44.0,Light Web Browsing,0,
+2026-04-04 12:51:47,14340,mspcmanagercore.exe,0.0,106.1,Light Web Browsing,0,
+2026-04-04 12:51:47,30632,msedge.exe,0.0,106.0,Dev/Download (GitHub),92,lb-140-82-113-26-iad.github.com
+2026-04-04 12:51:47,6900,code.exe,0.0,38.0,Light Web Browsing,0,
+2026-04-04 12:51:49,30632,msedge.exe,0.0,107.2,Dev/Download (GitHub),92,lb-140-82-113-26-iad.github.com
+2026-04-04 12:51:49,14340,mspcmanagercore.exe,0.0,106.1,Light Web Browsing,0,
+2026-04-04 12:51:49,6900,code.exe,0.0,37.8,Light Web Browsing,0,
+2026-04-04 12:51:51,30632,msedge.exe,0.0,172.0,Dev/Download (GitHub),88,lb-140-82-113-26-iad.github.com
+2026-04-04 12:51:53,30632,msedge.exe,0.0,172.0,Dev/Download (GitHub),88,lb-140-82-113-26-iad.github.com
+2026-04-04 12:51:55,30632,msedge.exe,275.3,220.3,Dev/Download (GitHub),84,lb-140-82-113-26-iad.github.com
+2026-04-04 12:51:57,30632,msedge.exe,984.2,352.3,Dev/Download (GitHub),75,lb-140-82-113-26-iad.github.com
+2026-04-04 12:51:59,30632,msedge.exe,0.0,258.6,Dev/Download (GitHub),82,lb-140-82-113-26-iad.github.com
+2026-04-04 12:52:01,30632,msedge.exe,275.1,278.6,Dev/Download (GitHub),80,lb-140-82-113-26-iad.github.com
+2026-04-04 12:52:03,30632,msedge.exe,260.5,305.1,Dev/Download (GitHub),78,lb-140-82-113-26-iad.github.com
+2026-04-04 12:52:03,6900,code.exe,124.2,12.4,Web Browsing (Low traffic),0,
+2026-04-04 12:52:05,30632,msedge.exe,2411.0,627.7,Dev/Download (GitHub),53,lb-140-82-113-26-iad.github.com
+2026-04-04 12:52:05,6900,code.exe,0.0,12.4,Web Browsing (Low traffic),0,
+2026-04-04 12:52:07,30632,msedge.exe,618.9,671.0,Dev/Download (GitHub),46,lb-140-82-113-26-iad.github.com
+2026-04-04 12:52:07,6900,code.exe,0.0,12.4,Web Browsing (Low traffic),0,
+2026-04-04 12:52:09,30632,msedge.exe,1.8,700.0,Dev/Download (GitHub),41,lb-140-82-113-26-iad.github.com
+2026-04-04 12:52:09,6900,code.exe,0.0,12.4,Web Browsing (Low traffic),0,
+2026-04-04 12:52:11,30632,msedge.exe,47.4,647.6,Dev/Download (GitHub),43,lb-140-82-113-26-iad.github.com
+2026-04-04 12:52:11,6900,code.exe,0.0,12.4,Web Browsing (Low traffic),0,
+2026-04-04 12:52:13,30632,msedge.exe,249.6,644.7,Dev/Download (GitHub),41,lb-140-82-113-26-iad.github.com
+2026-04-04 12:52:13,6900,code.exe,0.0,42.8,Light Web Browsing,0,
+2026-04-04 12:52:15,30632,msedge.exe,244.0,513.3,Dev/Download (GitHub),52,lb-140-82-113-26-iad.github.com
+2026-04-04 12:52:15,6900,code.exe,0.0,30.4,Light Web Browsing,0,
+2026-04-04 12:52:17,30632,msedge.exe,120.3,432.3,Dev/Download (GitHub),58,lb-140-82-113-26-iad.github.com
+2026-04-04 12:52:17,6900,code.exe,0.0,30.4,Light Web Browsing,0,
+2026-04-04 12:52:19,30632,msedge.exe,2818.2,647.2,Dev/Download (GitHub),29,lb-140-82-113-26-iad.github.com
+2026-04-04 12:52:19,6900,code.exe,0.0,30.4,Light Web Browsing,0,
+2026-04-04 12:52:21,30632,msedge.exe,3881.9,1603.5,Dev/Download (GitHub),0,lb-140-82-113-26-iad.github.com
+2026-04-04 12:52:21,6900,code.exe,0.0,30.4,Light Web Browsing,0,
+2026-04-04 12:52:21,14980,nvidia overlay.exe,17.3,1.7,Web Browsing (Low traffic),0,
+2026-04-04 12:52:23,30632,msedge.exe,3692.3,2419.0,Dev/Download (GitHub),0,lb-140-82-113-26-iad.github.com
+2026-04-04 12:52:23,14980,nvidia overlay.exe,0.0,1.7,Web Browsing (Low traffic),0,
+2026-04-04 12:52:25,30632,msedge.exe,1689.2,2752.9,Dev/Download (GitHub),0,lb-140-82-113-26-iad.github.com
+2026-04-04 12:52:25,14980,nvidia overlay.exe,0.0,1.7,Web Browsing (Low traffic),0,
+2026-04-04 12:52:27,30632,msedge.exe,1543.0,3834.7,Dev/Download (GitHub),0,lb-140-82-113-26-iad.github.com
+2026-04-04 12:52:27,6900,code.exe,304.0,31.0,Light Web Browsing,0,
+2026-04-04 12:52:27,14980,nvidia overlay.exe,0.0,1.7,Web Browsing (Low traffic),0,
+2026-04-04 12:52:29,30632,msedge.exe,264.2,3707.7,Dev/Download (GitHub),0,lb-140-82-113-26-iad.github.com
+2026-04-04 12:52:29,6900,code.exe,0.0,31.0,Light Web Browsing,0,
+2026-04-04 12:52:29,14980,nvidia overlay.exe,0.0,1.7,Web Browsing (Low traffic),0,
+2026-04-04 12:52:31,30632,msedge.exe,1120.0,2881.6,Dev/Download (GitHub),0,lb-140-82-113-26-iad.github.com
+2026-04-04 12:52:31,6900,code.exe,0.0,31.0,Light Web Browsing,0,
+2026-04-04 12:52:33,30632,msedge.exe,389.6,2233.5,Dev/Download (GitHub),0,lb-140-82-113-26-iad.github.com
+2026-04-04 12:52:33,6900,code.exe,0.0,31.2,Light Web Browsing,0,
+2026-04-04 12:52:35,30632,msedge.exe,728.9,1984.4,Dev/Download (GitHub),1,lb-140-82-113-26-iad.github.com
+2026-04-04 12:52:35,6900,code.exe,0.0,30.6,Light Web Browsing,0,
+2026-04-04 12:52:37,30632,msedge.exe,313.2,807.7,Dev/Download (GitHub),66,lb-140-82-113-26-iad.github.com
+2026-04-04 12:52:37,6900,code.exe,0.0,30.6,Light Web Browsing,0,
+2026-04-04 12:52:39,30632,msedge.exe,2655.5,892.6,Cloud/Download (AWS),60,compute.amazonaws.com
+2026-04-04 12:52:41,30632,msedge.exe,1071.1,981.3,Cloud/Download (AWS),52,compute.amazonaws.com
+2026-04-04 12:52:41,6900,code.exe,2.4,1.6,Web Browsing (Low traffic),0,
+2026-04-04 12:52:43,30632,msedge.exe,84.2,776.8,Cloud/Download (AWS),61,compute.amazonaws.com
+2026-04-04 12:52:43,6900,code.exe,0.0,1.4,Web Browsing (Low traffic),0,
+2026-04-04 12:52:45,30632,msedge.exe,505.4,834.5,Cloud/Download (AWS),55,compute.amazonaws.com
+2026-04-04 12:52:45,6900,code.exe,0.0,1.4,Web Browsing (Low traffic),0,
+2026-04-04 12:52:47,30632,msedge.exe,3672.5,1447.6,Cloud/Download (AWS),2,compute.amazonaws.com
+2026-04-04 12:52:47,6900,code.exe,0.0,1.4,Web Browsing (Low traffic),0,
+2026-04-04 12:52:49,30632,msedge.exe,301.1,1187.7,Cloud/Download (AWS),28,compute.amazonaws.com
+2026-04-04 12:52:51,30632,msedge.exe,2129.5,1479.8,Cloud/Download (AWS),0,compute.amazonaws.com
+2026-04-04 12:52:53,30632,msedge.exe,24.2,1429.0,Cloud/Download (AWS),0,compute.amazonaws.com
+2026-04-04 12:52:55,30632,msedge.exe,0.0,1883.1,Cloud/Download (AWS),0,compute.amazonaws.com
+2026-04-04 12:52:57,30632,msedge.exe,121.9,1243.9,Cloud/Download (AWS),25,compute.amazonaws.com
+2026-04-04 12:52:59,30632,msedge.exe,82.6,1144.2,Cloud/Download (AWS),31,compute.amazonaws.com
+2026-04-04 12:53:01,30632,msedge.exe,3.3,1038.3,Cloud/Download (AWS),37,compute.amazonaws.com
+2026-04-04 12:53:03,30632,msedge.exe,1065.0,966.2,Cloud/Download (AWS),39,compute.amazonaws.com
+2026-04-04 12:53:05,30632,msedge.exe,1.8,389.2,Cloud/Download (AWS),76,compute.amazonaws.com
+2026-04-04 12:53:07,30632,msedge.exe,403.2,363.5,Cloud/Download (AWS),77,compute.amazonaws.com
+2026-04-04 12:53:09,30632,msedge.exe,5.4,345.9,Cloud/Download (AWS),79,compute.amazonaws.com
+2026-04-04 12:53:11,30632,msedge.exe,0.0,204.9,Cloud/Download (AWS),87,compute.amazonaws.com
+2026-04-04 12:53:13,30632,msedge.exe,0.0,56.1,Cloud/Download (AWS),96,compute.amazonaws.com
+2026-04-04 12:53:15,30632,msedge.exe,307.8,74.4,Cloud/Download (AWS),95,compute.amazonaws.com
+2026-04-04 12:53:17,30632,msedge.exe,10.0,58.7,Cloud/Download (AWS),96,compute.amazonaws.com
+2026-04-04 12:53:19,30632,msedge.exe,0.0,66.1,Cloud/Download (AWS),96,compute.amazonaws.com
+2026-04-04 12:53:21,30632,msedge.exe,660.2,131.7,Cloud/Download (AWS),92,compute.amazonaws.com
+2026-04-04 12:53:23,30632,msedge.exe,119.4,143.7,Cloud/Download (AWS),91,compute.amazonaws.com
+2026-04-04 12:53:25,30632,msedge.exe,0.0,143.8,Cloud/Download (AWS),91,compute.amazonaws.com
+2026-04-04 12:53:27,30632,msedge.exe,139.2,103.4,Dev/Download (GitHub),93,lb-140-82-113-26-iad.github.com
+2026-04-04 12:53:29,30632,msedge.exe,0.0,175.9,Dev/Download (GitHub),89,lb-140-82-113-26-iad.github.com
+2026-04-04 12:53:31,30632,msedge.exe,1129.2,279.1,Dev/Download (GitHub),83,lb-140-82-113-26-iad.github.com
+2026-04-04 12:53:33,30632,msedge.exe,3.6,324.1,Dev/Download (GitHub),80,lb-140-82-113-26-iad.github.com
+2026-04-04 12:53:35,30632,msedge.exe,4.0,332.3,Dev/Download (GitHub),79,lb-140-82-113-26-iad.github.com
+2026-04-04 12:53:38,30632,msedge.exe,2497.0,630.4,Dev/Download (GitHub),59,lb-140-82-113-26-iad.github.com
+2026-04-04 12:53:40,30632,msedge.exe,48.3,551.6,Dev/Download (GitHub),62,lb-140-82-113-26-iad.github.com
+2026-04-04 12:53:42,30632,msedge.exe,207.3,403.9,Dev/Download (GitHub),71,lb-140-82-113-26-iad.github.com
+2026-04-04 12:53:44,30632,msedge.exe,0.0,372.7,Dev/Download (GitHub),73,lb-140-82-113-26-iad.github.com
+2026-04-04 12:53:46,38336,code.exe,97971.6,48985.8,Large File Download,0,
+2026-04-04 12:53:46,30632,msedge.exe,1.9,409.0,Cloud/Download (AWS),70,compute-1.amazonaws.com
+2026-04-04 12:53:46,6620,svchost.exe,0.0,1.2,Web Browsing (Low traffic),0,
+2026-04-04 12:53:48,30632,msedge.exe,11.4,98.1,Cloud/Download (AWS),93,compute-1.amazonaws.com
+2026-04-04 12:53:48,6620,svchost.exe,0.0,1.2,Web Browsing (Low traffic),0,
+2026-04-04 12:53:50,30632,msedge.exe,2.4,136.5,Cloud/Download (AWS),90,compute-1.amazonaws.com
+2026-04-04 12:53:50,6620,svchost.exe,0.0,1.2,Web Browsing (Low traffic),0,
+2026-04-04 12:53:52,38336,code.exe,426.2,20646.6,Large File Download,0,
+2026-04-04 12:53:52,30632,msedge.exe,6.7,136.3,Cloud/Download (AWS),90,compute-1.amazonaws.com
+2026-04-04 12:53:52,6620,svchost.exe,0.0,1.2,Web Browsing (Low traffic),0,
+2026-04-04 12:53:54,30632,msedge.exe,2111.2,307.6,Cloud/Download (AWS),78,compute-1.amazonaws.com
+2026-04-04 12:53:54,6620,svchost.exe,0.0,1.2,Web Browsing (Low traffic),0,
+2026-04-04 12:53:56,30632,msedge.exe,5.6,264.1,Cloud/Download (AWS),81,compute-1.amazonaws.com
+2026-04-04 12:53:58,30632,msedge.exe,381.3,302.3,Cloud/Download (AWS),78,compute-1.amazonaws.com
+2026-04-04 12:54:00,30632,msedge.exe,0.0,258.0,Cloud/Download (AWS),81,compute-1.amazonaws.com
+2026-04-04 12:54:02,30632,msedge.exe,206.1,277.8,Cloud/Download (AWS),80,compute-1.amazonaws.com
+2026-04-04 12:54:04,30632,msedge.exe,1287.0,216.0,Cloud/Download (AWS),85,compute-1.amazonaws.com
+2026-04-04 12:54:06,30632,msedge.exe,155.8,258.9,Cloud/Download (AWS),81,compute-1.amazonaws.com
+2026-04-04 12:54:08,30632,msedge.exe,186.0,339.2,Cloud/Download (AWS),75,compute-1.amazonaws.com
+2026-04-04 12:54:10,30632,msedge.exe,5.1,363.2,Cloud/Download (AWS),74,compute-1.amazonaws.com
+2026-04-04 12:54:12,30632,msedge.exe,0.0,342.7,Cloud/Download (AWS),75,compute-1.amazonaws.com
+2026-04-04 12:54:14,30632,msedge.exe,717.8,258.5,Cloud/Download (AWS),81,compute-1.amazonaws.com
+2026-04-04 12:54:16,30632,msedge.exe,0.0,229.6,Cloud/Download (AWS),84,compute-1.amazonaws.com
+2026-04-04 12:54:18,30632,msedge.exe,1.4,129.6,Cloud/Download (AWS),91,compute-1.amazonaws.com
+2026-04-04 12:54:20,30632,msedge.exe,613.4,179.0,Cloud/Download (AWS),87,compute-1.amazonaws.com
+2026-04-04 12:54:22,30632,msedge.exe,0.0,182.5,Cloud/Download (AWS),87,compute-1.amazonaws.com
+2026-04-04 12:54:24,30632,msedge.exe,17.0,197.0,Cloud/Download (AWS),86,compute-1.amazonaws.com
+2026-04-04 12:54:26,30632,msedge.exe,0.0,181.7,Cloud/Download (AWS),87,compute-1.amazonaws.com
+2026-04-04 12:54:28,30632,msedge.exe,5.1,182.1,Cloud/Download (AWS),87,compute-1.amazonaws.com
+2026-04-04 12:54:30,30632,msedge.exe,0.0,114.4,Light Web Browsing,92,
+2026-04-04 12:54:32,30632,msedge.exe,0.0,111.0,Light Web Browsing,92,
+2026-04-04 12:54:34,30632,msedge.exe,753.3,172.3,Light Web Browsing,88,
+2026-04-04 12:54:36,30632,msedge.exe,130.5,113.8,Light Web Browsing,92,
+2026-04-04 12:54:38,30632,msedge.exe,0.0,113.3,Light Web Browsing,92,
+2026-04-04 12:54:40,30632,msedge.exe,0.0,101.3,Light Web Browsing,93,
+2026-04-04 12:54:42,30632,msedge.exe,0.0,127.2,Light Web Browsing,91,
+2026-04-04 12:54:44,30632,msedge.exe,846.8,163.7,Light Web Browsing,88,
+2026-04-04 12:54:46,30632,msedge.exe,3.8,233.0,Active Web / Media,83,
+2026-04-04 12:54:48,30632,msedge.exe,0.0,242.9,Active Web / Media,83,
+2026-04-04 12:54:50,30632,msedge.exe,330.4,285.8,Active Web / Media,79,
+2026-04-04 12:54:52,30632,msedge.exe,86.4,277.7,Active Web / Media,80,
+2026-04-04 12:54:54,30632,msedge.exe,930.8,278.4,Active Web / Media,80,
+2026-04-04 12:54:56,30632,msedge.exe,199.8,237.3,Active Web / Media,83,
+2026-04-04 12:54:58,30632,msedge.exe,1515.5,414.1,Active Web / Media,70,
+2026-04-04 12:55:00,30632,msedge.exe,185.4,529.2,Active Web / Media,60,
+2026-04-04 12:55:02,30632,msedge.exe,149.8,545.6,Active Web / Media,56,
+2026-04-04 12:55:04,30632,msedge.exe,715.1,512.3,Active Web / Media,56,
+2026-04-04 12:55:06,30632,msedge.exe,99.5,501.1,Active Web / Media,55,
+2026-04-04 12:55:08,30632,msedge.exe,206.1,487.1,Active Web / Media,53,
+2026-04-04 12:55:10,30632,msedge.exe,317.9,248.3,Active Web / Media,75,
+2026-04-04 12:55:12,30632,msedge.exe,99.2,240.7,Active Web / Media,76,
+2026-04-04 12:55:14,30632,msedge.exe,909.0,318.8,Active Web / Media,68,
+2026-04-04 12:55:16,30632,msedge.exe,156.0,272.9,Active Web / Media,70,
+2026-04-04 12:55:18,30632,msedge.exe,1041.3,346.0,Active Web / Media,62,
+2026-04-04 12:55:20,30632,msedge.exe,238.3,315.2,Active Web / Media,63,
+2026-04-04 12:55:22,30632,msedge.exe,157.2,316.6,Active Web / Media,60,
+2026-04-04 12:55:24,30632,msedge.exe,715.1,286.8,Active Web / Media,61,
+2026-04-04 12:55:26,30632,msedge.exe,103.9,261.6,Active Web / Media,62,
+2026-04-04 12:55:28,30632,msedge.exe,91.9,156.6,Light Web Browsing,76,
+2026-04-04 12:55:30,30632,msedge.exe,111.5,161.5,Light Web Browsing,75,
+2026-04-04 12:55:32,30632,msedge.exe,200.0,170.5,Light Web Browsing,74,
+2026-04-04 12:55:34,30632,msedge.exe,814.0,202.2,Active Web / Media,69,
+2026-04-04 12:55:36,30632,msedge.exe,210.4,223.2,Active Web / Media,62,
+2026-04-04 12:55:38,30632,msedge.exe,299.6,264.1,Active Web / Media,52,
+2026-04-04 12:55:40,30632,msedge.exe,194.1,266.9,Active Web / Media,48,
+2026-04-04 12:55:42,30632,msedge.exe,138.0,250.3,Active Web / Media,49,
+2026-04-04 12:55:44,30632,msedge.exe,1147.4,277.4,Active Web / Media,40,
+2026-04-04 12:55:46,30632,msedge.exe,96.2,306.5,Active Web / Media,29,
+2026-04-04 12:55:48,30632,msedge.exe,179.5,274.6,Active Web / Media,36,
+2026-04-04 12:55:50,30632,msedge.exe,59.5,240.0,Active Web / Media,43,
+2026-04-04 12:55:52,30632,msedge.exe,0.0,216.1,Active Web / Media,47,
+2026-04-04 12:55:54,30632,msedge.exe,715.1,157.3,Light Web Browsing,60,
+2026-04-04 12:55:56,30632,msedge.exe,5.8,107.0,Light Web Browsing,71,
+2026-04-04 12:55:58,30632,msedge.exe,0.0,97.1,Light Web Browsing,74,
+2026-04-04 12:56:00,30632,msedge.exe,1385.6,245.4,Active Web / Media,25,
+2026-04-04 12:56:02,30632,msedge.exe,0.0,238.6,Active Web / Media,26,
+2026-04-04 12:56:04,30632,msedge.exe,1000.5,367.5,Video Streaming (Bursty),0,
+2026-04-04 12:56:06,30632,msedge.exe,99.5,305.4,Video Streaming (Bursty),0,
+2026-04-04 12:56:08,30632,msedge.exe,61.4,311.7,Active Web / Media,0,
+2026-04-04 12:56:08,6900,code.exe,2421.3,243.5,Active Web / Media,0,
+2026-04-04 12:56:10,30632,msedge.exe,4554.4,1617.4,Active Web / Media,0,
+2026-04-04 12:56:10,6900,code.exe,0.0,242.4,Active Web / Media,0,
+2026-04-04 12:56:10,14980,nvidia overlay.exe,29.8,3.0,Web Browsing (Low traffic),0,
+2026-04-04 12:56:12,30632,msedge.exe,17885.8,5975.4,Download / Rich Streaming,0,
+2026-04-04 12:56:12,6900,code.exe,0.0,242.1,Active Web / Media,0,
+2026-04-04 12:56:12,14980,nvidia overlay.exe,0.0,3.0,Web Browsing (Low traffic),0,
+2026-04-04 12:56:12,6620,svchost.exe,0.0,2.4,Web Browsing (Low traffic),0,
+2026-04-04 12:56:14,30632,msedge.exe,5468.4,7303.2,Large File Download,0,
+2026-04-04 12:56:14,6900,code.exe,0.0,242.1,Active Web / Media,0,
+2026-04-04 12:56:14,14980,nvidia overlay.exe,0.0,3.0,Web Browsing (Low traffic),0,
+2026-04-04 12:56:14,6620,svchost.exe,0.0,2.4,Web Browsing (Low traffic),0,
+2026-04-04 12:56:16,30632,msedge.exe,950.5,8264.0,Large File Download,0,
+2026-04-04 12:56:16,6900,code.exe,0.0,242.1,Active Web / Media,0,
+2026-04-04 12:56:16,14980,nvidia overlay.exe,0.0,3.0,Web Browsing (Low traffic),0,
+2026-04-04 12:56:16,6620,svchost.exe,0.0,2.4,Web Browsing (Low traffic),0,
+2026-04-04 12:56:18,30632,msedge.exe,947.8,8533.5,Large File Download,0,
+2026-04-04 12:56:18,14980,nvidia overlay.exe,0.0,3.0,Web Browsing (Low traffic),0,
+2026-04-04 12:56:18,6620,svchost.exe,0.0,2.4,Web Browsing (Low traffic),0,
+2026-04-04 12:56:20,30632,msedge.exe,120.4,7087.5,Large File Download,0,
+2026-04-04 12:56:20,6620,svchost.exe,0.0,2.4,Web Browsing (Low traffic),0,
+2026-04-04 12:56:22,30632,msedge.exe,6.9,2740.1,Download / Rich Streaming,38,
+2026-04-04 12:56:24,30632,msedge.exe,718.7,1355.4,Active Web / Media,69,
+2026-04-04 12:56:26,30632,msedge.exe,9.0,385.9,Active Web / Media,90,
+2026-04-04 12:56:28,30632,msedge.exe,0.0,204.7,Active Web / Media,95,
+2026-04-04 12:56:30,30632,msedge.exe,5.4,97.0,Light Web Browsing,97,
+2026-04-04 12:56:32,13652,widgets.exe,16051.4,1614.4,Video Streaming (Bursty),0,
+2026-04-04 12:56:32,30632,msedge.exe,373.3,112.9,Light Web Browsing,97,
+2026-04-04 12:56:34,13652,widgets.exe,0.0,1624.0,Video Streaming (Bursty),0,
+2026-04-04 12:56:34,33192,msedgewebview2.exe,1527.2,1316.5,Active Web / Media,0,
+2026-04-04 12:56:34,30632,msedge.exe,724.1,300.8,Active Web / Media,92,
+2026-04-04 12:56:34,6900,code.exe,345.3,34.5,Light Web Browsing,0,
+2026-04-04 12:56:36,13652,widgets.exe,0.0,1624.0,Video Streaming (Bursty),0,
+2026-04-04 12:56:36,33192,msedgewebview2.exe,0.0,789.9,Video Streaming (Bursty),0,
+2026-04-04 12:56:36,30632,msedge.exe,10.8,229.6,Active Web / Media,94,
+2026-04-04 12:56:36,6900,code.exe,0.0,63.5,Light Web Browsing,0,
+2026-04-04 12:56:38,13652,widgets.exe,0.0,1624.0,Video Streaming (Bursty),0,
+2026-04-04 12:56:38,33192,msedgewebview2.exe,0.0,564.2,Video Streaming (Bursty),0,
+2026-04-04 12:56:38,30632,msedge.exe,7.2,229.6,Active Web / Media,94,
+2026-04-04 12:56:38,6900,code.exe,0.0,63.5,Light Web Browsing,0,
+2026-04-04 12:56:40,13652,widgets.exe,0.0,1624.0,Video Streaming (Bursty),0,
+2026-04-04 12:56:40,33192,msedgewebview2.exe,0.0,438.8,Video Streaming (Bursty),0,
+2026-04-04 12:56:40,30632,msedge.exe,15.9,270.3,Active Web / Media,93,
+2026-04-04 12:56:40,6900,code.exe,0.0,63.5,Light Web Browsing,0,
+2026-04-04 12:56:42,33192,msedgewebview2.exe,0.0,396.4,Video Streaming (Bursty),0,
+2026-04-04 12:56:42,30632,msedge.exe,378.7,270.7,Active Web / Media,93,
+2026-04-04 12:56:42,6900,code.exe,0.0,63.5,Light Web Browsing,0,
+2026-04-04 12:56:42,13652,widgets.exe,23.3,13.9,Web Browsing (Low traffic),0,
+2026-04-04 12:56:44,30632,msedge.exe,720.5,154.6,Light Web Browsing,96,
+2026-04-04 12:56:44,6900,code.exe,0.0,28.9,Light Web Browsing,0,
+2026-04-04 12:56:44,13652,widgets.exe,0.0,4.2,Web Browsing (Low traffic),0,
+2026-04-04 12:56:44,33192,msedgewebview2.exe,0.0,1.6,Web Browsing (Low traffic),0,
+2026-04-04 12:56:46,30632,msedge.exe,1287.8,428.9,Active Web / Media,89,
+2026-04-04 12:56:46,13652,widgets.exe,0.0,4.2,Web Browsing (Low traffic),0,
+2026-04-04 12:56:46,33192,msedgewebview2.exe,0.0,1.6,Web Browsing (Low traffic),0,
+2026-04-04 12:56:48,30632,msedge.exe,741.2,516.7,Active Web / Media,87,
+2026-04-04 12:56:48,13652,widgets.exe,0.0,4.2,Web Browsing (Low traffic),0,
+2026-04-04 12:56:48,33192,msedgewebview2.exe,0.0,1.6,Web Browsing (Low traffic),0,
+2026-04-04 12:56:50,30632,msedge.exe,3.6,544.5,Cloud/Download (AWS),87,compute-1.amazonaws.com
+2026-04-04 12:56:50,13652,widgets.exe,0.0,4.2,Web Browsing (Low traffic),99,
+2026-04-04 12:56:50,33192,msedgewebview2.exe,0.0,1.6,Web Browsing (Low traffic),0,
+2026-04-04 12:56:52,30632,msedge.exe,12.3,545.3,Cloud/Download (AWS),87,compute-1.amazonaws.com
+2026-04-04 12:56:52,13652,widgets.exe,0.0,2.3,Web Browsing (Low traffic),99,
+2026-04-04 12:56:55,30632,msedge.exe,716.9,579.2,Cloud/Download (AWS),86,compute-1.amazonaws.com
+2026-04-04 12:56:57,30632,msedge.exe,417.7,402.6,Cloud/Download (AWS),90,compute-1.amazonaws.com
+2026-04-04 12:56:59,30632,msedge.exe,3.6,333.0,Cloud/Download (AWS),92,compute-1.amazonaws.com
+2026-04-04 12:56:59,6900,code.exe,289.2,63.5,Light Web Browsing,0,
+2026-04-04 13:00:14,38336,code.exe,17675.9,8838.0,Large File Download,0,
+2026-04-04 13:00:14,6900,code.exe,59.6,29.8,Light Web Browsing,0,
+2026-04-04 13:00:14,27804,onedrive.sync.service.exe,9.7,4.9,Web Browsing (Low traffic),0,
+2026-04-04 13:00:16,38336,code.exe,426.2,4737.9,Active Web / Media,0,
+2026-04-04 13:00:16,30632,msedge.exe,0.0,178.8,Light Web Browsing,0,
+2026-04-04 13:00:16,6900,code.exe,0.0,43.2,Light Web Browsing,0,
+2026-04-04 13:00:16,27804,onedrive.sync.service.exe,0.0,2.4,Web Browsing (Low traffic),0,
+2026-04-04 13:00:18,38336,code.exe,1646.9,3551.0,Download / Rich Streaming,0,
+2026-04-04 13:00:18,30632,msedge.exe,287.7,179.2,Light Web Browsing,0,
+2026-04-04 13:00:18,6900,code.exe,0.0,28.8,Light Web Browsing,0,
+2026-04-04 13:00:18,27804,onedrive.sync.service.exe,0.0,1.6,Web Browsing (Low traffic),0,
+2026-04-04 13:00:20,38336,code.exe,406.0,2777.7,Download / Rich Streaming,0,
+2026-04-04 13:00:20,30632,msedge.exe,136.3,159.9,Light Web Browsing,0,
+2026-04-04 13:00:20,6900,code.exe,81.7,31.8,Light Web Browsing,0,
+2026-04-04 13:00:20,27804,onedrive.sync.service.exe,0.0,1.2,Web Browsing (Low traffic),0,
+2026-04-04 13:00:22,38336,code.exe,366.3,2309.8,Download / Rich Streaming,0,
+2026-04-04 13:00:22,30632,msedge.exe,49.8,147.4,Light Web Browsing,0,
+2026-04-04 13:00:22,6900,code.exe,0.0,25.5,Light Web Browsing,0,
+2026-04-04 13:00:24,38336,code.exe,357.1,628.8,Active Web / Media,0,
+2026-04-04 13:00:24,30632,msedge.exe,660.2,263.5,Active Web / Media,0,
+2026-04-04 13:00:24,6900,code.exe,0.0,19.5,Web Browsing (Low traffic),0,
+2026-04-04 13:00:26,38336,code.exe,353.9,586.3,Active Web / Media,0,
+2026-04-04 13:00:26,30632,msedge.exe,130.2,205.8,Active Web / Media,0,
+2026-04-04 13:00:26,6900,code.exe,0.0,8.2,Web Browsing (Low traffic),0,
+2026-04-04 13:00:28,38336,code.exe,353.9,435.9,Active Web / Media,0,
+2026-04-04 13:00:28,30632,msedge.exe,141.1,262.5,Active Web / Media,0,
+2026-04-04 13:00:28,6900,code.exe,0.0,8.2,Web Browsing (Low traffic),0,
+2026-04-04 13:00:30,38336,code.exe,1992.1,584.2,Active Web / Media,0,
+2026-04-04 13:00:30,30632,msedge.exe,9.2,256.7,Active Web / Media,0,
+2026-04-04 13:00:30,6900,code.exe,0.0,8.2,Web Browsing (Low traffic),0,
+2026-04-04 13:00:32,38336,code.exe,536.8,602.9,Active Web / Media,82,
+2026-04-04 13:00:32,30632,msedge.exe,0.0,228.5,Active Web / Media,0,
+2026-04-04 13:00:32,6900,code.exe,40.4,4.0,Web Browsing (Low traffic),85,
+2026-04-04 13:00:34,38336,code.exe,532.9,618.2,Active Web / Media,82,
+2026-04-04 13:00:34,30632,msedge.exe,768.9,250.4,Active Web / Media,0,
+2026-04-04 13:00:34,6900,code.exe,0.0,4.0,Web Browsing (Low traffic),85,
+2026-04-04 13:00:36,38336,code.exe,355.6,635.7,Active Web / Media,81,
+2026-04-04 13:00:36,30632,msedge.exe,0.0,185.9,Light Web Browsing,21,
+2026-04-04 13:00:36,6900,code.exe,0.0,4.0,Web Browsing (Low traffic),85,
+2026-04-04 13:00:38,38336,code.exe,354.2,649.9,Active Web / Media,81,
+2026-04-04 13:00:38,30632,msedge.exe,2.6,94.5,Light Web Browsing,63,
+2026-04-04 13:00:38,6900,code.exe,0.0,4.0,Web Browsing (Low traffic),85,
+2026-04-04 13:00:40,38336,code.exe,354.5,769.5,Active Web / Media,77,
+2026-04-04 13:00:40,30632,msedge.exe,7.4,106.7,Light Web Browsing,54,
+2026-04-04 13:00:40,6900,code.exe,0.0,4.0,Web Browsing (Low traffic),85,
+2026-04-04 13:00:42,38336,code.exe,354.2,744.4,Active Web / Media,78,
+2026-04-04 13:00:42,30632,msedge.exe,0.0,107.3,Light Web Browsing,51,
+2026-04-04 13:00:44,38336,code.exe,566.3,754.9,Active Web / Media,77,
+2026-04-04 13:00:44,30632,msedge.exe,138.6,144.0,Light Web Browsing,28,
+2026-04-04 13:00:46,38336,code.exe,283.1,723.0,Active Web / Media,78,
+2026-04-04 13:00:46,30632,msedge.exe,1918.5,453.5,Active Web / Media,0,
+2026-04-04 13:00:46,6900,code.exe,39.4,4.2,Web Browsing (Low traffic),0,
+2026-04-04 13:00:48,38336,code.exe,354.1,709.2,Active Web / Media,79,
+2026-04-04 13:00:48,30632,msedge.exe,2.4,453.4,Active Web / Media,0,
+2026-04-04 13:00:48,6900,code.exe,0.0,5.0,Web Browsing (Low traffic),0,
+2026-04-04 13:00:50,38336,code.exe,391.9,443.9,Active Web / Media,87,
+2026-04-04 13:00:50,30632,msedge.exe,0.0,430.3,Active Web / Media,0,
+2026-04-04 13:00:50,6900,code.exe,117.5,16.7,Web Browsing (Low traffic),0,
+2026-04-04 13:00:52,38336,code.exe,384.3,468.0,Active Web / Media,86,
+2026-04-04 13:00:52,30632,msedge.exe,87.3,438.5,Active Web / Media,0,
+2026-04-04 13:00:52,6900,code.exe,0.0,20.3,Light Web Browsing,0,
+2026-04-04 13:00:54,30632,msedge.exe,0.0,324.9,Video Streaming (Bursty),0,
+2026-04-04 13:00:54,6900,code.exe,0.0,20.3,Light Web Browsing,0,
+2026-04-04 13:00:56,30632,msedge.exe,0.0,17.1,Web Browsing (Low traffic),95,
+2026-04-04 13:00:56,6900,code.exe,0.0,16.4,Web Browsing (Low traffic),0,
+2026-04-04 13:00:58,30632,msedge.exe,0.0,63.8,Light Web Browsing,81,
+2026-04-04 13:00:58,6900,code.exe,0.0,15.6,Web Browsing (Low traffic),0,
+2026-04-04 13:01:00,30632,msedge.exe,2.9,60.7,Light Web Browsing,82,
+2026-04-04 13:01:00,6900,code.exe,0.0,3.9,Web Browsing (Low traffic),0,
+2026-04-04 13:01:02,30632,msedge.exe,0.0,60.7,Light Web Browsing,82,
+2026-04-04 13:01:04,30632,msedge.exe,0.0,52.0,Light Web Browsing,85,
+2026-04-04 13:01:06,30632,msedge.exe,91.0,159.5,Light Web Browsing,49,
+2026-04-04 13:01:08,30632,msedge.exe,10.2,123.4,Light Web Browsing,59,
+2026-04-04 13:01:08,6900,code.exe,52.6,15.4,Web Browsing (Low traffic),0,
+2026-04-04 13:01:10,30632,msedge.exe,2.7,122.8,Light Web Browsing,57,
+2026-04-04 13:01:10,6900,code.exe,47.6,20.3,Light Web Browsing,0,
+2026-04-04 13:01:12,30632,msedge.exe,4.4,123.2,Light Web Browsing,54,
+2026-04-04 13:01:12,6900,code.exe,7.2,21.0,Light Web Browsing,0,
+2026-04-04 13:01:14,30632,msedge.exe,0.0,124.2,Light Web Browsing,51,
+2026-04-04 13:01:14,6900,code.exe,0.0,21.7,Light Web Browsing,0,
+2026-04-04 13:01:16,6900,code.exe,0.0,26.6,Light Web Browsing,0,
+2026-04-04 13:01:16,30632,msedge.exe,0.0,12.7,Dev/Download (GitHub),94,lb-140-82-114-26-iad.github.com
+2026-04-04 13:01:18,6900,code.exe,0.0,12.0,Web Browsing (Low traffic),0,
+2026-04-04 13:01:18,30632,msedge.exe,0.0,1.9,Dev/Download (GitHub),99,lb-140-82-114-26-iad.github.com
+2026-04-04 13:01:20,30632,msedge.exe,0.0,11.3,Dev/Download (GitHub),95,lb-140-82-114-26-iad.github.com
+2026-04-04 13:01:20,6900,code.exe,0.0,7.0,Web Browsing (Low traffic),0,
+2026-04-04 13:01:22,30632,msedge.exe,0.0,10.7,Dev/Download (GitHub),95,lb-140-82-114-26-iad.github.com
+2026-04-04 13:01:22,6900,code.exe,0.0,6.3,Web Browsing (Low traffic),0,
+2026-04-04 13:01:24,30632,msedge.exe,0.0,9.7,Dev/Download (GitHub),96,lb-140-82-114-26-iad.github.com
+2026-04-04 13:01:24,6900,code.exe,0.0,5.6,Web Browsing (Low traffic),0,
+2026-04-04 13:01:26,30632,msedge.exe,0.0,9.7,Dev/Download (GitHub),96,lb-140-82-114-26-iad.github.com
+2026-04-04 13:01:28,30632,msedge.exe,1.9,9.9,Dev/Download (GitHub),96,lb-140-82-114-26-iad.github.com
+2026-04-04 13:01:30,38336,code.exe,653.7,2637.9,Download / Rich Streaming,0,
+2026-04-04 13:01:30,30632,msedge.exe,137.7,14.0,Dev/Download (GitHub),94,lb-140-82-114-26-iad.github.com
+2026-04-04 13:01:32,38336,code.exe,382.8,2648.8,Download / Rich Streaming,0,
+2026-04-04 13:01:32,30632,msedge.exe,0.0,102.2,Dev/Download (GitHub),55,lb-140-82-114-26-iad.github.com
+2026-04-04 13:01:32,6900,code.exe,41.2,4.1,Web Browsing (Low traffic),0,
+2026-04-04 13:01:34,38336,code.exe,394.7,2655.5,Download / Rich Streaming,0,
+2026-04-04 13:01:34,30632,msedge.exe,2.6,102.8,Dev/Download (GitHub),51,lb-140-82-114-26-iad.github.com
+2026-04-04 13:01:34,6900,code.exe,7.2,4.8,Dev/Download (GitHub),0,lb-140-82-114-21-iad.github.com
+2026-04-04 13:01:36,38336,code.exe,394.5,2638.4,Download / Rich Streaming,0,
+2026-04-04 13:01:36,30632,msedge.exe,199.9,228.2,Dev/Download (GitHub),0,lb-140-82-114-26-iad.github.com
+2026-04-04 13:01:36,6900,code.exe,0.0,4.8,Dev/Download (GitHub),0,lb-140-82-114-21-iad.github.com
+2026-04-04 13:01:38,38336,code.exe,393.0,2640.1,Download / Rich Streaming,0,
+2026-04-04 13:01:38,30632,msedge.exe,0.0,228.0,Dev/Download (GitHub),0,lb-140-82-114-26-iad.github.com
+2026-04-04 13:01:38,6900,code.exe,0.0,4.8,Dev/Download (GitHub),0,lb-140-82-114-21-iad.github.com
+2026-04-04 13:01:40,38336,code.exe,393.0,459.8,Active Web / Media,0,
+2026-04-04 13:01:40,30632,msedge.exe,0.0,214.3,Dev/Download (GitHub),0,lb-140-82-114-26-iad.github.com
+2026-04-04 13:01:40,6900,code.exe,0.0,4.8,Dev/Download (GitHub),0,lb-140-82-114-21-iad.github.com
+2026-04-04 13:01:42,38336,code.exe,392.8,463.4,Active Web / Media,0,
+2026-04-04 13:01:42,30632,msedge.exe,0.0,139.5,Dev/Download (GitHub),35,lb-140-82-114-26-iad.github.com
+2026-04-04 13:01:44,38336,code.exe,454.5,470.7,Active Web / Media,0,
+2026-04-04 13:01:44,30632,msedge.exe,346.2,250.6,Dev/Download (GitHub),0,lb-140-82-114-26-iad.github.com
+2026-04-04 13:01:46,38336,code.exe,380.9,468.2,Active Web / Media,0,
+2026-04-04 13:01:46,30632,msedge.exe,0.0,139.4,Dev/Download (GitHub),36,lb-140-82-114-26-iad.github.com
+2026-04-04 13:01:48,38336,code.exe,953.9,693.2,Active Web / Media,66,
+2026-04-04 13:01:48,30632,msedge.exe,0.0,156.8,Dev/Download (GitHub),23,lb-140-82-114-26-iad.github.com
+2026-04-04 13:01:50,30632,msedge.exe,0.0,156.8,Dev/Download (GitHub),22,lb-140-82-114-26-iad.github.com
+2026-04-04 13:01:50,6900,code.exe,9.0,4.8,Dev/Download (GitHub),0,lb-140-82-114-21-iad.github.com
+2026-04-04 13:01:52,30632,msedge.exe,7.8,145.5,Dev/Download (GitHub),27,lb-140-82-114-26-iad.github.com
+2026-04-04 13:01:52,6900,code.exe,0.0,4.8,Dev/Download (GitHub),0,lb-140-82-114-21-iad.github.com
+2026-04-04 13:01:54,30632,msedge.exe,0.0,33.9,Dev/Download (GitHub),84,lb-140-82-114-26-iad.github.com
+2026-04-04 13:01:54,6900,code.exe,0.0,4.8,Dev/Download (GitHub),0,lb-140-82-114-21-iad.github.com
+2026-04-04 13:01:56,38336,code.exe,524.0,946.0,Active Web / Media,0,
+2026-04-04 13:01:56,30632,msedge.exe,0.0,19.7,Dev/Download (GitHub),91,lb-140-82-114-26-iad.github.com
+2026-04-04 13:01:56,6900,code.exe,0.0,4.8,Dev/Download (GitHub),0,lb-140-82-114-21-iad.github.com
+2026-04-04 13:01:58,38336,code.exe,388.5,963.3,Active Web / Media,0,
+2026-04-04 13:01:58,6900,code.exe,0.0,4.8,Web Browsing (Low traffic),0,
+2026-04-04 13:01:58,30632,msedge.exe,0.0,2.3,Dev/Download (GitHub),98,lb-140-82-114-26-iad.github.com
+2026-04-04 13:02:00,38336,code.exe,394.5,978.0,Active Web / Media,0,
+2026-04-04 13:02:00,30632,msedge.exe,0.0,2.3,Dev/Download (GitHub),98,lb-140-82-114-26-iad.github.com
+2026-04-04 13:02:02,38336,code.exe,382.5,809.1,Active Web / Media,0,
+2026-04-04 13:02:04,38336,code.exe,363.4,732.1,Active Web / Media,0,
+2026-04-04 13:02:06,38336,code.exe,360.6,489.6,Active Web / Media,0,
+2026-04-04 13:02:08,38336,code.exe,360.6,465.9,Active Web / Media,0,
+2026-04-04 13:02:10,38336,code.exe,360.6,510.6,Active Web / Media,0,
+2026-04-04 13:02:12,38336,code.exe,643.8,675.2,Active Web / Media,0,
+2026-04-04 13:02:12,30632,msedge.exe,136.3,13.9,Dev/Download (GitHub),0,lb-140-82-114-26-iad.github.com
+2026-04-04 13:02:14,38336,code.exe,380.9,674.9,Active Web / Media,15,
+2026-04-04 13:02:14,30632,msedge.exe,1880.5,273.6,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 13:02:14,6900,code.exe,62.7,6.3,Web Browsing (Low traffic),0,
+2026-04-04 13:02:16,30632,msedge.exe,2.6,275.3,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 13:02:16,6900,code.exe,0.0,7.0,Web Browsing (Low traffic),0,
+2026-04-04 13:02:18,30632,msedge.exe,0.0,276.3,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 13:02:18,6900,code.exe,0.0,7.0,Web Browsing (Low traffic),0,
+2026-04-04 13:02:20,30632,msedge.exe,1772.0,488.3,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 13:02:20,6900,code.exe,0.0,7.0,Web Browsing (Low traffic),0,
+2026-04-04 13:02:22,30632,msedge.exe,638.4,552.0,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 13:02:22,6900,code.exe,0.0,7.0,Web Browsing (Low traffic),0,
+2026-04-04 13:02:24,30632,msedge.exe,7173.1,1667.1,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 13:02:24,6900,code.exe,0.0,7.0,Web Browsing (Low traffic),0,
+2026-04-04 13:02:26,30632,msedge.exe,687.6,1650.9,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 13:02:28,30632,msedge.exe,851.6,1821.6,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 13:02:30,30632,msedge.exe,1397.3,3632.7,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 13:02:32,30632,msedge.exe,458.8,3477.2,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 13:02:34,30632,msedge.exe,1143.7,2391.6,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 13:02:36,30632,msedge.exe,7.4,2298.6,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 13:02:38,30632,msedge.exe,0.9,2127.6,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 13:02:40,30632,msedge.exe,1535.4,436.0,Cloud/Download (AWS),78,compute-1.amazonaws.com
+2026-04-04 13:02:40,6900,code.exe,2.4,4.3,Web Browsing (Low traffic),0,
+2026-04-04 13:02:42,30632,msedge.exe,1726.9,523.2,Cloud/Download (AWS),74,compute-1.amazonaws.com
+2026-04-04 13:02:42,6900,code.exe,7.2,5.0,Web Browsing (Low traffic),0,
+2026-04-04 13:02:44,30632,msedge.exe,2192.8,627.5,Cloud/Download (AWS),68,compute-1.amazonaws.com
+2026-04-04 13:02:44,6900,code.exe,0.0,5.0,Web Browsing (Low traffic),0,
+2026-04-04 13:02:46,30632,msedge.exe,0.0,617.1,Cloud/Download (AWS),66,compute-1.amazonaws.com
+2026-04-04 13:02:46,6900,code.exe,0.0,5.0,Web Browsing (Low traffic),0,
+2026-04-04 13:02:48,30632,msedge.exe,137.7,630.1,Cloud/Download (AWS),62,compute-1.amazonaws.com
+2026-04-04 13:02:48,6900,code.exe,0.0,5.0,Web Browsing (Low traffic),0,
+2026-04-04 13:02:50,30632,msedge.exe,0.0,670.6,Cloud/Download (AWS),57,compute-1.amazonaws.com
+2026-04-04 13:02:50,6900,code.exe,41.2,5.1,Web Browsing (Low traffic),0,
+2026-04-04 13:02:52,30632,msedge.exe,4125.5,1005.6,Cloud/Download (AWS),27,compute-1.amazonaws.com
+2026-04-04 13:02:52,6900,code.exe,7.2,5.6,Web Browsing (Low traffic),0,
+2026-04-04 13:02:54,30632,msedge.exe,2058.3,1158.7,Cloud/Download (AWS),8,compute-1.amazonaws.com
+2026-04-04 13:02:54,6900,code.exe,0.0,4.8,Web Browsing (Low traffic),0,
+2026-04-04 13:02:56,30632,msedge.exe,0.0,921.9,Cloud/Download (AWS),33,compute-1.amazonaws.com
+2026-04-04 13:02:56,6900,code.exe,0.0,4.8,Web Browsing (Low traffic),0,
+2026-04-04 13:02:58,30632,msedge.exe,0.9,908.2,Cloud/Download (AWS),32,compute-1.amazonaws.com
+2026-04-04 13:02:58,6900,code.exe,0.0,4.8,Web Browsing (Low traffic),0,
+2026-04-04 13:03:00,30632,msedge.exe,7.8,867.8,Cloud/Download (AWS),33,compute-1.amazonaws.com
+2026-04-04 13:03:02,30632,msedge.exe,108.3,416.1,Cloud/Download (AWS),69,compute-1.amazonaws.com
+2026-04-04 13:03:04,30632,msedge.exe,1231.4,220.2,Cloud/Download (AWS),82,compute-1.amazonaws.com
+2026-04-04 13:03:07,30632,msedge.exe,0.0,167.9,Cloud/Download (AWS),86,compute-1.amazonaws.com
+2026-04-04 13:03:09,30632,msedge.exe,60.3,198.6,Cloud/Download (AWS),84,compute-1.amazonaws.com
+2026-04-04 13:03:11,30632,msedge.exe,736.1,289.9,Cloud/Download (AWS),76,compute-1.amazonaws.com
+2026-04-04 13:03:11,6900,code.exe,40.4,4.0,Web Browsing (Low traffic),0,
+2026-04-04 13:03:13,30632,msedge.exe,248.7,311.9,Cloud/Download (AWS),74,compute-1.amazonaws.com
+2026-04-04 13:03:13,6900,code.exe,0.0,4.8,Web Browsing (Low traffic),0,
+2026-04-04 13:03:15,30632,msedge.exe,54.8,310.5,Cloud/Download (AWS),75,compute-1.amazonaws.com
+2026-04-04 13:03:15,6900,code.exe,0.0,4.8,Web Browsing (Low traffic),0,
+2026-04-04 13:03:17,30632,msedge.exe,284.4,287.3,Cloud/Download (AWS),76,compute-1.amazonaws.com
+2026-04-04 13:03:17,6900,code.exe,0.0,8.9,Web Browsing (Low traffic),0,
+2026-04-04 13:03:19,30632,msedge.exe,0.0,262.5,Cloud/Download (AWS),79,compute-1.amazonaws.com
+2026-04-04 13:03:19,6900,code.exe,0.0,9.6,Web Browsing (Low traffic),0,
+2026-04-04 13:03:21,30632,msedge.exe,0.0,237.9,Cloud/Download (AWS),81,compute-1.amazonaws.com
+2026-04-04 13:03:21,6900,code.exe,0.0,9.6,Web Browsing (Low traffic),0,
+2026-04-04 13:03:23,30632,msedge.exe,367.6,193.0,Cloud/Download (AWS),84,compute-1.amazonaws.com
+2026-04-04 13:03:23,6900,code.exe,0.0,4.8,Web Browsing (Low traffic),0,
+2026-04-04 13:03:25,30632,msedge.exe,717.8,234.7,Cloud/Download (AWS),81,compute-1.amazonaws.com
+2026-04-04 13:03:25,6900,code.exe,0.0,4.8,Web Browsing (Low traffic),0,
+2026-04-04 13:03:27,30632,msedge.exe,0.0,134.7,Cloud/Download (AWS),89,compute-1.amazonaws.com
+2026-04-04 13:03:29,30632,msedge.exe,161.2,156.6,Cloud/Download (AWS),87,compute-1.amazonaws.com
+2026-04-04 13:03:31,30632,msedge.exe,132.6,182.6,Cloud/Download (AWS),85,compute-1.amazonaws.com
+2026-04-04 13:03:33,30632,msedge.exe,3.6,120.4,Cloud/Download (AWS),90,compute-1.amazonaws.com
+2026-04-04 13:03:35,30632,msedge.exe,715.1,149.1,Cloud/Download (AWS),88,compute-1.amazonaws.com
+2026-04-04 13:03:37,30632,msedge.exe,0.0,154.9,Cloud/Download (AWS),87,compute-1.amazonaws.com
+2026-04-04 13:03:39,30632,msedge.exe,246.3,173.8,Cloud/Download (AWS),86,compute-1.amazonaws.com
+2026-04-04 13:03:41,30632,msedge.exe,0.0,211.4,Cloud/Download (AWS),83,compute-1.amazonaws.com
+2026-04-04 13:03:43,30632,msedge.exe,103.4,274.5,Cloud/Download (AWS),78,compute-1.amazonaws.com
+2026-04-04 13:03:43,6900,code.exe,100.6,10.2,Web Browsing (Low traffic),0,
+2026-04-04 13:03:45,30632,msedge.exe,850.5,329.8,Cloud/Download (AWS),73,compute-1.amazonaws.com
+2026-04-04 13:03:45,6900,code.exe,0.0,10.2,Web Browsing (Low traffic),0,
+2026-04-04 13:03:47,30632,msedge.exe,68.9,283.6,Cloud/Download (AWS),77,compute-1.amazonaws.com
+2026-04-04 13:03:47,6900,code.exe,0.0,16.3,Web Browsing (Low traffic),0,
+2026-04-04 13:03:49,30632,msedge.exe,462.0,315.5,Cloud/Download (AWS),74,compute-1.amazonaws.com
+2026-04-04 13:03:49,6900,code.exe,0.0,16.1,Web Browsing (Low traffic),0,
+2026-04-04 13:03:51,30632,msedge.exe,0.0,348.3,Cloud/Download (AWS),71,compute-1.amazonaws.com
+2026-04-04 13:03:51,6900,code.exe,0.0,16.1,Web Browsing (Low traffic),0,
+2026-04-04 13:03:53,30632,msedge.exe,106.0,283.3,Cloud/Download (AWS),77,compute-1.amazonaws.com
+2026-04-04 13:03:53,6900,code.exe,7.2,6.8,Web Browsing (Low traffic),0,
+2026-04-04 13:03:55,30632,msedge.exe,1174.1,316.7,Cloud/Download (AWS),74,compute-1.amazonaws.com
+2026-04-04 13:03:55,6900,code.exe,0.0,6.8,Web Browsing (Low traffic),0,
+2026-04-04 13:03:57,30632,msedge.exe,603.1,369.1,Cloud/Download (AWS),69,compute-1.amazonaws.com
+2026-04-04 13:03:59,30632,msedge.exe,0.0,322.1,Cloud/Download (AWS),71,compute-1.amazonaws.com
+2026-04-04 13:04:01,30632,msedge.exe,0.0,222.7,Cloud/Download (AWS),80,compute-1.amazonaws.com
+2026-04-04 13:04:03,30632,msedge.exe,372.5,314.2,Cloud/Download (AWS),72,compute-1.amazonaws.com
+2026-04-04 13:04:05,30632,msedge.exe,1367.4,449.9,Cloud/Download (AWS),59,compute-1.amazonaws.com
+2026-04-04 13:04:07,30632,msedge.exe,403.9,350.0,Cloud/Download (AWS),66,compute-1.amazonaws.com
+2026-04-04 13:04:09,30632,msedge.exe,0.0,280.9,Cloud/Download (AWS),71,compute-1.amazonaws.com
+2026-04-04 13:04:11,30632,msedge.exe,67.5,288.2,Cloud/Download (AWS),70,compute-1.amazonaws.com
+2026-04-04 13:04:13,30632,msedge.exe,314.7,315.2,Cloud/Download (AWS),67,compute-1.amazonaws.com
+2026-04-04 13:04:15,30632,msedge.exe,1248.8,266.1,Cloud/Download (AWS),70,compute-1.amazonaws.com
+2026-04-04 13:04:15,6900,code.exe,41.2,4.1,Web Browsing (Low traffic),0,
+2026-04-04 13:04:17,30632,msedge.exe,58.8,232.2,Cloud/Download (AWS),74,compute-1.amazonaws.com
+2026-04-04 13:04:17,6900,code.exe,0.0,4.1,Web Browsing (Low traffic),0,
+2026-04-04 13:04:19,30632,msedge.exe,0.0,265.9,Cloud/Download (AWS),70,compute-1.amazonaws.com
+2026-04-04 13:04:19,6900,code.exe,3.5,5.2,Web Browsing (Low traffic),0,
+2026-04-04 13:04:21,30632,msedge.exe,58.8,264.5,Cloud/Download (AWS),70,compute-1.amazonaws.com
+2026-04-04 13:04:21,6900,code.exe,0.0,5.2,Web Browsing (Low traffic),0,
+2026-04-04 13:04:23,30632,msedge.exe,0.0,224.1,Cloud/Download (AWS),75,compute-1.amazonaws.com
+2026-04-04 13:04:23,6900,code.exe,0.0,5.2,Web Browsing (Low traffic),0,
+2026-04-04 13:04:25,30632,msedge.exe,135.4,184.2,Cloud/Download (AWS),79,compute-1.amazonaws.com
+2026-04-04 13:04:25,6900,code.exe,0.0,1.1,Web Browsing (Low traffic),0,
+2026-04-04 13:04:27,30632,msedge.exe,58.8,189.3,Cloud/Download (AWS),79,compute-1.amazonaws.com
+2026-04-04 13:04:27,6900,code.exe,0.0,1.1,Web Browsing (Low traffic),0,
+2026-04-04 13:04:29,30632,msedge.exe,0.0,149.0,Cloud/Download (AWS),83,compute-1.amazonaws.com
+2026-04-04 13:04:31,30632,msedge.exe,0.0,297.2,Cloud/Download (AWS),66,compute-1.amazonaws.com
+2026-04-04 13:04:33,30632,msedge.exe,759.6,315.9,Cloud/Download (AWS),61,compute-1.amazonaws.com
+2026-04-04 13:04:35,30632,msedge.exe,722.0,317.3,Cloud/Download (AWS),58,compute-1.amazonaws.com
+2026-04-04 13:04:35,6900,code.exe,41.3,4.1,Web Browsing (Low traffic),0,
+2026-04-04 13:04:37,30632,msedge.exe,0.0,297.9,Cloud/Download (AWS),58,compute-1.amazonaws.com
+2026-04-04 13:04:37,6900,code.exe,0.0,4.1,Web Browsing (Low traffic),0,
+2026-04-04 13:04:39,30632,msedge.exe,273.2,325.2,Cloud/Download (AWS),51,compute-1.amazonaws.com
+2026-04-04 13:04:39,6900,code.exe,8.1,4.9,Web Browsing (Low traffic),0,
+2026-04-04 13:04:41,30632,msedge.exe,390.3,1310.1,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 13:04:41,6900,code.exe,0.0,4.9,Web Browsing (Low traffic),0,
+2026-04-04 13:04:43,30632,msedge.exe,1017.3,1371.3,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 13:04:43,6900,code.exe,0.0,4.9,Web Browsing (Low traffic),0,
+2026-04-04 13:04:45,30632,msedge.exe,424.2,1585.2,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 13:04:47,30632,msedge.exe,1632.6,1759.4,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 13:04:49,30632,msedge.exe,497.8,1813.4,Cloud/Download (AWS),0,compute-1.amazonaws.com
+2026-04-04 13:04:51,30632,msedge.exe,0.0,719.3,Cloud/Download (AWS),40,compute-1.amazonaws.com

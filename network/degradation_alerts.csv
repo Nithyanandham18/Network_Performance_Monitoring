@@ -1,1 +1,16 @@
 timestamp,pid,process,app_class,severity,current_kbps,baseline_kbps,degraded_secs,reason
+2026-04-04 10:56:49,30632,msedge.exe,Web/Other,96,89.8,1905.9,20,Web/Other dropped 95% below baseline (90 kbps avg vs 1906 kbps normal) sustained for 20 checks
+2026-04-04 10:57:09,30632,msedge.exe,Web/Other,91,230.9,1905.9,30,Web/Other dropped 87% below baseline (231 kbps avg vs 1906 kbps normal) sustained for 30 checks
+2026-04-04 10:57:39,30632,msedge.exe,Web/Other,89,281.1,1905.9,45,Web/Other dropped 85% below baseline (281 kbps avg vs 1906 kbps normal) sustained for 45 checks
+2026-04-04 10:58:21,36140,code.exe,Large File Download,86,496.3,2649.6,10,Large File Download dropped 81% below baseline (496 kbps avg vs 2650 kbps normal) sustained for 10 checks
+2026-04-04 10:58:31,36140,code.exe,Large File Download,77,812.5,2649.6,15,Large File Download dropped 69% below baseline (812 kbps avg vs 2650 kbps normal) sustained for 15 checks
+2026-04-04 10:59:01,36140,code.exe,Large File Download,76,845.3,2649.6,30,Large File Download dropped 68% below baseline (845 kbps avg vs 2650 kbps normal) sustained for 30 checks
+2026-04-04 12:39:28,38336,code.exe,Large File Download,96,462.0,8404.5,10,Large File Download dropped 94% below baseline (462 kbps avg vs 8404 kbps normal) sustained for 10 checks
+2026-04-04 12:39:38,38336,code.exe,Large File Download,96,472.6,8404.5,15,Large File Download dropped 94% below baseline (473 kbps avg vs 8404 kbps normal) sustained for 15 checks
+2026-04-04 12:40:57,38336,code.exe,Large File Download,86,406.0,2237.9,10,Large File Download dropped 81% below baseline (406 kbps avg vs 2238 kbps normal) sustained for 10 checks
+2026-04-04 12:41:07,38336,code.exe,Large File Download,86,433.3,2237.9,15,Large File Download dropped 80% below baseline (433 kbps avg vs 2238 kbps normal) sustained for 15 checks
+2026-04-04 12:54:20,30632,msedge.exe,Download,87,179.0,1044.7,20,Download dropped 82% below baseline (179 kbps avg vs 1045 kbps normal) sustained for 20 checks
+2026-04-04 12:54:40,30632,msedge.exe,Download,93,101.3,1044.7,30,Download dropped 90% below baseline (101 kbps avg vs 1045 kbps normal) sustained for 30 checks
+2026-04-04 12:56:44,30632,msedge.exe,Download,96,154.6,3023.7,10,Download dropped 94% below baseline (155 kbps avg vs 3024 kbps normal) sustained for 10 checks
+2026-04-04 13:00:50,38336,code.exe,Large File Download,87,443.9,2505.3,10,Large File Download dropped 82% below baseline (444 kbps avg vs 2505 kbps normal) sustained for 10 checks
+2026-04-04 13:03:43,30632,msedge.exe,Download,78,274.5,921.9,20,Download dropped 70% below baseline (274 kbps avg vs 922 kbps normal) sustained for 20 checks

@@ -25,23 +25,24 @@ class SignalSnapshot:
     collected_at:     float  = field(default_factory=time.time)
 
 class SignalCollector:
-    RTT_HIGH_MULTIPLIER  = 3.0    
-    RTT_SUSTAINED_SECS   = 30     
-    RETRANSMIT_THRESHOLD = 5.0    
-    DNS_SLOW_MS          = 2000   
-    WIFI_WEAK_THRESHOLD  = 50     
-    CPU_HIGH_THRESHOLD   = 85     
-    EWMA_ALPHA           = 0.1    
-    COLLECT_INTERVAL     = 5      
+    RTT_HIGH_MULTIPLIER  = 3.0
+    RTT_SUSTAINED_SECS   = 30
+    RETRANSMIT_THRESHOLD = 2.0   # lowered from 5.0 — 2/s is realistic under packet loss
+    DNS_SLOW_MS          = 2000
+    WIFI_WEAK_THRESHOLD  = 50
+    CPU_HIGH_THRESHOLD   = 85
+    EWMA_ALPHA           = 0.1
+    COLLECT_INTERVAL     = 2     # match REFRESH_INTERVAL so snapshot is never stale
 
     def __init__(self, target_ip: str = "8.8.8.8", dns_test_host: str = "google.com"):
         self.target_ip      = target_ip
         self.dns_test_host  = dns_test_host
         self._lock          = threading.Lock()
         self._snapshot      = SignalSnapshot()
-        self._rtt_baseline  = -1.0        
-        self._rtt_history   = []          
-        self._rtt_high_secs = 0           
+        self._rtt_baseline  = -1.0
+        self._rtt_history   = []
+        self._rtt_high_secs = 0
+        self._rtt_normal_streak = 0   # consecutive normal readings before reset
         self._last_retrans  = -1          
 
     def start(self):
@@ -103,8 +104,15 @@ class SignalCollector:
         return rtt_ms > baseline_ms * self.RTT_HIGH_MULTIPLIER
 
     def _check_rtt_sustained(self, rtt_jump: bool) -> bool:
-        if rtt_jump: self._rtt_high_secs += self.COLLECT_INTERVAL
-        else: self._rtt_high_secs = 0
+        if rtt_jump:
+            self._rtt_high_secs += self.COLLECT_INTERVAL
+            self._rtt_normal_streak = 0
+        else:
+            self._rtt_normal_streak += 1
+            # Only reset after 2 consecutive normal readings
+            # This prevents a single good ping from clearing a route change
+            if self._rtt_normal_streak >= 2:
+                self._rtt_high_secs = 0
         return self._rtt_high_secs >= self.RTT_SUSTAINED_SECS
 
     def _measure_retransmissions(self) -> float:
@@ -128,7 +136,10 @@ class SignalCollector:
             start = time.perf_counter()
             socket.getaddrinfo(self.dns_test_host, 80)
             return round((time.perf_counter() - start) * 1000, 1)
-        except Exception: return -1.0
+        except Exception:
+            # If DNS is completely blocked (e.g. port 53 dropped), getaddrinfo
+            # raises an exception after the OS timeout — treat as maximum slowness
+            return 9999.0
 
     def _measure_wifi(self) -> int:
         try:
