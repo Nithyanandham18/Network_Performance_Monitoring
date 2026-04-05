@@ -97,7 +97,25 @@ def _diagnose_gaming(snap: SignalSnapshot, alert: Alert) -> tuple:
         evidence.append(f"RTT normal ({snap.rtt_ms:.0f}ms), no packet loss, no jitter")
         evidence.append("All local signals healthy — issue likely on game server side")
         return CAUSE_SERVER_THROTTLE, 55, evidence, "Check game server status page"
-    return CAUSE_UNKNOWN, 30, ["Insufficient signal data"], "Verify network manually"
+    if snap.rtt_sustained_high:
+        evidence.append(f"RTT sustained high: {snap.rtt_ms:.0f}ms vs {snap.rtt_baseline_ms:.0f}ms baseline")
+        return CAUSE_ROUTE_CHANGE, 60, evidence, "Try pausing and resuming the download"
+        
+    # --- ADD THIS MISSING BLOCK ---
+    if snap.rtt_jump:
+        evidence.append(f"RTT jumped to {snap.rtt_ms:.0f}ms (baseline {snap.rtt_baseline_ms:.0f}ms)")
+        evidence.append("High RTT slows TCP window — download segments arrive too slowly")
+        return CAUSE_BUFFERBLOAT, 65, evidence, "Limit concurrent downloads to reduce congestion"
+
+    if _network_looks_healthy(snap):
+        drop_pct = int((1 - alert.current_kbps / max(alert.baseline_kbps, 1)) * 100)
+        evidence.append(f"Speed dropped {drop_pct}% below baseline")
+        evidence.append("No packet loss, normal RTT, DNS healthy")
+        evidence.append("ISPs commonly throttle large sustained downloads")
+        return CAUSE_SERVER_THROTTLE, 65, evidence, "Try download at off-peak hours or use a VPN"
+        
+    # --- REPLACE THE OLD RETURN CAUSE_UNKNOWN WITH THIS ---
+    return _diagnose_fallback(snap)
 
 def _diagnose_video_streaming(snap: SignalSnapshot, alert: Alert) -> tuple:
     evidence = []
@@ -128,7 +146,25 @@ def _diagnose_video_streaming(snap: SignalSnapshot, alert: Alert) -> tuple:
         evidence.append(f"Network healthy — speed dropped {100 - int(alert.current_kbps/max(alert.baseline_kbps,1)*100)}% below baseline")
         evidence.append("CDN or ISP may be throttling this stream")
         return CAUSE_SERVER_THROTTLE, 60, evidence, "Try a VPN to confirm throttling"
-    return CAUSE_UNKNOWN, 30, ["Insufficient signal data"], "Check network connection manually"
+    if snap.rtt_sustained_high:
+        evidence.append(f"RTT sustained high: {snap.rtt_ms:.0f}ms vs {snap.rtt_baseline_ms:.0f}ms baseline")
+        return CAUSE_ROUTE_CHANGE, 60, evidence, "Try pausing and resuming the download"
+        
+    # --- ADD THIS MISSING BLOCK ---
+    if snap.rtt_jump:
+        evidence.append(f"RTT jumped to {snap.rtt_ms:.0f}ms (baseline {snap.rtt_baseline_ms:.0f}ms)")
+        evidence.append("High RTT slows TCP window — download segments arrive too slowly")
+        return CAUSE_BUFFERBLOAT, 65, evidence, "Limit concurrent downloads to reduce congestion"
+
+    if _network_looks_healthy(snap):
+        drop_pct = int((1 - alert.current_kbps / max(alert.baseline_kbps, 1)) * 100)
+        evidence.append(f"Speed dropped {drop_pct}% below baseline")
+        evidence.append("No packet loss, normal RTT, DNS healthy")
+        evidence.append("ISPs commonly throttle large sustained downloads")
+        return CAUSE_SERVER_THROTTLE, 65, evidence, "Try download at off-peak hours or use a VPN"
+        
+    # --- REPLACE THE OLD RETURN CAUSE_UNKNOWN WITH THIS ---
+    return _diagnose_fallback(snap)
 
 def _diagnose_download(snap: SignalSnapshot, alert: Alert) -> tuple:
     evidence = []
@@ -145,13 +181,22 @@ def _diagnose_download(snap: SignalSnapshot, alert: Alert) -> tuple:
     if snap.rtt_sustained_high:
         evidence.append(f"RTT sustained high: {snap.rtt_ms:.0f}ms vs {snap.rtt_baseline_ms:.0f}ms baseline")
         return CAUSE_ROUTE_CHANGE, 60, evidence, "Try pausing and resuming the download"
+        
+    # --- ADD THIS MISSING BLOCK ---
+    if snap.rtt_jump:
+        evidence.append(f"RTT jumped to {snap.rtt_ms:.0f}ms (baseline {snap.rtt_baseline_ms:.0f}ms)")
+        evidence.append("High RTT slows TCP window — download segments arrive too slowly")
+        return CAUSE_BUFFERBLOAT, 65, evidence, "Limit concurrent downloads to reduce congestion"
+
     if _network_looks_healthy(snap):
         drop_pct = int((1 - alert.current_kbps / max(alert.baseline_kbps, 1)) * 100)
         evidence.append(f"Speed dropped {drop_pct}% below baseline")
         evidence.append("No packet loss, normal RTT, DNS healthy")
         evidence.append("ISPs commonly throttle large sustained downloads")
         return CAUSE_SERVER_THROTTLE, 65, evidence, "Try download at off-peak hours or use a VPN"
-    return CAUSE_UNKNOWN, 30, ["Insufficient signal data"], "Check download source server status"
+        
+    # --- REPLACE THE OLD RETURN CAUSE_UNKNOWN WITH THIS ---
+    return _diagnose_fallback(snap)
 
 def _diagnose_default(snap: SignalSnapshot, alert: Alert) -> tuple:
     evidence = []
@@ -177,7 +222,25 @@ def _diagnose_default(snap: SignalSnapshot, alert: Alert) -> tuple:
     if _network_looks_healthy(snap):
         evidence.append("All network signals normal")
         return CAUSE_SERVER_THROTTLE, 50, evidence, "Check service status page"
-    return CAUSE_UNKNOWN, 25, ["Signals incomplete"], "Check internet connection manually"
+    if snap.rtt_sustained_high:
+        evidence.append(f"RTT sustained high: {snap.rtt_ms:.0f}ms vs {snap.rtt_baseline_ms:.0f}ms baseline")
+        return CAUSE_ROUTE_CHANGE, 60, evidence, "Try pausing and resuming the download"
+        
+    # --- ADD THIS MISSING BLOCK ---
+    if snap.rtt_jump:
+        evidence.append(f"RTT jumped to {snap.rtt_ms:.0f}ms (baseline {snap.rtt_baseline_ms:.0f}ms)")
+        evidence.append("High RTT slows TCP window — download segments arrive too slowly")
+        return CAUSE_BUFFERBLOAT, 65, evidence, "Limit concurrent downloads to reduce congestion"
+
+    if _network_looks_healthy(snap):
+        drop_pct = int((1 - alert.current_kbps / max(alert.baseline_kbps, 1)) * 100)
+        evidence.append(f"Speed dropped {drop_pct}% below baseline")
+        evidence.append("No packet loss, normal RTT, DNS healthy")
+        evidence.append("ISPs commonly throttle large sustained downloads")
+        return CAUSE_SERVER_THROTTLE, 65, evidence, "Try download at off-peak hours or use a VPN"
+        
+    # --- REPLACE THE OLD RETURN CAUSE_UNKNOWN WITH THIS ---
+    return _diagnose_fallback(snap)
 
 def _route_to_tree(app_class: str):
     ac = app_class.lower()
@@ -186,6 +249,24 @@ def _route_to_tree(app_class: str):
     if "video"     in ac: return _diagnose_video_streaming
     if "download"  in ac: return _diagnose_download
     return _diagnose_default
+
+def _diagnose_fallback(snap: SignalSnapshot) -> tuple:
+    """Catches signals that made the network 'unhealthy' but missed strict tree thresholds."""
+    evidence = []
+    
+    if snap.wifi_weak:
+        evidence.append(f"Wi-Fi signal is weak ({snap.wifi_signal_pct}%)")
+        return CAUSE_WIFI_INTERFERENCE, 60, evidence, "Move closer to the router"
+        
+    if snap.rtt_ms >= 100:
+        evidence.append(f"Latency is elevated ({snap.rtt_ms:.0f}ms) causing TCP delays")
+        return CAUSE_BUFFERBLOAT, 55, evidence, "Network may be congested"
+        
+    if snap.retransmit_rate > 0:
+        evidence.append(f"Minor packet loss detected ({snap.retransmit_rate:.1f}/s)")
+        return CAUSE_ISP_PACKET_LOSS, 50, evidence, "Monitor for worsening packet loss"
+        
+    return CAUSE_UNKNOWN, 30, ["Insufficient signal data (Signals missing or neutral)"], "Check network connection manually"
 
 class RootCauseEngine:
     CAUSE_CSV = "root_cause_log.csv"

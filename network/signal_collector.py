@@ -27,7 +27,7 @@ class SignalSnapshot:
 class SignalCollector:
     RTT_HIGH_MULTIPLIER  = 3.0
     RTT_SUSTAINED_SECS   = 30
-    RETRANSMIT_THRESHOLD = 2.0   # lowered from 5.0 — 2/s is realistic under packet loss
+    RETRANSMIT_THRESHOLD = 0.5   # lowered from 5.0 — 2/s is realistic under packet loss
     DNS_SLOW_MS          = 2000
     WIFI_WEAK_THRESHOLD  = 50
     CPU_HIGH_THRESHOLD   = 85
