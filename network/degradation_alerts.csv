@@ -388,3 +388,6 @@ timestamp,pid,process,app_class,severity,current_kbps,baseline_kbps,degraded_sec
 2026-04-05 10:16:39,15176,omencommandcenterbackground.exe,Web/Other,81,56.9,223.2,20,Web/Other dropped 74% below baseline (57 kbps avg vs 223 kbps normal) sustained for 20 checks
 2026-04-05 10:16:45,15304,msedge.exe,Web/Other,96,203.2,3922.7,75,Web/Other dropped 94% below baseline (203 kbps avg vs 3923 kbps normal) sustained for 75 checks
 2026-04-05 10:16:45,26208,python.exe,Web/Other,95,3.5,59.8,360,Web/Other dropped 94% below baseline (3 kbps avg vs 60 kbps normal) sustained for 360 checks
+2026-04-05 10:16:59,15176,omencommandcenterbackground.exe,Web/Other,81,56.5,223.2,30,Web/Other dropped 74% below baseline (57 kbps avg vs 223 kbps normal) sustained for 30 checks
+2026-04-05 10:17:15,15304,msedge.exe,Web/Other,97,137.0,3922.7,90,Web/Other dropped 96% below baseline (137 kbps avg vs 3923 kbps normal) sustained for 90 checks
+2026-04-05 10:17:15,26208,python.exe,Web/Other,96,2.7,59.8,375,Web/Other dropped 95% below baseline (3 kbps avg vs 60 kbps normal) sustained for 375 checks

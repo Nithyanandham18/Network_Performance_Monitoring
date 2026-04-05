@@ -106,3 +106,6 @@ timestamp,pid,process,app_class,severity,cause,confidence,secondary_cause,eviden
 2026-04-05 10:16:39,15176,omencommandcenterbackground.exe,Web/Other,81,Server-side throttling,50,,All network signals normal,Check service status page,1.0,0.0,1.8,False,False,0.0,0.6,99,9.4
 2026-04-05 10:16:45,15304,msedge.exe,Web/Other,96,Server-side throttling,50,,All network signals normal,Check service status page,1.0,0.0,1.7,False,False,0.0,0.3,99,9.5
 2026-04-05 10:16:45,26208,python.exe,Web/Other,95,Server-side throttling,50,,All network signals normal,Check service status page,1.0,0.0,1.7,False,False,0.0,0.3,99,9.5
+2026-04-05 10:16:59,15176,omencommandcenterbackground.exe,Web/Other,81,Server-side throttling,50,,All network signals normal,Check service status page,1.0,0.0,1.6,False,False,0.0,38.4,99,12.9
+2026-04-05 10:17:15,15304,msedge.exe,Web/Other,97,Server-side throttling,50,,All network signals normal,Check service status page,1.0,0.0,1.6,False,False,0.0,0.5,99,9.8
+2026-04-05 10:17:15,26208,python.exe,Web/Other,96,Server-side throttling,50,,All network signals normal,Check service status page,1.0,0.0,1.6,False,False,0.0,0.5,99,9.8
