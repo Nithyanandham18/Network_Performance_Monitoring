@@ -33,6 +33,12 @@ from degradation_engine import DegradationEngine, Alert
 from signal_collector import SignalCollector
 from root_cause_engine import RootCauseEngine, RootCause
 
+try:
+    from database import db_write_classifier_row, db_write_alert, db_write_rootcause
+    _DB_AVAILABLE = True
+except ImportError:
+    _DB_AVAILABLE = False
+
 console = Console()
 
 REFRESH_INTERVAL = 2          # seconds between detection cycles
@@ -281,6 +287,14 @@ def snapshot_and_detect():
                 snap       = collector.snapshot
                 root_cause = rce.analyse(alert, snap)
 
+                # Persist alert & root cause to SQL DB
+                if _DB_AVAILABLE:
+                    try:
+                        db_write_alert(alert)
+                        db_write_rootcause(root_cause)
+                    except Exception:
+                        pass
+
                 with lock:
                     recent_alerts.appendleft(alert)
                     recent_rootcauses.appendleft(root_cause)
@@ -310,6 +324,13 @@ def snapshot_and_detect():
 
         if rows:
             write_csv(rows)
+            # Also persist to SQL database
+            if _DB_AVAILABLE:
+                for r in rows:
+                    try:
+                        db_write_classifier_row(r)
+                    except Exception:
+                        pass
 
 # ── Display helpers ───────────────────────────────────────────────────────────
 def severity_style(score: int):
